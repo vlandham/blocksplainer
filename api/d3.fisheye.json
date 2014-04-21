@@ -1,0 +1,189 @@
+{
+  "api": "d3.fisheye",
+  "blocks": {
+    "2962761": {
+      "userId": "mbostock",
+      "description": "Fisheye Grid",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2962761/raw/18176c81d745a727b09024c2477dd2b646c7340b/thumbnail.png"
+    },
+    "2962888": {
+      "userId": "mbostock",
+      "description": "Rectilinear Grid",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2962888/raw/5fbd3876ce05fc4fb10b5f6349280a684269f0c3/thumbnail.png"
+    },
+    "3290263": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290313": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290392": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates, 146 Dimensions",
+      "thumbnail": ""
+    },
+    "3309282": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3949400": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4102616": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4102812": {
+      "userId": "enjalot",
+      "description": "fisheye",
+      "thumbnail": ""
+    },
+    "4103031": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103915": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103921": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103929": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103932": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103938": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103963": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4104003": {
+      "userId": "enjalot",
+      "description": "watching",
+      "thumbnail": ""
+    },
+    "4150164": {
+      "userId": "enjalot",
+      "description": "calendar",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "6198366": {
+      "userId": "enjalot",
+      "description": "fisheye grid",
+      "thumbnail": ""
+    },
+    "6198373": {
+      "userId": "enjalot",
+      "description": "fisheye grid",
+      "thumbnail": ""
+    },
+    "6473448": {
+      "userId": "enjalot",
+      "description": "fisheye",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "9666146": {
+      "userId": "gelicia",
+      "description": "fisheyeplay",
+      "thumbnail": ""
+    }
+  },
+  "count": 24,
+  "coocurance": {
+    "d3.extent": 6,
+    "d3.rebind": 6,
+    "d3.select": 24,
+    "d3.selectAll": 4,
+    "d3.event": 4,
+    "d3.mouse": 24,
+    "d3.timer": 4,
+    "d3.min": 5,
+    "d3.max": 5,
+    "d3.keys": 3,
+    "d3.csv": 3,
+    "d3.csv.format": 2,
+    "d3.scale": 9,
+    "d3.scale.linear": 6,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 8,
+    "d3.svg": 8,
+    "d3.svg.line": 7,
+    "d3.svg.axis": 5,
+    "d3.svg.brush": 6,
+    "d3.time": 6,
+    "d3.behavior": 5,
+    "d3.behavior.drag": 5,
+    "d3.fisheye": 23,
+    "d3.range": 19,
+    "d3.scale.category": 3,
+    "d3.time.format": 1,
+    "d3.time.scale": 2,
+    "d3.time.day": 1,
+    "d3.time.days": 1,
+    "d3.time.month": 3,
+    "d3.time.months": 1,
+    "d3.scale.sqrt": 1,
+    "d3.format": 2,
+    "d3.selection": 1,
+    "d3.transition": 2,
+    "d3.timer.flush": 2,
+    "d3.interpolate": 2,
+    "d3.descending": 2,
+    "d3.bisect": 1,
+    "d3.bisector": 1,
+    "d3.merge": 2,
+    "d3.map": 1,
+    "d3.html": 2,
+    "d3.rgb": 2,
+    "d3.functor": 2,
+    "d3.dispatch": 2,
+    "d3.svg.area": 2,
+    "d3.svg.arc": 2,
+    "d3.svg.symbol": 2,
+    "d3.layout": 2,
+    "d3.layout.pie": 2,
+    "d3.layout.stack": 2,
+    "d3.layout.tree": 2,
+    "d3.geo": 2,
+    "d3.geom": 2,
+    "d3.geom.voronoi": 2,
+    "d3.geom.polygon": 2,
+    "d3.sum": 1,
+    "d3.nest": 1,
+    "d3.geo.path": 1
+  }
+}

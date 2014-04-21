@@ -1,0 +1,846 @@
+{
+  "api": "d3.geom",
+  "blocks": {
+    "913077": {
+      "userId": "mbostock",
+      "description": null,
+      "thumbnail": ""
+    },
+    "996370": {
+      "userId": "mbostock",
+      "description": "Force Layout from List",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/996370/raw/146c4a1c31215683ec028d0be5cded20b17b767f/thumbnail.png"
+    },
+    "1073373": {
+      "userId": "mbostock",
+      "description": "Force-Directed States of America",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1073373/raw/59c2ea59d1a6a204571ab065fd1182e90ecd876c/thumbnail.png"
+    },
+    "1080941": {
+      "userId": "mbostock",
+      "description": "Force-Directed Layout from XML",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1080941/raw/8d3ac5cb2fbc4ded8dec036da442266003af38fe/thumbnail.png"
+    },
+    "1129492": {
+      "userId": "mbostock",
+      "description": "Bounded Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1129492/raw/432d5a7a76219b8cec41f74bb94a7e930636088e/thumbnail.png"
+    },
+    "1138500": {
+      "userId": "mbostock",
+      "description": "Force-Directed Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1138500/raw/f46c81b0c8ae06a6928bb4f8a5fc9da02bcf0225/thumbnail.png"
+    },
+    "1169680": {
+      "userId": "mbostock",
+      "description": "Dots",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1169680/raw/7f2026ae591a841809be3615a59fe6ae97870ac9/thumbnail.png"
+    },
+    "1199811": {
+      "userId": "mbostock",
+      "description": "Force Layout from Adjacency List",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1199811/raw/04ad7dec9143c8dd4bf84d8ef79e6add6ef355bd/thumbnail.png"
+    },
+    "1203641": {
+      "userId": "enjalot",
+      "description": "Simple Pie Chart example with D3.js",
+      "thumbnail": ""
+    },
+    "1212197": {
+      "userId": "mbostock",
+      "description": "Force Layout with Tooltips",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1212197/raw/4c8bcbe989e78f3b5f69aa1ebb32127753583feb/thumbnail.png"
+    },
+    "1212215": {
+      "userId": "mbostock",
+      "description": "Force Layout with Mouseover Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1212215/raw/4a66952910c8a9693daf8c390b1e71778090fb5d/thumbnail.png"
+    },
+    "1218567": {
+      "userId": "enjalot",
+      "description": "[d3cast] Simple Bar Chart example with d3.js",
+      "thumbnail": ""
+    },
+    "1225877": {
+      "userId": "enjalot",
+      "description": "Broken arc.centroid calculation",
+      "thumbnail": ""
+    },
+    "1249681": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1249681/raw/6f3e466589c104e8c4a97d65d1fa24bcedad807e/thumbnail.png"
+    },
+    "1291084": {
+      "userId": "jasondavies",
+      "description": "Force Layout with fixed Mouseover Labels",
+      "thumbnail": ""
+    },
+    "1554783": {
+      "userId": "jasondavies",
+      "description": "alpha-shapes aka concave hulls in d3",
+      "thumbnail": ""
+    },
+    "1625629": {
+      "userId": "christophermanning",
+      "description": "Chicago Lobbyists Force-Directed Graph Visualization",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1625629/raw/82df81ab2e047b71a953088f36800ec80c9e1018/thumbnail.png"
+    },
+    "1706523": {
+      "userId": "zjonsson",
+      "description": "Newton's cradle",
+      "thumbnail": ""
+    },
+    "1706849": {
+      "userId": "zjonsson",
+      "description": "Newton's balls",
+      "thumbnail": ""
+    },
+    "1734663": {
+      "userId": "christophermanning",
+      "description": "Voronoi Diagram with Force Directed Nodes and Delaunay Links",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1734663/raw/991c632cfc8b75d9175a079f240112d1f311fed9/thumbnail.png"
+    },
+    "1747543": {
+      "userId": "mbostock",
+      "description": "Clustered Force Layout I",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1747543/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png"
+    },
+    "1748247": {
+      "userId": "mbostock",
+      "description": "Clustered Force Layout II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1748247/raw/ac89cb04f3604f40087333a7a4c9aa8b27aa3a38/thumbnail.png"
+    },
+    "1804889": {
+      "userId": "mbostock",
+      "description": "Force Layout Multiples (Independent)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1804889/raw/f53ac5207e9f548252d4bfbb6126f63ec7a982f3/thumbnail.png"
+    },
+    "1804919": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1804919/raw/c2073310cf1ee4ad3399bc331b94656cf5e461dc/thumbnail.png"
+    },
+    "1893974": {
+      "userId": "mbostock",
+      "description": "Mitchell’s Best-Candidate",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1893974/raw/9d7fc23e3bd6f0cf6ee9a51303bdea268324d52d/thumbnail.png"
+    },
+    "2048144": {
+      "userId": "syntagmatic",
+      "description": "Clustered Force Layout",
+      "thumbnail": ""
+    },
+    "2125175": {
+      "userId": "vlandham",
+      "description": "Force Layout with Multiple Foci",
+      "thumbnail": ""
+    },
+    "2297029": {
+      "userId": "syntagmatic",
+      "description": "Nutrient Scatterplot",
+      "thumbnail": ""
+    },
+    "2932721": {
+      "userId": "mbostock",
+      "description": "Squares ↔ Hexagons",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2932721/raw/53896eb3476f4ea0d9b414075b4c7001b6c60383/thumbnail.png"
+    },
+    "3057239": {
+      "userId": "mbostock",
+      "description": "Geodesic Rainbow",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3057239/raw/2653540d1a6f916b276664d1da0aea30b199801f/thumbnail.png"
+    },
+    "3081153": {
+      "userId": "mbostock",
+      "description": "Shape Tweening",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3081153/raw/b835813dd9cd97f36fac1fcaee42a691dc386ab3/thumbnail.png"
+    },
+    "3126887": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126967": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127000": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127012": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127089": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127105": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127125": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127156": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "3127174": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127211": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3231298": {
+      "userId": "mbostock",
+      "description": "Collision Detection",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3231298/raw/d187656d23ea7fd82d28a233a9a3d3a19776bdb1/thumbnail.png"
+    },
+    "3231307": {
+      "userId": "mbostock",
+      "description": "Collision Detection (Canvas)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3231307/raw/75ac824a7c74125306ab6cc3791da5b05cb1cc8a/thumbnail.png"
+    },
+    "3259588": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3260971": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3292856": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3337030": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3692677": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "3693086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693939": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3754357": {
+      "userId": "syntagmatic",
+      "description": "Fracturing California",
+      "thumbnail": ""
+    },
+    "3846051": {
+      "userId": "mbostock",
+      "description": "Voronoi tests",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3846051/raw/f05c77a9e28c34705ee3d52017d2062a294b977f/thumbnail.png"
+    },
+    "3962108": {
+      "userId": "mbostock",
+      "description": "Voronoi Test (N=2)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3962108/raw/fd566f18381a96bf6327677f75f59d10118640b5/thumbnail.png"
+    },
+    "4055889": {
+      "userId": "mbostock",
+      "description": "Pseudo-Demers Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055889/raw/76d784f55c63eacb2f6c1ede14389a029d5444b7/thumbnail.png"
+    },
+    "4055892": {
+      "userId": "mbostock",
+      "description": "Pseudo-Dorling Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055892/raw/96869c7f5556d0d4e791f7998891ea1a1137c2f4/thumbnail.png"
+    },
+    "4060366": {
+      "userId": "mbostock",
+      "description": "Voronoi Tessellation",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060366/raw/36ab2bc77195e965bb017fc303998c10fad4026d/thumbnail.png"
+    },
+    "4237768": {
+      "userId": "mbostock",
+      "description": "Voronoi Clipping",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4237768/raw/fd566f18381a96bf6327677f75f59d10118640b5/thumbnail.png"
+    },
+    "4241134": {
+      "userId": "mbostock",
+      "description": "Contour Plot",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4241134/raw/c9627295066e677a1600b15060fca6e663a007db/thumbnail.png"
+    },
+    "4248988": {
+      "userId": "christophermanning",
+      "description": "Technology Delaunay Triangulation",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4248988/raw/d2eb5fdb8353c7c11621d326681148aea8c3d7eb/thumbnail.png"
+    },
+    "4341156": {
+      "userId": "mbostock",
+      "description": "Delaunay Triangulation",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341156/raw/f987a8deb86b446a1503d38d3a1584a5241c0b04/thumbnail.png"
+    },
+    "4341699": {
+      "userId": "mbostock",
+      "description": "Convex Hull",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341699/raw/aa3ca4c0c1c3a68464b65bc15b7ad787b280b52c/thumbnail.png"
+    },
+    "4343214": {
+      "userId": "mbostock",
+      "description": "Quadtree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4343214/raw/50ff76f693819cd2e49e983ef50d5f0b34be2998/thumbnail.png"
+    },
+    "4360892": {
+      "userId": "mbostock",
+      "description": "U.S. Airports Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4360892/raw/2b9ed54821308e0032e66957dcec8a107751b4b8/thumbnail.png"
+    },
+    "4485778": {
+      "userId": "sxv",
+      "description": "Interactive SVG + Canvas Plot",
+      "thumbnail": ""
+    },
+    "4491174": {
+      "userId": "sxv",
+      "description": "Can't we all get along?",
+      "thumbnail": ""
+    },
+    "4636377": {
+      "userId": "mbostock",
+      "description": "Rotating Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4636377/raw/111219a19393db95ce2310f77ec6d70ef32c00ef/thumbnail.png"
+    },
+    "5020993": {
+      "userId": "christophermanning",
+      "description": "d3.js polybrush.js",
+      "thumbnail": ""
+    },
+    "5068952": {
+      "userId": "zjonsson",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/ZJONSSON/5068952/raw/50ff76f693819cd2e49e983ef50d5f0b34be2998/thumbnail.png"
+    },
+    "5218414": {
+      "userId": "emeeks",
+      "description": "Constrained Voronoi with Derived Areas",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5437891": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5438143": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5468998": {
+      "userId": "milroc",
+      "description": "Bubble Chart",
+      "thumbnail": ""
+    },
+    "5475145": {
+      "userId": "enjalot",
+      "description": "prototype - thanks",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5493432": {
+      "userId": "enjalot",
+      "description": "simple voronoi",
+      "thumbnail": ""
+    },
+    "5530308": {
+      "userId": "enjalot",
+      "description": "force layout",
+      "thumbnail": ""
+    },
+    "5530427": {
+      "userId": "enjalot",
+      "description": "force layout",
+      "thumbnail": ""
+    },
+    "5530496": {
+      "userId": "enjalot",
+      "description": "force layout lamp",
+      "thumbnail": ""
+    },
+    "5530544": {
+      "userId": "enjalot",
+      "description": "force layout big",
+      "thumbnail": ""
+    },
+    "5530557": {
+      "userId": "enjalot",
+      "description": "force layout illusion",
+      "thumbnail": ""
+    },
+    "5530602": {
+      "userId": "enjalot",
+      "description": "force layout members",
+      "thumbnail": ""
+    },
+    "5537943": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5538328": {
+      "userId": "enjalot",
+      "description": "force layout no collision",
+      "thumbnail": ""
+    },
+    "5538702": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5538737": {
+      "userId": "enjalot",
+      "description": "1024 members userSpace",
+      "thumbnail": ""
+    },
+    "5543774": {
+      "userId": "milroc",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5545110": {
+      "userId": "enjalot",
+      "description": "1024 members html",
+      "thumbnail": ""
+    },
+    "5546227": {
+      "userId": "enjalot",
+      "description": "1024 members html foci",
+      "thumbnail": ""
+    },
+    "5553051": {
+      "userId": "milroc",
+      "description": "Slides: \"Reusable Visualizations\"",
+      "thumbnail": ""
+    },
+    "5605683": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5675395": {
+      "userId": "enjalot",
+      "description": "1024 members html foci",
+      "thumbnail": ""
+    },
+    "5789531": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay drawing",
+      "thumbnail": ""
+    },
+    "5789774": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay drawing",
+      "thumbnail": ""
+    },
+    "5789785": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay grid drawing",
+      "thumbnail": ""
+    },
+    "5789829": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay animation",
+      "thumbnail": ""
+    },
+    "5789937": {
+      "userId": "enjalot",
+      "description": "delaunay stroke",
+      "thumbnail": ""
+    },
+    "6216724": {
+      "userId": "mbostock",
+      "description": "Brush Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6216724/raw/76fc7085c6c69edf0d77460388889a8f7c6f8dd8/thumbnail.png"
+    },
+    "6224050": {
+      "userId": "mbostock",
+      "description": "Mitchell’s Best-Candidate",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6224050/raw/5a8f41db37d5716013532f7d5876a9522413bd3f/thumbnail.png"
+    },
+    "6224396": {
+      "userId": "mbostock",
+      "description": "Mitchell’s Best-Candidate",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6224396/raw/0fed5a57d34dc8a7ffd5717b428b1af967cec367/thumbnail.png"
+    },
+    "6225662": {
+      "userId": "mbostock",
+      "description": "Mitchell’s Best-Candidate",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6225662/raw/81c4819bff94cbe7ad86a7154520d3e6199c6380/thumbnail.png"
+    },
+    "6316349": {
+      "userId": "milroc",
+      "description": "    ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6316349/raw/47c7c1fd2c9c05689a9e4f15454c59c114e1c957/thumbnail.png"
+    },
+    "6432815": {
+      "userId": "syntagmatic",
+      "description": "Voronoi Lookup",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6432815/raw/ad36833a2a4efe0fb6db75d53191cc10dc8e03a5/thumbnail.png"
+    },
+    "6473013": {
+      "userId": "enjalot",
+      "description": "d3 tree by @prcweb",
+      "thumbnail": ""
+    },
+    "6473020": {
+      "userId": "enjalot",
+      "description": "d3 tree by @prcweb",
+      "thumbnail": ""
+    },
+    "6473054": {
+      "userId": "enjalot",
+      "description": "dragonfly",
+      "thumbnail": ""
+    },
+    "6473151": {
+      "userId": "enjalot",
+      "description": "hi",
+      "thumbnail": ""
+    },
+    "6473220": {
+      "userId": "enjalot",
+      "description": "hi",
+      "thumbnail": ""
+    },
+    "6473246": {
+      "userId": "enjalot",
+      "description": "blood in the water",
+      "thumbnail": ""
+    },
+    "6480746": {
+      "userId": "enjalot",
+      "description": "d3 tree VIBE",
+      "thumbnail": ""
+    },
+    "6675193": {
+      "userId": "mbostock",
+      "description": "Canvas Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6675193/raw/f93597d91ee3376df2870a78b79443a669688564/thumbnail.png"
+    },
+    "6804753": {
+      "userId": "mbostock",
+      "description": "Delaunay Force Mesh",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6804753/raw/b170729c04a319eeafab64d977c1de53376bde29/thumbnail.png"
+    },
+    "6909318": {
+      "userId": "mbostock",
+      "description": "Voronoi Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6909318/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7052702": {
+      "userId": "syntagmatic",
+      "description": "Draggable Canvas Force Graph",
+      "thumbnail": ""
+    },
+    "7113356": {
+      "userId": "enjalot",
+      "description": "html5devconf force",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7280327": {
+      "userId": "mbostock",
+      "description": "Shiboronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7280327/raw/d8085fdb18cf2ecec40d9c54a2b69c2ae0f6f0dd/thumbnail.png"
+    },
+    "7608400": {
+      "userId": "mbostock",
+      "description": "Voronoi Arc Map",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7608400/raw/7dd3b5216f4c394dd0bdb1182460fc7a64d60c71/thumbnail.png"
+    },
+    "7782500": {
+      "userId": "mbostock",
+      "description": "Rotating Icosahedron",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7782500/raw/c3389573d1c7164cd144887b2323d7d87caed17a/thumbnail.png"
+    },
+    "7881887": {
+      "userId": "mbostock",
+      "description": "Clustered Force Layout III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7881887/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png"
+    },
+    "7882658": {
+      "userId": "mbostock",
+      "description": "Cluster Force Layout IV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7882658/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png"
+    },
+    "8027835": {
+      "userId": "mbostock",
+      "description": "Closest Point on Path II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8027835/raw/1bde165f2123ea0bdef56c052d9011aad64708df/thumbnail.png"
+    },
+    "8033015": {
+      "userId": "mbostock",
+      "description": "Multi-Line Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8033015/raw/c587fa05cb0617d8369d9b48d992ba09e940a8c6/thumbnail.png"
+    },
+    "8263288": {
+      "userId": "enjalot",
+      "description": "polygon clipping",
+      "thumbnail": ""
+    },
+    "8263747": {
+      "userId": "enjalot",
+      "description": "polygon clipping",
+      "thumbnail": ""
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9078690": {
+      "userId": "mbostock",
+      "description": "Quadtree Search",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9078690/raw/64522cfa6214d2cc66fd7f5abcde689accfb0e4d/thumbnail.png"
+    },
+    "9116395": {
+      "userId": "mpmckenna8",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9116395/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    },
+    "9927735": {
+      "userId": "mbostock",
+      "description": "Voronoi Topology",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9927735/raw/83081533ee3b445d20e53937ceb31479ddfe814b/thumbnail.png"
+    },
+    "9930434": {
+      "userId": "jasondavies",
+      "description": "Voronoi Clip Bug",
+      "thumbnail": "https://gist.githubusercontent.com/jasondavies/9930434/raw/83081533ee3b445d20e53937ceb31479ddfe814b/thumbnail.png"
+    }
+  },
+  "count": 136,
+  "coocurance": {
+    "d3.select": 127,
+    "d3.mouse": 47,
+    "d3.range": 71,
+    "d3.scale": 84,
+    "d3.scale.linear": 48,
+    "d3.layout": 66,
+    "d3.layout.force": 60,
+    "d3.geo": 136,
+    "d3.geom.quadtree": 53,
+    "d3.behavior": 22,
+    "d3.behavior.zoom": 10,
+    "d3.geom": 135,
+    "d3.rgb": 15,
+    "d3.scale.category": 42,
+    "d3.event": 32,
+    "d3.json": 22,
+    "d3.behavior.drag": 17,
+    "d3.timer": 22,
+    "d3.time": 30,
+    "d3.geom.voronoi": 64,
+    "d3.interpolate": 23,
+    "d3.interpolateLab": 7,
+    "d3.geo.path": 13,
+    "d3.selectAll": 18,
+    "d3.selection": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 7,
+    "d3.ease": 4,
+    "d3.timer.flush": 8,
+    "d3.interpolateNumber": 8,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 4,
+    "d3.interpolateHsl": 11,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 6,
+    "d3.descending": 6,
+    "d3.min": 26,
+    "d3.max": 16,
+    "d3.extent": 19,
+    "d3.sum": 7,
+    "d3.mean": 4,
+    "d3.median": 4,
+    "d3.quantile": 6,
+    "d3.bisect": 5,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 5,
+    "d3.permute": 4,
+    "d3.zip": 4,
+    "d3.transpose": 4,
+    "d3.keys": 5,
+    "d3.values": 6,
+    "d3.entries": 4,
+    "d3.merge": 10,
+    "d3.nest": 10,
+    "d3.map": 6,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.text": 4,
+    "d3.html": 6,
+    "d3.xml": 5,
+    "d3.csv": 6,
+    "d3.format": 12,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 12,
+    "d3.rebind": 12,
+    "d3.dispatch": 15,
+    "d3.scale.sqrt": 28,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 8,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 7,
+    "d3.scale.ordinal": 18,
+    "d3.svg": 34,
+    "d3.svg.line": 24,
+    "d3.svg.line.radial": 4,
+    "d3.svg.area": 8,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 11,
+    "d3.svg.symbol": 6,
+    "d3.svg.symbolTypes": 4,
+    "d3.svg.chord": 4,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.svg.axis": 14,
+    "d3.svg.brush": 13,
+    "d3.time.format": 7,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 12,
+    "d3.time.day": 11,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 5,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 5,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 10,
+    "d3.layout.stack": 8,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 9,
+    "d3.geo.albersUsa": 6,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom.polygon": 34,
+    "d3.geom.hull": 6,
+    "d3.geom.contour": 5,
+    "d3.geo.bonne": 4,
+    "d3.interpolateHcl": 5,
+    "d3.random.normal": 6,
+    "d3.tsv": 6,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.geo.orthographic": 2,
+    "d3.geodesic": 1,
+    "d3.hexbin": 1,
+    "d3.set": 4,
+    "d3.box": 2,
+    "d3.shuffle": 1,
+    "d3.fisheye": 2
+  }
+}

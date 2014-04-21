@@ -1,0 +1,603 @@
+{
+  "api": "d3.behavior.zoom",
+  "blocks": {
+    "1101254": {
+      "userId": "jasondavies",
+      "description": "hexagons test",
+      "thumbnail": ""
+    },
+    "1284044": {
+      "userId": "jasondavies",
+      "description": "Zoom/Pan Map Example",
+      "thumbnail": ""
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "1734663": {
+      "userId": "christophermanning",
+      "description": "Voronoi Diagram with Force Directed Nodes and Delaunay Links",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1734663/raw/991c632cfc8b75d9175a079f240112d1f311fed9/thumbnail.png"
+    },
+    "1871853": {
+      "userId": "jasondavies",
+      "description": "Zoom + Pan with Log Axes",
+      "thumbnail": ""
+    },
+    "1993488": {
+      "userId": "vlandham",
+      "description": "Zoom/pan map example: integrates d3.geo with d3.behavior with the aim of producing a map that can be panned and zoomed.",
+      "thumbnail": ""
+    },
+    "2206340": {
+      "userId": "mbostock",
+      "description": "mousewheel-zoom + click-to-center",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206340/raw/42715641276609ccab008a229872d6290e2e498b/thumbnail.png"
+    },
+    "2271944": {
+      "userId": "christophermanning",
+      "description": "Chicago Ward Remap Outlines",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/2271944/raw/24059fc4b9b7ffc6d62efef412a0d03fd7534c49/thumbnail.png"
+    },
+    "2322933": {
+      "userId": "biovisualize",
+      "description": "Zoom/pan map",
+      "thumbnail": ""
+    },
+    "2374239": {
+      "userId": "mbostock",
+      "description": "Zoomable Geography",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2374239/raw/69e7af9d8e7ac372e2b9a154d08f4dc959578811/thumbnail.png"
+    },
+    "3062264": {
+      "userId": "vlandham",
+      "description": "mousewheel-zoom + click-to-center",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3680957": {
+      "userId": "mbostock",
+      "description": "SVG Semantic Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3680957/raw/d4571630e67960ce869c9023f3fee629f3e2a59f/thumbnail.png"
+    },
+    "3680958": {
+      "userId": "mbostock",
+      "description": "Canvas Geometric Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3680958/raw/cc58165e29323486c3c3ffd6124fb9e3519a45a8/thumbnail.png"
+    },
+    "3680999": {
+      "userId": "mbostock",
+      "description": "SVG Geometric Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3680999/raw/03ba9136f4ce089c430819e9a68aac3edefe88cc/thumbnail.png"
+    },
+    "3681006": {
+      "userId": "mbostock",
+      "description": "Canvas Semantic Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3681006/raw/4268b140b53e675622cffc3a7d961b10b885f189/thumbnail.png"
+    },
+    "3689931": {
+      "userId": "jasondavies",
+      "description": "Zoom by Rectangle",
+      "thumbnail": ""
+    },
+    "3736720": {
+      "userId": "syntagmatic",
+      "description": "Zoomable Julia Set",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3892919": {
+      "userId": "mbostock",
+      "description": "Pan+Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3892919/raw/6b6f9226791dba2b85ba6c370581e729d9f2ab46/thumbnail.png"
+    },
+    "3892928": {
+      "userId": "mbostock",
+      "description": "Programmatic Pan+Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3892928/raw/5dbc762641491ca62f6691c7db95c51df79be8e0/thumbnail.png"
+    },
+    "4015254": {
+      "userId": "mbostock",
+      "description": "Zoomable Area",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4015254/raw/3a332f8ae938ad513d76c274cb6fbb9c20cc3e77/thumbnail.png"
+    },
+    "4132797": {
+      "userId": "mbostock",
+      "description": "Zoomable Map Tiles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4132797/raw/e130b876f353a1bce9b745160ba96f34ad8ea0d1/thumbnail.png"
+    },
+    "4166498": {
+      "userId": "vlandham",
+      "description": "Satellite Projection",
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/4166498/raw/95f9623ae30ba7881dbde6667658f9458a625cd0/thumbnail.png"
+    },
+    "4187201": {
+      "userId": "christophermanning",
+      "description": "Erdős–Rényi Force Directed Graph",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4187201/raw/fec076d2b8f4ee2166fa5bc33cf759973ce85ecf/thumbnail.png"
+    },
+    "4260533": {
+      "userId": "zjonsson",
+      "description": "D3.js glucose levels",
+      "thumbnail": ""
+    },
+    "4285420": {
+      "userId": "christophermanning",
+      "description": "Force-Directed Sierpinski Triangle",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4285420/raw/61ba0751051f4d4f18cdd51f92fcff8ea175d59f/thumbnail.png"
+    },
+    "4289018": {
+      "userId": "christophermanning",
+      "description": "Unknown Pleasures",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4289018/raw/1a0f937ede409f082cfac80c900437364feb7c70/thumbnail.png"
+    },
+    "4315896": {
+      "userId": "christophermanning",
+      "description": "Simplex Noise Dots",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4315896/raw/467e35da657827ad2a0ecc201dfc6f63cd54595d/thumbnail.png"
+    },
+    "4417108": {
+      "userId": "christophermanning",
+      "description": "2D Random Walk",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4417108/raw/46c576ade1ea6ff11d52744ad60e8d9d6605f252/thumbnail.png"
+    },
+    "4450281": {
+      "userId": "enjalot",
+      "description": "almost_dendelion",
+      "thumbnail": ""
+    },
+    "4485778": {
+      "userId": "sxv",
+      "description": "Interactive SVG + Canvas Plot",
+      "thumbnail": ""
+    },
+    "4491174": {
+      "userId": "sxv",
+      "description": "Can't we all get along?",
+      "thumbnail": ""
+    },
+    "4599228": {
+      "userId": "emeeks",
+      "description": "",
+      "thumbnail": ""
+    },
+    "4617523": {
+      "userId": "enjalot",
+      "description": "zoom and drag",
+      "thumbnail": ""
+    },
+    "4686541": {
+      "userId": "zjonsson",
+      "description": "Iceland TopoJSON -pan/zoom",
+      "thumbnail": ""
+    },
+    "4687713": {
+      "userId": "mbostock",
+      "description": "Iceland Topography",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4687713/raw/7257c56b96e11d1eca7eee5980bdff03fd54f463/thumbnail.png"
+    },
+    "4700584": {
+      "userId": "enjalot",
+      "description": "prototype: box json",
+      "thumbnail": ""
+    },
+    "4733216": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "4987520": {
+      "userId": "mbostock",
+      "description": "Constrained Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4987520/raw/2eb118ef3ac0869552c6ce5cb77c625c6558e5cb/thumbnail.png"
+    },
+    "4988766": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5095908": {
+      "userId": "enjalot",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5095947": {
+      "userId": "enjalot",
+      "description": "zoomable map",
+      "thumbnail": ""
+    },
+    "5148348": {
+      "userId": "enjalot",
+      "description": "limit zoom",
+      "thumbnail": ""
+    },
+    "5158988": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5218414": {
+      "userId": "emeeks",
+      "description": "Constrained Voronoi with Derived Areas",
+      "thumbnail": ""
+    },
+    "5248602": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5260594": {
+      "userId": "zjonsson",
+      "description": "Brownian Bridge",
+      "thumbnail": ""
+    },
+    "5266202": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5266202/raw/2497d678cc28f7c23831bd82175f8500a40c71d0/thumbnail.png"
+    },
+    "5342063": {
+      "userId": "mbostock",
+      "description": "Raster & Vector Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5342063/raw/c01da236c945063529c981619b6f369d209bc3ff/thumbnail.png"
+    },
+    "5373842": {
+      "userId": "vlandham",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/5373842/raw/c01da236c945063529c981619b6f369d209bc3ff/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5593150": {
+      "userId": "mbostock",
+      "description": "Vector Tiles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5593150/raw/20b9047b78ba96c26ded83aaa5fa88090af72bff/thumbnail.png"
+    },
+    "5601557": {
+      "userId": "NelsonMinar",
+      "description": "Vector slippy map of rivers built entirely in D3, no other mapping library.",
+      "thumbnail": "https://gist.githubusercontent.com/NelsonMinar/5601557/raw/a45895f51dabfcf488cd90a7cb4d398bcf8ac8a7/thumbnail.png"
+    },
+    "5651657": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5651806": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5655269": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5794305": {
+      "userId": "enjalot",
+      "description": "eas3",
+      "thumbnail": ""
+    },
+    "5820790": {
+      "userId": "enjalot",
+      "description": "eas3",
+      "thumbnail": ""
+    },
+    "5914438": {
+      "userId": "mbostock",
+      "description": "Raster & Vector Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5914438/raw/c01da236c945063529c981619b6f369d209bc3ff/thumbnail.png"
+    },
+    "6123708": {
+      "userId": "mbostock",
+      "description": "Drag + Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6123708/raw/79f267e13a06c284eba3daa0f81a59a0e731d04a/thumbnail.png"
+    },
+    "6140181": {
+      "userId": "mbostock",
+      "description": "Capturing Listeners",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6140181/raw/f76c8dac19456660f1701ed4db449d1d9bdb8dd0/thumbnail.png"
+    },
+    "6147081": {
+      "userId": "emeeks",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/emeeks/6147081/raw/c01da236c945063529c981619b6f369d209bc3ff/thumbnail.png"
+    },
+    "6203413": {
+      "userId": "christophermanning",
+      "description": "CTA Line Simplification",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/6203413/raw/dcd1f15d872cb8cf1d0e2e159e4497213eef0687/thumbnail.png"
+    },
+    "6226534": {
+      "userId": "mbostock",
+      "description": "Zoom Center",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6226534/raw/5919d43e2c80921bfbc52f7f5c46fbbb20bb1109/thumbnail.png"
+    },
+    "6238040": {
+      "userId": "mbostock",
+      "description": "Zoom Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6238040/raw/c15a50be2d60a20516d6855076e341eeeddd6400/thumbnail.png"
+    },
+    "6242308": {
+      "userId": "mbostock",
+      "description": "Map Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6242308/raw/d085d84486327e175becda8f795d34db20cf11eb/thumbnail.png"
+    },
+    "6252418": {
+      "userId": "mbostock",
+      "description": "Dynamic Simplification II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6252418/raw/c2546a959ec0ca45d23c719daae5f0f2eda10a70/thumbnail.png"
+    },
+    "6262722": {
+      "userId": "mbostock",
+      "description": "OPHZ Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6262722/raw/8d8ccd0d62e41305746d4b251a0cfadf92a70a10/thumbnail.png"
+    },
+    "6287633": {
+      "userId": "mbostock",
+      "description": "Dynamic Simplification III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6287633/raw/9d54e609913960a8e69d92a9b0783c161948ce04/thumbnail.png"
+    },
+    "6312708": {
+      "userId": "herrstucki",
+      "description": "Swiss Topography",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/6312708/raw/9a2bf8389df9582c622b5d2c08c7f14a0aeb3c97/thumbnail.png"
+    },
+    "6323669": {
+      "userId": "jeremybuis",
+      "description": "something something",
+      "thumbnail": ""
+    },
+    "6800268": {
+      "userId": "enjalot",
+      "description": "Bay Area",
+      "thumbnail": ""
+    },
+    "6894869": {
+      "userId": "enjalot",
+      "description": "Bay Area + pems locations",
+      "thumbnail": ""
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7570402": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/jeremybuis/7570402/raw/c01da236c945063529c981619b6f369d209bc3ff/thumbnail.png"
+    },
+    "7755778": {
+      "userId": "mbostock",
+      "description": "Dynamic Simplification IV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7755778/raw/b99ebfb5af84aa3853ab0c214ee8abb0ac36b1f4/thumbnail.png"
+    },
+    "8203750": {
+      "userId": "christophermanning",
+      "description": "Random Walk USA",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/8203750/raw/2aa6a2f183f1d169a6e0d30c1c3e6702472e434e/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9357131": {
+      "userId": "emeeks",
+      "description": "GEXF D3 Complex Example",
+      "thumbnail": ""
+    },
+    "9357371": {
+      "userId": "emeeks",
+      "description": "GEXF D3 Simple Example",
+      "thumbnail": ""
+    },
+    "9535021": {
+      "userId": "mbostock",
+      "description": "U.S. State Capitals",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9535021/raw/0b8ecb617cc6c2af375fc395eef9f8fe88092472/thumbnail.png"
+    },
+    "9656675": {
+      "userId": "mbostock",
+      "description": "Zoom to Bounding Box II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9656675/raw/155be58bdf35d91259033ac296063939a85fb913/thumbnail.png"
+    },
+    "e01d149e5702a41d846f": {
+      "userId": "iros",
+      "description": "d3.chart choropleth",
+      "thumbnail": ""
+    },
+    "a6333700f37f17773ac8": {
+      "userId": "iros",
+      "description": "map",
+      "thumbnail": ""
+    }
+  },
+  "count": 86,
+  "coocurance": {
+    "d3.select": 86,
+    "d3.event": 55,
+    "d3.interpolate": 14,
+    "d3.interpolateLab": 6,
+    "d3.functor": 10,
+    "d3.scale": 42,
+    "d3.scale.linear": 38,
+    "d3.geo": 51,
+    "d3.geo.path": 45,
+    "d3.geo.mercator": 33,
+    "d3.behavior": 86,
+    "d3.behavior.zoom": 85,
+    "d3.mouse": 13,
+    "d3.range": 27,
+    "d3.layout": 14,
+    "d3.layout.force": 14,
+    "d3.geom": 10,
+    "d3.geom.quadtree": 8,
+    "d3.json": 37,
+    "d3.geo.tile": 10,
+    "d3.geo.graticule": 5,
+    "d3.geo.satellite": 1,
+    "d3.geo.albers": 13,
+    "d3.geo.albersUsa": 12,
+    "d3.selectAll": 13,
+    "d3.interpolateHcl": 7,
+    "d3.keys": 8,
+    "d3.timer": 13,
+    "d3.rebind": 8,
+    "d3.dispatch": 9,
+    "d3.scale.sqrt": 8,
+    "d3.time": 18,
+    "d3.selection": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 7,
+    "d3.ease": 5,
+    "d3.timer.flush": 7,
+    "d3.interpolateNumber": 8,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 10,
+    "d3.descending": 5,
+    "d3.min": 11,
+    "d3.max": 18,
+    "d3.extent": 11,
+    "d3.sum": 8,
+    "d3.mean": 8,
+    "d3.median": 5,
+    "d3.quantile": 7,
+    "d3.bisect": 5,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 4,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.values": 6,
+    "d3.entries": 6,
+    "d3.merge": 5,
+    "d3.nest": 10,
+    "d3.map": 4,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.html": 5,
+    "d3.xml": 5,
+    "d3.csv": 10,
+    "d3.format": 15,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 3,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 7,
+    "d3.hsl": 7,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 6,
+    "d3.scale.quantize": 11,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 8,
+    "d3.scale.category": 9,
+    "d3.svg": 28,
+    "d3.svg.line": 16,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 10,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 7,
+    "d3.svg.symbol": 7,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 6,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 19,
+    "d3.svg.brush": 9,
+    "d3.time.format": 10,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 6,
+    "d3.time.scale": 8,
+    "d3.time.day": 7,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 6,
+    "d3.time.hours": 4,
+    "d3.time.minute": 5,
+    "d3.time.minutes": 4,
+    "d3.time.month": 5,
+    "d3.time.months": 4,
+    "d3.time.second": 5,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 5,
+    "d3.time.years": 4,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 6,
+    "d3.layout.stack": 6,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geom.voronoi": 6,
+    "d3.geom.polygon": 6,
+    "d3.geom.hull": 4,
+    "d3.behavior.drag": 13,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.random.normal": 8,
+    "d3.tsv": 4,
+    "d3.lab": 3,
+    "d3.hcl": 4,
+    "d3.scale.threshold": 4,
+    "d3.geo.transform": 5,
+    "d3.geo.clipExtent": 3,
+    "d3.set": 4,
+    "d3.geo.projection": 1,
+    "d3.geo.vanDerGrinten": 1,
+    "d3.geo.vanDerGrinten4": 1,
+    "d3.hexbin": 1,
+    "d3.box": 2,
+    "d3.shuffle": 1,
+    "d3.pairs": 1,
+    "d3.geo.orthographic": 1
+  }
+}

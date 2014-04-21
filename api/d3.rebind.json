@@ -1,0 +1,545 @@
+{
+  "api": "d3.rebind",
+  "blocks": {
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "1933560": {
+      "userId": "mbostock",
+      "description": "Histogram Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1933560/raw/0cdad1086248c9b4588d47d62eef101183ba7a62/thumbnail.png"
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3290263": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290313": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290392": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates, 146 Dimensions",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3309282": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3361332": {
+      "userId": "emeeks",
+      "description": "Topic Clouds using D3 Word Cloud Layout",
+      "thumbnail": ""
+    },
+    "3736720": {
+      "userId": "syntagmatic",
+      "description": "Zoomable Julia Set",
+      "thumbnail": ""
+    },
+    "3740375": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740480": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740524": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740655": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740667": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740789": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740849": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740921": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740930": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740948": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741014": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741028": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741144": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741188": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741254": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741260": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741269": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741291": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741301": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741330": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741344": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741370": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741406": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3876802": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3948009": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3949170": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4213367": {
+      "userId": "biovisualize",
+      "description": "Reusable Circular Network with Editable Data Table",
+      "thumbnail": ""
+    },
+    "4247094": {
+      "userId": "biovisualize",
+      "description": "Circular network in Tributary",
+      "thumbnail": ""
+    },
+    "4349186": {
+      "userId": "biovisualize",
+      "description": "A tiny D3 plugin for 3D flipping",
+      "thumbnail": ""
+    },
+    "5020993": {
+      "userId": "christophermanning",
+      "description": "d3.js polybrush.js",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5372077": {
+      "userId": "biovisualize",
+      "description": "D3.js Reusable Bar Chart with Angularjs",
+      "thumbnail": ""
+    },
+    "5438143": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5452290": {
+      "userId": "jasondavies",
+      "description": "Vertical Bullet Charts",
+      "thumbnail": "https://gist.githubusercontent.com/jasondavies/5452290/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5467720": {
+      "userId": "herrstucki",
+      "description": "Indented tree layout",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5467720/raw/cefce71ace511623e31650d0ca26f797dc8a2f7b/thumbnail.png"
+    },
+    "5471344": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5498995": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5498995/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5519642": {
+      "userId": "milroc",
+      "description": "bar + sum: reusable d3.js",
+      "thumbnail": ""
+    },
+    "5519819": {
+      "userId": "milroc",
+      "description": "bar + sum: d3.js & angular.js",
+      "thumbnail": ""
+    },
+    "5520449": {
+      "userId": "milroc",
+      "description": "bar + sum: d3.js & ember.js ",
+      "thumbnail": ""
+    },
+    "5522467": {
+      "userId": "milroc",
+      "description": "bar + sum: d3.js & backbone.js",
+      "thumbnail": ""
+    },
+    "5553051": {
+      "userId": "milroc",
+      "description": "Slides: \"Reusable Visualizations\"",
+      "thumbnail": ""
+    },
+    "5629913": {
+      "userId": "enjalot",
+      "description": "tributary interface prototype",
+      "thumbnail": ""
+    },
+    "5779793": {
+      "userId": "enjalot",
+      "description": "scaler",
+      "thumbnail": ""
+    },
+    "5780132": {
+      "userId": "enjalot",
+      "description": "scaler",
+      "thumbnail": ""
+    },
+    "5780169": {
+      "userId": "enjalot",
+      "description": "scaler ascii",
+      "thumbnail": ""
+    },
+    "5783737": {
+      "userId": "enjalot",
+      "description": "scaler utf8",
+      "thumbnail": ""
+    },
+    "5803524": {
+      "userId": "syntagmatic",
+      "description": "Historical Volumes",
+      "thumbnail": ""
+    },
+    "5813856": {
+      "userId": "ramnathv",
+      "description": null,
+      "thumbnail": ""
+    },
+    "6316349": {
+      "userId": "milroc",
+      "description": "    ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6316349/raw/47c7c1fd2c9c05689a9e4f15454c59c114e1c957/thumbnail.png"
+    },
+    "6641917": {
+      "userId": "enjalot",
+      "description": "d3 workshop",
+      "thumbnail": ""
+    },
+    "6875359": {
+      "userId": "timelyportfolio",
+      "description": "micropolar Area label fix?",
+      "thumbnail": ""
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7050567": {
+      "userId": "enjalot",
+      "description": "weezy utf8",
+      "thumbnail": ""
+    },
+    "7149418": {
+      "userId": "enjalot",
+      "description": "html5devconf intermediate d3.js workshop",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7162280": {
+      "userId": "enjalot",
+      "description": "html5devconf project",
+      "thumbnail": ""
+    },
+    "7791169": {
+      "userId": "biovisualize",
+      "description": "D3.js and Backbone",
+      "thumbnail": ""
+    },
+    "7885521": {
+      "userId": "biovisualize",
+      "description": "backbone with d3.js and crossfilter",
+      "thumbnail": ""
+    },
+    "8463137": {
+      "userId": "bollwyvl",
+      "description": "",
+      "thumbnail": ""
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9165567": {
+      "userId": "milroc",
+      "description": "urban data hacking",
+      "thumbnail": ""
+    },
+    "9834558": {
+      "userId": "danharr",
+      "description": "Web Site Visits (via Jason Davies)",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9834558/raw/14c1a86196a4b5bf8440a14e6f332bd9f0f032e6/thumbnail.png"
+    }
+  },
+  "count": 76,
+  "coocurance": {
+    "d3.select": 59,
+    "d3.selectAll": 19,
+    "d3.csv": 13,
+    "d3.time": 29,
+    "d3.time.format": 10,
+    "d3.event": 26,
+    "d3.mouse": 25,
+    "d3.interpolate": 39,
+    "d3.interpolateRound": 6,
+    "d3.text": 6,
+    "d3.json": 12,
+    "d3.format": 21,
+    "d3.dispatch": 63,
+    "d3.scale": 69,
+    "d3.scale.linear": 68,
+    "d3.svg": 36,
+    "d3.svg.axis": 33,
+    "d3.time.format.iso": 5,
+    "d3.time.scale": 9,
+    "d3.interpolateHcl": 30,
+    "d3.keys": 35,
+    "d3.behavior": 19,
+    "d3.behavior.zoom": 8,
+    "d3.timer": 24,
+    "d3.interpolateLab": 4,
+    "d3.rebind": 75,
+    "d3.scale.sqrt": 11,
+    "d3.extent": 19,
+    "d3.fisheye": 6,
+    "d3.min": 19,
+    "d3.max": 37,
+    "d3.csv.format": 3,
+    "d3.scale.identity": 7,
+    "d3.scale.ordinal": 30,
+    "d3.svg.line": 17,
+    "d3.svg.brush": 21,
+    "d3.behavior.drag": 16,
+    "d3.range": 42,
+    "d3.selection": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 12,
+    "d3.ease": 5,
+    "d3.timer.flush": 11,
+    "d3.interpolateNumber": 10,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 6,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 9,
+    "d3.descending": 9,
+    "d3.sum": 9,
+    "d3.mean": 5,
+    "d3.median": 6,
+    "d3.quantile": 8,
+    "d3.bisect": 12,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 6,
+    "d3.permute": 5,
+    "d3.zip": 11,
+    "d3.transpose": 7,
+    "d3.values": 7,
+    "d3.entries": 6,
+    "d3.merge": 12,
+    "d3.nest": 12,
+    "d3.map": 6,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.html": 7,
+    "d3.xml": 5,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 2,
+    "d3.csv.parseRows": 1,
+    "d3.rgb": 25,
+    "d3.hsl": 6,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 17,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 7,
+    "d3.scale.quantile": 5,
+    "d3.scale.category": 18,
+    "d3.svg.line.radial": 7,
+    "d3.svg.area": 10,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 12,
+    "d3.svg.symbol": 8,
+    "d3.svg.symbolTypes": 6,
+    "d3.svg.chord": 7,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.time.format.utc": 4,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 5,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 18,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 6,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 8,
+    "d3.layout.hierarchy": 6,
+    "d3.layout.histogram": 6,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 5,
+    "d3.layout.pie": 8,
+    "d3.layout.stack": 8,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo": 12,
+    "d3.geo.path": 7,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 12,
+    "d3.geom.voronoi": 8,
+    "d3.geom.quadtree": 8,
+    "d3.geom.polygon": 6,
+    "d3.geom.hull": 4,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.bullet": 2,
+    "d3.random.normal": 3,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 4,
+    "d3.hexbin": 1,
+    "d3.set": 4,
+    "d3.box": 2,
+    "d3.shuffle": 1
+  }
+}

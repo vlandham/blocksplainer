@@ -1,0 +1,480 @@
+{
+  "api": "d3.geom.voronoi",
+  "blocks": {
+    "1073373": {
+      "userId": "mbostock",
+      "description": "Force-Directed States of America",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1073373/raw/59c2ea59d1a6a204571ab065fd1182e90ecd876c/thumbnail.png"
+    },
+    "1734663": {
+      "userId": "christophermanning",
+      "description": "Voronoi Diagram with Force Directed Nodes and Delaunay Links",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1734663/raw/991c632cfc8b75d9175a079f240112d1f311fed9/thumbnail.png"
+    },
+    "2932721": {
+      "userId": "mbostock",
+      "description": "Squares ↔ Hexagons",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2932721/raw/53896eb3476f4ea0d9b414075b4c7001b6c60383/thumbnail.png"
+    },
+    "3126887": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126967": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127000": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127012": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127089": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127105": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127125": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127156": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "3127174": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127211": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3259588": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3260971": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3292856": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3337030": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3692677": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3846051": {
+      "userId": "mbostock",
+      "description": "Voronoi tests",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3846051/raw/f05c77a9e28c34705ee3d52017d2062a294b977f/thumbnail.png"
+    },
+    "3962108": {
+      "userId": "mbostock",
+      "description": "Voronoi Test (N=2)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3962108/raw/fd566f18381a96bf6327677f75f59d10118640b5/thumbnail.png"
+    },
+    "4060366": {
+      "userId": "mbostock",
+      "description": "Voronoi Tessellation",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060366/raw/36ab2bc77195e965bb017fc303998c10fad4026d/thumbnail.png"
+    },
+    "4237768": {
+      "userId": "mbostock",
+      "description": "Voronoi Clipping",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4237768/raw/fd566f18381a96bf6327677f75f59d10118640b5/thumbnail.png"
+    },
+    "4360892": {
+      "userId": "mbostock",
+      "description": "U.S. Airports Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4360892/raw/2b9ed54821308e0032e66957dcec8a107751b4b8/thumbnail.png"
+    },
+    "4636377": {
+      "userId": "mbostock",
+      "description": "Rotating Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4636377/raw/111219a19393db95ce2310f77ec6d70ef32c00ef/thumbnail.png"
+    },
+    "5020993": {
+      "userId": "christophermanning",
+      "description": "d3.js polybrush.js",
+      "thumbnail": ""
+    },
+    "5218414": {
+      "userId": "emeeks",
+      "description": "Constrained Voronoi with Derived Areas",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5437891": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5438143": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5475145": {
+      "userId": "enjalot",
+      "description": "prototype - thanks",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5493432": {
+      "userId": "enjalot",
+      "description": "simple voronoi",
+      "thumbnail": ""
+    },
+    "5605683": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5789531": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay drawing",
+      "thumbnail": ""
+    },
+    "5789774": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay drawing",
+      "thumbnail": ""
+    },
+    "5789785": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay grid drawing",
+      "thumbnail": ""
+    },
+    "5789829": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay animation",
+      "thumbnail": ""
+    },
+    "5789937": {
+      "userId": "enjalot",
+      "description": "delaunay stroke",
+      "thumbnail": ""
+    },
+    "6224396": {
+      "userId": "mbostock",
+      "description": "Mitchell’s Best-Candidate",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6224396/raw/0fed5a57d34dc8a7ffd5717b428b1af967cec367/thumbnail.png"
+    },
+    "6225662": {
+      "userId": "mbostock",
+      "description": "Mitchell’s Best-Candidate",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6225662/raw/81c4819bff94cbe7ad86a7154520d3e6199c6380/thumbnail.png"
+    },
+    "6432815": {
+      "userId": "syntagmatic",
+      "description": "Voronoi Lookup",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6432815/raw/ad36833a2a4efe0fb6db75d53191cc10dc8e03a5/thumbnail.png"
+    },
+    "6473013": {
+      "userId": "enjalot",
+      "description": "d3 tree by @prcweb",
+      "thumbnail": ""
+    },
+    "6473020": {
+      "userId": "enjalot",
+      "description": "d3 tree by @prcweb",
+      "thumbnail": ""
+    },
+    "6473054": {
+      "userId": "enjalot",
+      "description": "dragonfly",
+      "thumbnail": ""
+    },
+    "6473151": {
+      "userId": "enjalot",
+      "description": "hi",
+      "thumbnail": ""
+    },
+    "6473220": {
+      "userId": "enjalot",
+      "description": "hi",
+      "thumbnail": ""
+    },
+    "6473246": {
+      "userId": "enjalot",
+      "description": "blood in the water",
+      "thumbnail": ""
+    },
+    "6480746": {
+      "userId": "enjalot",
+      "description": "d3 tree VIBE",
+      "thumbnail": ""
+    },
+    "6675193": {
+      "userId": "mbostock",
+      "description": "Canvas Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6675193/raw/f93597d91ee3376df2870a78b79443a669688564/thumbnail.png"
+    },
+    "6804753": {
+      "userId": "mbostock",
+      "description": "Delaunay Force Mesh",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6804753/raw/b170729c04a319eeafab64d977c1de53376bde29/thumbnail.png"
+    },
+    "6909318": {
+      "userId": "mbostock",
+      "description": "Voronoi Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6909318/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7280327": {
+      "userId": "mbostock",
+      "description": "Shiboronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7280327/raw/d8085fdb18cf2ecec40d9c54a2b69c2ae0f6f0dd/thumbnail.png"
+    },
+    "7608400": {
+      "userId": "mbostock",
+      "description": "Voronoi Arc Map",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7608400/raw/7dd3b5216f4c394dd0bdb1182460fc7a64d60c71/thumbnail.png"
+    },
+    "8027835": {
+      "userId": "mbostock",
+      "description": "Closest Point on Path II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8027835/raw/1bde165f2123ea0bdef56c052d9011aad64708df/thumbnail.png"
+    },
+    "8033015": {
+      "userId": "mbostock",
+      "description": "Multi-Line Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8033015/raw/c587fa05cb0617d8369d9b48d992ba09e940a8c6/thumbnail.png"
+    },
+    "9116395": {
+      "userId": "mpmckenna8",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9116395/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    },
+    "9927735": {
+      "userId": "mbostock",
+      "description": "Voronoi Topology",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9927735/raw/83081533ee3b445d20e53937ceb31479ddfe814b/thumbnail.png"
+    },
+    "9930434": {
+      "userId": "jasondavies",
+      "description": "Voronoi Clip Bug",
+      "thumbnail": "https://gist.githubusercontent.com/jasondavies/9930434/raw/83081533ee3b445d20e53937ceb31479ddfe814b/thumbnail.png"
+    }
+  },
+  "count": 64,
+  "coocurance": {
+    "d3.select": 64,
+    "d3.mouse": 35,
+    "d3.timer": 11,
+    "d3.time": 12,
+    "d3.geo": 64,
+    "d3.geom": 64,
+    "d3.geom.quadtree": 7,
+    "d3.range": 36,
+    "d3.selectAll": 10,
+    "d3.selection": 6,
+    "d3.event": 21,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 7,
+    "d3.ease": 4,
+    "d3.timer.flush": 6,
+    "d3.interpolate": 16,
+    "d3.interpolateNumber": 4,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 4,
+    "d3.interpolateHsl": 11,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 4,
+    "d3.descending": 6,
+    "d3.min": 23,
+    "d3.max": 9,
+    "d3.extent": 8,
+    "d3.sum": 5,
+    "d3.mean": 4,
+    "d3.median": 4,
+    "d3.quantile": 4,
+    "d3.bisect": 5,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 5,
+    "d3.permute": 4,
+    "d3.zip": 4,
+    "d3.transpose": 4,
+    "d3.keys": 4,
+    "d3.values": 4,
+    "d3.entries": 4,
+    "d3.merge": 9,
+    "d3.nest": 6,
+    "d3.map": 6,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.text": 4,
+    "d3.json": 8,
+    "d3.html": 6,
+    "d3.xml": 4,
+    "d3.csv": 5,
+    "d3.format": 7,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 6,
+    "d3.hsl": 4,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 7,
+    "d3.rebind": 8,
+    "d3.dispatch": 9,
+    "d3.scale": 34,
+    "d3.scale.linear": 29,
+    "d3.scale.sqrt": 4,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 6,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 6,
+    "d3.scale.category": 13,
+    "d3.svg": 18,
+    "d3.svg.line": 17,
+    "d3.svg.line.radial": 4,
+    "d3.svg.area": 6,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 7,
+    "d3.svg.symbol": 6,
+    "d3.svg.symbolTypes": 4,
+    "d3.svg.chord": 4,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.svg.axis": 9,
+    "d3.svg.brush": 6,
+    "d3.time.format": 5,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 5,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 10,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 8,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 6,
+    "d3.layout.stack": 6,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo.path": 10,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 6,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom.voronoi": 63,
+    "d3.geom.polygon": 29,
+    "d3.geom.hull": 4,
+    "d3.behavior": 13,
+    "d3.behavior.drag": 12,
+    "d3.behavior.zoom": 6,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 6,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 5,
+    "d3.tsv": 6,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.fisheye": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "api": "d3.random.bates",
+  "blocks": {
+    "3048450": {
+      "userId": "mbostock",
+      "description": "Histogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3048450/raw/2a90346395f25c755aeaa8556a8e18d1b5f398a7/thumbnail.png"
+    }
+  },
+  "count": 1,
+  "coocurance": {
+    "d3.select": 1,
+    "d3.max": 1,
+    "d3.range": 1,
+    "d3.format": 1,
+    "d3.scale": 1,
+    "d3.scale.linear": 1,
+    "d3.svg": 1,
+    "d3.svg.axis": 1,
+    "d3.layout": 1,
+    "d3.layout.histogram": 1
+  }
+}

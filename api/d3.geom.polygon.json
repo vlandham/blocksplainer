@@ -1,0 +1,332 @@
+{
+  "api": "d3.geom.polygon",
+  "blocks": {
+    "1734663": {
+      "userId": "christophermanning",
+      "description": "Voronoi Diagram with Force Directed Nodes and Delaunay Links",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1734663/raw/991c632cfc8b75d9175a079f240112d1f311fed9/thumbnail.png"
+    },
+    "3057239": {
+      "userId": "mbostock",
+      "description": "Geodesic Rainbow",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3057239/raw/2653540d1a6f916b276664d1da0aea30b199801f/thumbnail.png"
+    },
+    "3081153": {
+      "userId": "mbostock",
+      "description": "Shape Tweening",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3081153/raw/b835813dd9cd97f36fac1fcaee42a691dc386ab3/thumbnail.png"
+    },
+    "3126887": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126967": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127000": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127012": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127089": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127105": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127125": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127156": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "3127174": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127211": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3259588": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3260971": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3292856": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3692677": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "4636377": {
+      "userId": "mbostock",
+      "description": "Rotating Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4636377/raw/111219a19393db95ce2310f77ec6d70ef32c00ef/thumbnail.png"
+    },
+    "5218414": {
+      "userId": "emeeks",
+      "description": "Constrained Voronoi with Derived Areas",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5437891": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "6473246": {
+      "userId": "enjalot",
+      "description": "blood in the water",
+      "thumbnail": ""
+    },
+    "6909318": {
+      "userId": "mbostock",
+      "description": "Voronoi Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6909318/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7782500": {
+      "userId": "mbostock",
+      "description": "Rotating Icosahedron",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7782500/raw/c3389573d1c7164cd144887b2323d7d87caed17a/thumbnail.png"
+    },
+    "8263288": {
+      "userId": "enjalot",
+      "description": "polygon clipping",
+      "thumbnail": ""
+    },
+    "8263747": {
+      "userId": "enjalot",
+      "description": "polygon clipping",
+      "thumbnail": ""
+    },
+    "9116395": {
+      "userId": "mpmckenna8",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9116395/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    }
+  },
+  "count": 34,
+  "coocurance": {
+    "d3.select": 34,
+    "d3.range": 28,
+    "d3.selectAll": 9,
+    "d3.selection": 6,
+    "d3.event": 11,
+    "d3.mouse": 26,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 6,
+    "d3.ease": 4,
+    "d3.timer": 9,
+    "d3.timer.flush": 6,
+    "d3.interpolate": 16,
+    "d3.interpolateNumber": 4,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 4,
+    "d3.interpolateHsl": 11,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 4,
+    "d3.descending": 6,
+    "d3.min": 21,
+    "d3.max": 7,
+    "d3.extent": 6,
+    "d3.sum": 5,
+    "d3.mean": 4,
+    "d3.median": 4,
+    "d3.quantile": 4,
+    "d3.bisect": 5,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 5,
+    "d3.permute": 4,
+    "d3.zip": 4,
+    "d3.transpose": 4,
+    "d3.keys": 4,
+    "d3.values": 4,
+    "d3.entries": 4,
+    "d3.merge": 6,
+    "d3.nest": 5,
+    "d3.map": 5,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.text": 4,
+    "d3.json": 6,
+    "d3.html": 6,
+    "d3.xml": 4,
+    "d3.csv": 4,
+    "d3.format": 6,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 6,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 6,
+    "d3.rebind": 6,
+    "d3.dispatch": 7,
+    "d3.scale": 25,
+    "d3.scale.linear": 24,
+    "d3.scale.sqrt": 4,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 6,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 6,
+    "d3.scale.category": 7,
+    "d3.svg": 10,
+    "d3.svg.line": 9,
+    "d3.svg.line.radial": 4,
+    "d3.svg.area": 6,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 7,
+    "d3.svg.symbol": 6,
+    "d3.svg.symbolTypes": 4,
+    "d3.svg.chord": 4,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.svg.axis": 6,
+    "d3.svg.brush": 6,
+    "d3.time": 9,
+    "d3.time.format": 4,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 4,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 8,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 6,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 6,
+    "d3.layout.stack": 6,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo": 34,
+    "d3.geo.path": 5,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 5,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 34,
+    "d3.geom.voronoi": 29,
+    "d3.geom.quadtree": 4,
+    "d3.geom.hull": 4,
+    "d3.behavior": 10,
+    "d3.behavior.drag": 9,
+    "d3.behavior.zoom": 6,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 6,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 5,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.geom.polygon": 33,
+    "d3.geo.orthographic": 2,
+    "d3.geodesic": 1,
+    "d3.fisheye": 2
+  }
+}

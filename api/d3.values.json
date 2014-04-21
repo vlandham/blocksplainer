@@ -1,0 +1,294 @@
+{
+  "api": "d3.values",
+  "blocks": {
+    "1153292": {
+      "userId": "mbostock",
+      "description": "Mobile Patent Suits",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1153292/raw/698996ea52cd7a26858b873ab8cfe14050af3872/thumbnail.png"
+    },
+    "1199811": {
+      "userId": "mbostock",
+      "description": "Force Layout from Adjacency List",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1199811/raw/04ad7dec9143c8dd4bf84d8ef79e6add6ef355bd/thumbnail.png"
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "2706022": {
+      "userId": "mbostock",
+      "description": "Force-Directed Graph with Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2706022/raw/2165fe4dafd6cc777e988c651fbc8a658bb2b1db/thumbnail.png"
+    },
+    "2720730": {
+      "userId": "zjonsson",
+      "description": "d3.layout.force3d (a quick hack to get force layout into the third dimension)",
+      "thumbnail": ""
+    },
+    "2949937": {
+      "userId": "mbostock",
+      "description": "Force Layout from CSV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2949937/raw/1b8b41a41443973e50056724241df156df584e32/thumbnail.png"
+    },
+    "3058685": {
+      "userId": "mbostock",
+      "description": "Geodesic Grid",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3058685/raw/6071a5aef78fa1011b2c49abf12ef666aabc0675/thumbnail.png"
+    },
+    "3061181": {
+      "userId": "mbostock",
+      "description": "Icosahedron",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3061181/raw/1e96d476dec97b4e315e8f3a3300c7924254b60d/thumbnail.png"
+    },
+    "3132496": {
+      "userId": "biovisualize",
+      "description": "Icosahedron",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3879898": {
+      "userId": "vlandham",
+      "description": "Geodesic Grid",
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/3879898/raw/6071a5aef78fa1011b2c49abf12ef666aabc0675/thumbnail.png"
+    },
+    "4134037": {
+      "userId": "mbostock",
+      "description": "Stitching States from Counties",
+      "thumbnail": ""
+    },
+    "4411685": {
+      "userId": "biovisualize",
+      "description": "Framework for a new D3.js Gallery",
+      "thumbnail": ""
+    },
+    "5369188": {
+      "userId": "biovisualize",
+      "description": "Simple Binary Tree",
+      "thumbnail": ""
+    },
+    "5479755": {
+      "userId": "zjonsson",
+      "description": "Icelandic population pyramid",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5577023": {
+      "userId": "mbostock",
+      "description": "Every ColorBrewer Scale",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5577023/raw/d14aeeff84351fc98a172a925a09297911b32933/thumbnail.png"
+    },
+    "5816489": {
+      "userId": "enjalot",
+      "description": "ccmonster",
+      "thumbnail": ""
+    },
+    "6108554": {
+      "userId": "milroc",
+      "description": "color brewer + HSL values",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6108554/raw/07b32c53a42a17007dfaa63d262a4b92c74842db/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9079827": {
+      "userId": "mpmckenna8",
+      "description": "UNHCR Persons of Concern Top 50  Places of Origin",
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9079827/raw/2633de025d51934e7739d350bbb37aba739f30d5/thumbnail.png"
+    },
+    "9166197": {
+      "userId": "mpmckenna8",
+      "description": "Using console.table() to check out objects",
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9166197/raw/1479c39a9533f10385d1d3f5d2df30c691228c9a/thumbnail.png"
+    },
+    "9203884": {
+      "userId": "mpmckenna8",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "9834558": {
+      "userId": "danharr",
+      "description": "Web Site Visits (via Jason Davies)",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9834558/raw/14c1a86196a4b5bf8440a14e6f332bd9f0f032e6/thumbnail.png"
+    }
+  },
+  "count": 26,
+  "coocurance": {
+    "d3.merge": 11,
+    "d3.round": 9,
+    "d3.geo": 10,
+    "d3.geodesic": 4,
+    "d3.select": 25,
+    "d3.timer": 10,
+    "d3.time": 11,
+    "d3.geo.path": 9,
+    "d3.range": 8,
+    "d3.selectAll": 7,
+    "d3.selection": 5,
+    "d3.event": 7,
+    "d3.mouse": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 6,
+    "d3.ease": 5,
+    "d3.timer.flush": 6,
+    "d3.interpolate": 7,
+    "d3.interpolateNumber": 7,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 6,
+    "d3.descending": 7,
+    "d3.min": 6,
+    "d3.max": 9,
+    "d3.extent": 7,
+    "d3.sum": 6,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 6,
+    "d3.bisect": 5,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 4,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.keys": 10,
+    "d3.values": 25,
+    "d3.entries": 7,
+    "d3.nest": 7,
+    "d3.map": 4,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 6,
+    "d3.html": 5,
+    "d3.xml": 5,
+    "d3.csv": 8,
+    "d3.format": 8,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.csv.parse": 2,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 7,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 6,
+    "d3.ns.qualify": 5,
+    "d3.functor": 7,
+    "d3.rebind": 7,
+    "d3.dispatch": 7,
+    "d3.scale": 13,
+    "d3.scale.linear": 12,
+    "d3.scale.sqrt": 6,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 6,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 9,
+    "d3.scale.category": 6,
+    "d3.svg": 11,
+    "d3.svg.line": 7,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 7,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 6,
+    "d3.svg.symbol": 5,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 10,
+    "d3.svg.brush": 6,
+    "d3.time.format": 6,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 5,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 5,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 4,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 11,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 10,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 5,
+    "d3.layout.pie": 5,
+    "d3.layout.stack": 5,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo.circle": 6,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 6,
+    "d3.geom.voronoi": 4,
+    "d3.geom.quadtree": 5,
+    "d3.geom.polygon": 4,
+    "d3.geom.hull": 4,
+    "d3.behavior": 7,
+    "d3.behavior.drag": 6,
+    "d3.behavior.zoom": 6,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 4,
+    "d3.random.normal": 3,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.hexbin": 1,
+    "d3.set": 1,
+    "d3.box": 1,
+    "d3.shuffle": 1
+  }
+}

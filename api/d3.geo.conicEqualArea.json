@@ -1,0 +1,82 @@
+{
+  "api": "d3.geo.conicEqualArea",
+  "blocks": {
+    "3788999": {
+      "userId": "mbostock",
+      "description": "Antimeridian Cutting",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3788999/raw/428e56dff1de26c26c11a5ea802fd4d2411313c6/thumbnail.png"
+    },
+    "4208494": {
+      "userId": "christophermanning",
+      "description": "Spherical Force-Directed Layout",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4208494/raw/6980224a906b298dd4c5bc2dc9164aaf9846757e/thumbnail.png"
+    },
+    "5562420": {
+      "userId": "christophermanning",
+      "description": "Spherical Random Walk",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/5562420/raw/78245024b3af0d976920ba3467ac210e19f0d575/thumbnail.png"
+    },
+    "5629120": {
+      "userId": "mbostock",
+      "description": "AlbersUSA + PR",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5629120/raw/b30566caeaf38fa5849941bd798df2ee481110d5/thumbnail.png"
+    },
+    "5735647": {
+      "userId": "mbostock",
+      "description": "Albers without Resampling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5735647/raw/c4b5d6e4a74958c4a2ced610a341d25cd67cfc42/thumbnail.png"
+    },
+    "5735649": {
+      "userId": "mbostock",
+      "description": "Albers with Resampling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5735649/raw/04c04720c89da3acfc7b90593e5aa134c45888a7/thumbnail.png"
+    },
+    "5735770": {
+      "userId": "mbostock",
+      "description": "No Antimeridian Cutting",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5735770/raw/78ff913e8cb60590811461bffba34d46050b4765/thumbnail.png"
+    },
+    "5952814": {
+      "userId": "mbostock",
+      "description": "Alaska Albers",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5952814/raw/44d24e22f8043dccd87458260bbd8496e5d9f717/thumbnail.png"
+    }
+  },
+  "count": 8,
+  "coocurance": {
+    "d3.select": 8,
+    "d3.event": 4,
+    "d3.mouse": 3,
+    "d3.touch": 2,
+    "d3.touches": 2,
+    "d3.json": 6,
+    "d3.scale": 3,
+    "d3.scale.linear": 2,
+    "d3.geo": 8,
+    "d3.geo.path": 8,
+    "d3.geo.rotation": 1,
+    "d3.geo.conicEqualArea.raw": 1,
+    "d3.geo.graticule": 4,
+    "d3.geo.conicEqualArea": 7,
+    "d3.geo.albers": 3,
+    "d3.geo.albersUsa": 1,
+    "d3.timer": 1,
+    "d3.time": 1,
+    "d3.geo.azimuthalEqualArea": 2,
+    "d3.geo.azimuthalEquidistant": 2,
+    "d3.geo.conicConformal": 2,
+    "d3.geo.conicEquidistant": 2,
+    "d3.geo.equirectangular": 2,
+    "d3.geo.gnomonic": 2,
+    "d3.geo.mercator": 2,
+    "d3.geo.orthographic": 2,
+    "d3.geo.stereographic": 2,
+    "d3.behavior": 2,
+    "d3.behavior.drag": 2,
+    "d3.geo.transverseMercator": 2,
+    "d3.rgb": 1,
+    "d3.scale.category": 1,
+    "d3.layout": 1,
+    "d3.layout.force": 1
+  }
+}

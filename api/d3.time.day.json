@@ -1,0 +1,413 @@
+{
+  "api": "d3.time.day",
+  "blocks": {
+    "1648635": {
+      "userId": "mbostock",
+      "description": "Monday-based Calendar",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1648635/raw/de49d8454569b9f0cef58aff8bf625e2970b75fe/thumbnail.png"
+    },
+    "3020685": {
+      "userId": "mbostock",
+      "description": "Stacked Area via Nest",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3020685/raw/5805bd10d4d290265388031c5173ba40943736cc/thumbnail.png"
+    },
+    "3202354": {
+      "userId": "mbostock",
+      "description": "Heatmap (2D Histogram, CSV)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3202354/raw/92aa28aefa5359f62180faa20eecd72883f1f017/thumbnail.png"
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3791303": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3907287": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3984401": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4063318": {
+      "userId": "mbostock",
+      "description": "Calendar View",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063318/raw/00135fd9ce610b98ed848b9e3dc234f28bcf533a/thumbnail.png"
+    },
+    "4150164": {
+      "userId": "enjalot",
+      "description": "calendar",
+      "thumbnail": ""
+    },
+    "4228586": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4260533": {
+      "userId": "zjonsson",
+      "description": "D3.js glucose levels",
+      "thumbnail": ""
+    },
+    "4279379": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/4279379/raw/00135fd9ce610b98ed848b9e3dc234f28bcf533a/thumbnail.png"
+    },
+    "4597134": {
+      "userId": "mbostock",
+      "description": "Solar Terminator",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4597134/raw/8da50c557e61d84a2989166e1eb4a3c2f8fba983/thumbnail.png"
+    },
+    "4661912": {
+      "userId": "enjalot",
+      "description": "solar terminator",
+      "thumbnail": ""
+    },
+    "4700608": {
+      "userId": "enjalot",
+      "description": "crossfilter for stoners",
+      "thumbnail": ""
+    },
+    "4712128": {
+      "userId": "mbostock",
+      "description": "The Sun’s View of the Earth",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4712128/raw/5c174a4895594ce040d2986940174de6fb5fee01/thumbnail.png"
+    },
+    "4733216": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5175210": {
+      "userId": "enjalot",
+      "description": "tributary meta vis",
+      "thumbnail": ""
+    },
+    "5175430": {
+      "userId": "enjalot",
+      "description": "tributary meta vis",
+      "thumbnail": ""
+    },
+    "5266202": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5266202/raw/2497d678cc28f7c23831bd82175f8500a40c71d0/thumbnail.png"
+    },
+    "5403383": {
+      "userId": "herrstucki",
+      "description": "Polylinear Time Scale",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5403383/raw/612ba3e2f3fdcfeec3f95494d089ca1ff9dcf685/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5537659": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5537943": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5538702": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5538737": {
+      "userId": "enjalot",
+      "description": "1024 members userSpace",
+      "thumbnail": ""
+    },
+    "5543774": {
+      "userId": "milroc",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5545110": {
+      "userId": "enjalot",
+      "description": "1024 members html",
+      "thumbnail": ""
+    },
+    "5545254": {
+      "userId": "enjalot",
+      "description": "1024 members bar",
+      "thumbnail": ""
+    },
+    "5545957": {
+      "userId": "enjalot",
+      "description": "1024 members scrolly",
+      "thumbnail": ""
+    },
+    "5546227": {
+      "userId": "enjalot",
+      "description": "1024 members html foci",
+      "thumbnail": ""
+    },
+    "5675395": {
+      "userId": "enjalot",
+      "description": "1024 members html foci",
+      "thumbnail": ""
+    },
+    "5827353": {
+      "userId": "mbostock",
+      "description": "Counting Weekdays",
+      "thumbnail": ""
+    },
+    "5940031": {
+      "userId": "gelicia",
+      "description": "squidz help",
+      "thumbnail": ""
+    },
+    "5968242": {
+      "userId": "gelicia",
+      "description": "helping OrenBochman",
+      "thumbnail": ""
+    },
+    "6232537": {
+      "userId": "mbostock",
+      "description": "Brush Snapping",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6232537/raw/6d19169101a80c3fef1407b7d782c6da1a024c7e/thumbnail.png"
+    },
+    "6232620": {
+      "userId": "mbostock",
+      "description": "Brush Snapping II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6232620/raw/6d19169101a80c3fef1407b7d782c6da1a024c7e/thumbnail.png"
+    },
+    "6361720": {
+      "userId": "gelicia",
+      "description": "squidz help moving",
+      "thumbnail": ""
+    },
+    "6361723": {
+      "userId": "gelicia",
+      "description": "squidz help",
+      "thumbnail": ""
+    },
+    "6895540": {
+      "userId": "enjalot",
+      "description": "SF side 80 traffic",
+      "thumbnail": ""
+    },
+    "6913897": {
+      "userId": "enjalot",
+      "description": "traffic control",
+      "thumbnail": ""
+    },
+    "6914083": {
+      "userId": "enjalot",
+      "description": "traffic control",
+      "thumbnail": ""
+    },
+    "8428323": {
+      "userId": "mbostock",
+      "description": "Solar Terminator (Waterman)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8428323/raw/54e6c252d8ca6b2e08e3d71f52ece2f8213063d1/thumbnail.png"
+    },
+    "9231621": {
+      "userId": "mbostock",
+      "description": "Now",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9231621/raw/3948ac2b1a1ed0d72d334b10a07b9b083683858c/thumbnail.png"
+    },
+    "9232962": {
+      "userId": "mbostock",
+      "description": "Now + Solar Terminator",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9232962/raw/e41bb759b4dd98fdbd3b78f127071ae4a61b3c4e/thumbnail.png"
+    },
+    "9658291": {
+      "userId": "mbostock",
+      "description": "Solar Oscillator",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9658291/raw/1c3f11fe4eef5f8a19315ec928b7d614955a1d00/thumbnail.png"
+    },
+    "9843633": {
+      "userId": "mbostock",
+      "description": "Countdown",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9843633/raw/0dcffe78192c411e70b8d9ab88bcdf2a5c8480ab/thumbnail.png"
+    }
+  },
+  "count": 49,
+  "coocurance": {
+    "d3.select": 47,
+    "d3.range": 14,
+    "d3.selectAll": 6,
+    "d3.selection": 4,
+    "d3.event": 7,
+    "d3.mouse": 5,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 4,
+    "d3.ease": 4,
+    "d3.timer": 7,
+    "d3.timer.flush": 4,
+    "d3.interpolate": 5,
+    "d3.interpolateNumber": 4,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 4,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 4,
+    "d3.descending": 4,
+    "d3.min": 7,
+    "d3.max": 17,
+    "d3.extent": 23,
+    "d3.sum": 6,
+    "d3.mean": 4,
+    "d3.median": 4,
+    "d3.quantile": 4,
+    "d3.bisect": 4,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 4,
+    "d3.permute": 4,
+    "d3.zip": 4,
+    "d3.transpose": 4,
+    "d3.keys": 4,
+    "d3.values": 4,
+    "d3.entries": 4,
+    "d3.merge": 4,
+    "d3.nest": 12,
+    "d3.map": 4,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.text": 4,
+    "d3.json": 13,
+    "d3.html": 4,
+    "d3.xml": 4,
+    "d3.csv": 12,
+    "d3.format": 8,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 3,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 4,
+    "d3.hsl": 4,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 4,
+    "d3.rebind": 4,
+    "d3.dispatch": 4,
+    "d3.scale": 36,
+    "d3.scale.linear": 30,
+    "d3.scale.sqrt": 11,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 8,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 9,
+    "d3.scale.category": 10,
+    "d3.svg": 22,
+    "d3.svg.line": 9,
+    "d3.svg.line.radial": 4,
+    "d3.svg.area": 9,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 4,
+    "d3.svg.symbol": 4,
+    "d3.svg.symbolTypes": 4,
+    "d3.svg.chord": 4,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.svg.axis": 17,
+    "d3.svg.brush": 10,
+    "d3.time": 49,
+    "d3.time.format": 27,
+    "d3.time.format.utc": 5,
+    "d3.time.format.iso": 6,
+    "d3.time.scale": 33,
+    "d3.time.days": 19,
+    "d3.time.dayOfYear": 5,
+    "d3.time.hour": 9,
+    "d3.time.hours": 6,
+    "d3.time.minute": 5,
+    "d3.time.minutes": 4,
+    "d3.time.month": 12,
+    "d3.time.months": 10,
+    "d3.time.second": 6,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 6,
+    "d3.time.years": 4,
+    "d3.layout": 15,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 11,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 4,
+    "d3.layout.stack": 8,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo": 18,
+    "d3.geo.path": 11,
+    "d3.geo.circle": 9,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 5,
+    "d3.geo.mercator": 4,
+    "d3.geom": 11,
+    "d3.geom.voronoi": 4,
+    "d3.geom.quadtree": 11,
+    "d3.geom.polygon": 4,
+    "d3.geom.hull": 4,
+    "d3.behavior": 9,
+    "d3.behavior.drag": 6,
+    "d3.behavior.zoom": 7,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 3,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.time.day": 48,
+    "d3.geo.graticule": 5,
+    "d3.geo.projection": 1,
+    "d3.geo.kavrayskiy7": 1,
+    "d3.geo.azimuthalEquidistant": 2,
+    "d3.geo.polyhedron": 1,
+    "d3.geo.polyhedron.waterman": 1,
+    "d3.geo.orthographic": 1,
+    "d3.geo.cylindricalEqualArea": 1,
+    "d3.fisheye": 1
+  }
+}

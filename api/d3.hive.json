@@ -1,0 +1,25 @@
+{
+  "api": "d3.hive",
+  "blocks": {
+    "2066415": {
+      "userId": "mbostock",
+      "description": "Hive Plot (Links)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2066415/raw/d128ab0f6ec4ea2a438b066e832a1a41d9aaaf3e/thumbnail.png"
+    },
+    "2066421": {
+      "userId": "mbostock",
+      "description": "Hive Plot (Areas)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2066421/raw/fe48b6de5ebba2d71ed82da629faed604d84cdd6/thumbnail.png"
+    }
+  },
+  "count": 2,
+  "coocurance": {
+    "d3.select": 2,
+    "d3.range": 2,
+    "d3.scale": 2,
+    "d3.scale.linear": 2,
+    "d3.scale.ordinal": 2,
+    "d3.scale.category": 2,
+    "d3.hive": 1
+  }
+}

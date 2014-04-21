@@ -1,0 +1,301 @@
+{
+  "api": "d3.hsl",
+  "blocks": {
+    "675512": {
+      "userId": "mbostock",
+      "description": "Rainbow Colors",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/675512/raw/0a3a40ab4abb4b8ef124e40c669cdc57ae75b3d0/thumbnail.png"
+    },
+    "900050": {
+      "userId": "mbostock",
+      "description": "d3.geo.tiler",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/900050/raw/85580e153318488cae6d341efb97146828d24cc0/thumbnail.png"
+    },
+    "1062544": {
+      "userId": "mbostock",
+      "description": "OMG Particles!",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1062544/raw/03f3cf8bc6da59dd8fd14849da4a73cf47b620bf/thumbnail.png"
+    },
+    "1096355": {
+      "userId": "mbostock",
+      "description": "PolarClock",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1096355/raw/99e7d82c5d2f685d1ea44c3cddace045ffb8cd1e/thumbnail.png"
+    },
+    "1345853": {
+      "userId": "mbostock",
+      "description": "Transform Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1345853/raw/88dafb2aa9fb34c1a145750bd3c4225fa84a1d26/thumbnail.png"
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "3057239": {
+      "userId": "mbostock",
+      "description": "Geodesic Rainbow",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3057239/raw/2653540d1a6f916b276664d1da0aea30b199801f/thumbnail.png"
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3909585": {
+      "userId": "enjalot",
+      "description": "geodesic globe",
+      "thumbnail": ""
+    },
+    "4165404": {
+      "userId": "mbostock",
+      "description": "Rainbow Worm",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4165404/raw/893d04df38ec0fedeb4a9e8e8608d781b5ce2a38/thumbnail.png"
+    },
+    "4384950": {
+      "userId": "christophermanning",
+      "description": "Simplex Noise QR code",
+      "thumbnail": ""
+    },
+    "4401901": {
+      "userId": "christophermanning",
+      "description": "SVG Self Dividing Line",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4401901/raw/ec308657ebcf7d0f9ca483155f18045514e0ebda/thumbnail.png"
+    },
+    "4459716": {
+      "userId": "mbostock",
+      "description": "Craig Retroazimuthal",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4459716/raw/6e976a1b872a2a7d97db07c83555c1f33770549a/thumbnail.png"
+    },
+    "5023284": {
+      "userId": "syntagmatic",
+      "description": "WebGL-2d Parallel Coordinates Test",
+      "thumbnail": ""
+    },
+    "5470760": {
+      "userId": "enjalot",
+      "description": "uuid color mapping",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5651657": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5651806": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5988531": {
+      "userId": "milroc",
+      "description": "basis interpolation + circles",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/5988531/raw/84897fefa373fbd1bcd8b1dc17740eedf4933008/thumbnail.png"
+    },
+    "6452972": {
+      "userId": "mbostock",
+      "description": "Brush as Slider",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6452972/raw/71b5cb2ed52f7ab3aa3022a85bf70d10c9605590/thumbnail.png"
+    },
+    "6468148": {
+      "userId": "christophermanning",
+      "description": "Kaprekar Routine",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/6468148/raw/fc28da530fb1f3831a460cf200199cd3f8dc2b52/thumbnail.png"
+    },
+    "6499018": {
+      "userId": "mbostock",
+      "description": "Smooth Slider",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6499018/raw/71b5cb2ed52f7ab3aa3022a85bf70d10c9605590/thumbnail.png"
+    },
+    "9165567": {
+      "userId": "milroc",
+      "description": "urban data hacking",
+      "thumbnail": ""
+    },
+    "9539958": {
+      "userId": "mbostock",
+      "description": "OMG Particles II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9539958/raw/5bb0627ad6e7a9bf6e61732b59169269dbf71b61/thumbnail.png"
+    },
+    "9748706": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9748706/raw/859d73ee6d2f415e527e1b3d97046833a9b2f276/thumbnail.png"
+    }
+  },
+  "count": 27,
+  "coocurance": {
+    "d3.select": 27,
+    "d3.selectAll": 8,
+    "d3.event": 11,
+    "d3.min": 7,
+    "d3.max": 9,
+    "d3.extent": 8,
+    "d3.keys": 6,
+    "d3.csv": 6,
+    "d3.csv.format": 2,
+    "d3.scale": 17,
+    "d3.scale.linear": 16,
+    "d3.scale.ordinal": 7,
+    "d3.svg": 14,
+    "d3.svg.line": 9,
+    "d3.svg.axis": 11,
+    "d3.svg.brush": 8,
+    "d3.behavior": 8,
+    "d3.behavior.drag": 6,
+    "d3.range": 14,
+    "d3.selection": 5,
+    "d3.mouse": 10,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 6,
+    "d3.ease": 5,
+    "d3.timer": 13,
+    "d3.timer.flush": 6,
+    "d3.interpolate": 6,
+    "d3.interpolateNumber": 6,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 6,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 7,
+    "d3.descending": 5,
+    "d3.sum": 6,
+    "d3.mean": 7,
+    "d3.median": 6,
+    "d3.quantile": 6,
+    "d3.bisect": 7,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 6,
+    "d3.permute": 5,
+    "d3.zip": 6,
+    "d3.transpose": 5,
+    "d3.values": 5,
+    "d3.entries": 7,
+    "d3.merge": 6,
+    "d3.nest": 9,
+    "d3.map": 4,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 7,
+    "d3.html": 5,
+    "d3.xml": 5,
+    "d3.format": 9,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.rgb": 5,
+    "d3.hsl": 26,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 7,
+    "d3.rebind": 6,
+    "d3.dispatch": 6,
+    "d3.scale.sqrt": 5,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.category": 7,
+    "d3.svg.line.radial": 6,
+    "d3.svg.area": 7,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 7,
+    "d3.svg.symbol": 6,
+    "d3.svg.symbolTypes": 6,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.time": 16,
+    "d3.time.format": 7,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 6,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 4,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 4,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 4,
+    "d3.layout.stack": 4,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo": 11,
+    "d3.geo.path": 9,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 7,
+    "d3.geo.albersUsa": 7,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 5,
+    "d3.geom": 5,
+    "d3.geom.voronoi": 4,
+    "d3.geom.quadtree": 4,
+    "d3.geom.polygon": 5,
+    "d3.geom.hull": 4,
+    "d3.behavior.zoom": 7,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 3,
+    "d3.tsv": 4,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 4,
+    "d3.set": 1,
+    "d3.geo.graticule": 1,
+    "d3.geo.projection": 1,
+    "d3.geo.craig": 1,
+    "d3.geo.orthographic": 2,
+    "d3.geodesic": 2,
+    "d3.geo.tile": 1
+  }
+}

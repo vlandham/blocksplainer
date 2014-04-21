@@ -1,0 +1,1212 @@
+{
+  "api": "d3.mouse",
+  "blocks": {
+    "714554": {
+      "userId": "mbostock",
+      "description": "Moiré Patterns",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/714554/raw/6f3ca98f8f86bcf51db522ea218bb5a74bd69b37/thumbnail.png"
+    },
+    "929623": {
+      "userId": "mbostock",
+      "description": "Build Your Own Graph!",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/929623/raw/2fa4f7b74425a03f3e9f55611119f13fd9d8d5ed/thumbnail.png"
+    },
+    "1062544": {
+      "userId": "mbostock",
+      "description": "OMG Particles!",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1062544/raw/03f3cf8bc6da59dd8fd14849da4a73cf47b620bf/thumbnail.png"
+    },
+    "1123639": {
+      "userId": "mbostock",
+      "description": "Rounded Rectangles",
+      "thumbnail": ""
+    },
+    "2494514": {
+      "userId": "syntagmatic",
+      "description": "Nutrition Parallel Sets",
+      "thumbnail": ""
+    },
+    "2633501": {
+      "userId": "jasondavies",
+      "description": "OMG Particles! (D3)",
+      "thumbnail": ""
+    },
+    "2962761": {
+      "userId": "mbostock",
+      "description": "Fisheye Grid",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2962761/raw/18176c81d745a727b09024c2477dd2b646c7340b/thumbnail.png"
+    },
+    "2962888": {
+      "userId": "mbostock",
+      "description": "Rectilinear Grid",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2962888/raw/5fbd3876ce05fc4fb10b5f6349280a684269f0c3/thumbnail.png"
+    },
+    "2973775": {
+      "userId": "biovisualize",
+      "description": "Tooltip as a d3 helper",
+      "thumbnail": ""
+    },
+    "2975255": {
+      "userId": "milroc",
+      "description": "Tooltip as a d3 helper",
+      "thumbnail": ""
+    },
+    "3025699": {
+      "userId": "mbostock",
+      "description": "UT1 - UTC",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3025699/raw/f1b0371f01a96362c42ae35d9c71cb04a85279c9/thumbnail.png"
+    },
+    "3074504": {
+      "userId": "enjalot",
+      "description": "fullscreen gradient control",
+      "thumbnail": ""
+    },
+    "3074507": {
+      "userId": "enjalot",
+      "description": "gradient control",
+      "thumbnail": ""
+    },
+    "3074722": {
+      "userId": "enjalot",
+      "description": "fullscreen gradient control",
+      "thumbnail": ""
+    },
+    "3074723": {
+      "userId": "enjalot",
+      "description": "gradient control",
+      "thumbnail": ""
+    },
+    "3088657": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3091807": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3091810": {
+      "userId": "enjalot",
+      "description": "HSL Gradient",
+      "thumbnail": ""
+    },
+    "3091849": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3094977": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3107806": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3107928": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3108107": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3108123": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3108149": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126367": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126462": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126486": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126569": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126585": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126628": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126666": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126680": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126701": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126726": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126761": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126800": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126887": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126967": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127000": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127012": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127089": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127105": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127125": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127156": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "3127174": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127211": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134318": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134327": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134341": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134374": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134377": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134378": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134415": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "3231298": {
+      "userId": "mbostock",
+      "description": "Collision Detection",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3231298/raw/d187656d23ea7fd82d28a233a9a3d3a19776bdb1/thumbnail.png"
+    },
+    "3231307": {
+      "userId": "mbostock",
+      "description": "Collision Detection (Canvas)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3231307/raw/75ac824a7c74125306ab6cc3791da5b05cb1cc8a/thumbnail.png"
+    },
+    "3259588": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3260971": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3261028": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3290263": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290313": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290392": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates, 146 Dimensions",
+      "thumbnail": ""
+    },
+    "3292856": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3309282": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3337030": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3337035": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3337101": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3337126": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3388495": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3669838": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3689931": {
+      "userId": "jasondavies",
+      "description": "Zoom by Rectangle",
+      "thumbnail": ""
+    },
+    "3692652": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3692666": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3692677": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "3692682": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3739716": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740679": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740775": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3763057": {
+      "userId": "mbostock",
+      "description": "Interactive Stereographic",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3763057/raw/bac2d2d4ae46ba66a5172a4b99e3a47b31668b61/thumbnail.png"
+    },
+    "3766821": {
+      "userId": "jasondavies",
+      "description": "Stereographic Blue Marble",
+      "thumbnail": ""
+    },
+    "3779418": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3779480": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3779865": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "3788855": {
+      "userId": "jasondavies",
+      "description": "Adaptive Resampling",
+      "thumbnail": ""
+    },
+    "3788999": {
+      "userId": "mbostock",
+      "description": "Antimeridian Cutting",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3788999/raw/428e56dff1de26c26c11a5ea802fd4d2411313c6/thumbnail.png"
+    },
+    "3795040": {
+      "userId": "mbostock",
+      "description": "Interactive Orthographic",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3795040/raw/5549af1235711234447766ec6ea14b030db7fc8b/thumbnail.png"
+    },
+    "3795048": {
+      "userId": "mbostock",
+      "description": "Interactive Gnomonic",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3795048/raw/9b5c3291907ebb012688199c651ee39c544ad746/thumbnail.png"
+    },
+    "3805628": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3897603": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3898116": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3902569": {
+      "userId": "mbostock",
+      "description": "X-Value Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3902569/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png"
+    },
+    "3949400": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3971708": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3978423": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3978596": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3998699": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4060366": {
+      "userId": "mbostock",
+      "description": "Voronoi Tessellation",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060366/raw/36ab2bc77195e965bb017fc303998c10fad4026d/thumbnail.png"
+    },
+    "4091835": {
+      "userId": "jasondavies",
+      "description": "World Boundaries TopoJSON",
+      "thumbnail": ""
+    },
+    "4102616": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4102812": {
+      "userId": "enjalot",
+      "description": "fisheye",
+      "thumbnail": ""
+    },
+    "4103031": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103915": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103921": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103929": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103932": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103938": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4103963": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4104003": {
+      "userId": "enjalot",
+      "description": "watching",
+      "thumbnail": ""
+    },
+    "4122710": {
+      "userId": "enjalot",
+      "description": "centroid picker",
+      "thumbnail": ""
+    },
+    "4132797": {
+      "userId": "mbostock",
+      "description": "Zoomable Map Tiles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4132797/raw/e130b876f353a1bce9b745160ba96f34ad8ea0d1/thumbnail.png"
+    },
+    "4150164": {
+      "userId": "enjalot",
+      "description": "calendar",
+      "thumbnail": ""
+    },
+    "4198499": {
+      "userId": "mbostock",
+      "description": "Capturing Mousemove",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4198499/raw/118ca680b57c738ede94b4f35872d2488ac2f427/thumbnail.png"
+    },
+    "4213367": {
+      "userId": "biovisualize",
+      "description": "Reusable Circular Network with Editable Data Table",
+      "thumbnail": ""
+    },
+    "4247094": {
+      "userId": "biovisualize",
+      "description": "Circular network in Tributary",
+      "thumbnail": ""
+    },
+    "4281513": {
+      "userId": "mbostock",
+      "description": "Closest Point to Segment",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4281513/raw/e0f31bbe37af944ae2732eb5f5e0f6db35831fa4/thumbnail.png"
+    },
+    "4341156": {
+      "userId": "mbostock",
+      "description": "Delaunay Triangulation",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341156/raw/f987a8deb86b446a1503d38d3a1584a5241c0b04/thumbnail.png"
+    },
+    "4341699": {
+      "userId": "mbostock",
+      "description": "Convex Hull",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341699/raw/aa3ca4c0c1c3a68464b65bc15b7ad787b280b52c/thumbnail.png"
+    },
+    "4342190": {
+      "userId": "mbostock",
+      "description": "Spline Editor",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4342190/raw/d6db77291279b30e855ce8f58006c004375c6de7/thumbnail.png"
+    },
+    "4414107": {
+      "userId": "emeeks",
+      "description": "Parallel Coordinates wired to a map of routes from ORBIS",
+      "thumbnail": ""
+    },
+    "4485778": {
+      "userId": "sxv",
+      "description": "Interactive SVG + Canvas Plot",
+      "thumbnail": ""
+    },
+    "4491174": {
+      "userId": "sxv",
+      "description": "Can't we all get along?",
+      "thumbnail": ""
+    },
+    "4588962": {
+      "userId": "emeeks",
+      "description": "An online tool for interactive teaching of network visualization and representation principles.",
+      "thumbnail": ""
+    },
+    "4689087": {
+      "userId": "enjalot",
+      "description": "blob pointers",
+      "thumbnail": ""
+    },
+    "4988766": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5020993": {
+      "userId": "christophermanning",
+      "description": "d3.js polybrush.js",
+      "thumbnail": ""
+    },
+    "5047619": {
+      "userId": "syntagmatic",
+      "description": "Polar Hover",
+      "thumbnail": ""
+    },
+    "5149102": {
+      "userId": "timelyportfolio",
+      "description": "zui53 and d3 line chart",
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5149102/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png"
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5247027": {
+      "userId": "mbostock",
+      "description": "Mouseenter",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5247027/raw/7e8406847d95ed2c14c5e407b6f084b1a9df7fc2/thumbnail.png"
+    },
+    "5255022": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5257985": {
+      "userId": "timelyportfolio",
+      "description": "output from R clickme ractive to produce d3 multiline chart",
+      "thumbnail": ""
+    },
+    "5287484": {
+      "userId": "timelyportfolio",
+      "description": "old price tables in d3 line chart using clickme ractive",
+      "thumbnail": ""
+    },
+    "5310716": {
+      "userId": "danharr",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5397710": {
+      "userId": "mbostock",
+      "description": "Lorenz Toy",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5397710/raw/886d1b41aa42dbb576e1f51340de995b312d353c/thumbnail.png"
+    },
+    "5437891": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5593150": {
+      "userId": "mbostock",
+      "description": "Vector Tiles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5593150/raw/20b9047b78ba96c26ded83aaa5fa88090af72bff/thumbnail.png"
+    },
+    "5601557": {
+      "userId": "NelsonMinar",
+      "description": "Vector slippy map of rivers built entirely in D3, no other mapping library.",
+      "thumbnail": "https://gist.githubusercontent.com/NelsonMinar/5601557/raw/a45895f51dabfcf488cd90a7cb4d398bcf8ac8a7/thumbnail.png"
+    },
+    "5629120": {
+      "userId": "mbostock",
+      "description": "AlbersUSA + PR",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5629120/raw/b30566caeaf38fa5849941bd798df2ee481110d5/thumbnail.png"
+    },
+    "5735770": {
+      "userId": "mbostock",
+      "description": "No Antimeridian Cutting",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5735770/raw/78ff913e8cb60590811461bffba34d46050b4765/thumbnail.png"
+    },
+    "5754673": {
+      "userId": "enjalot",
+      "description": "d3.sticker plugin",
+      "thumbnail": ""
+    },
+    "5779793": {
+      "userId": "enjalot",
+      "description": "scaler",
+      "thumbnail": ""
+    },
+    "5780132": {
+      "userId": "enjalot",
+      "description": "scaler",
+      "thumbnail": ""
+    },
+    "5780169": {
+      "userId": "enjalot",
+      "description": "scaler ascii",
+      "thumbnail": ""
+    },
+    "5783737": {
+      "userId": "enjalot",
+      "description": "scaler utf8",
+      "thumbnail": ""
+    },
+    "5789531": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay drawing",
+      "thumbnail": ""
+    },
+    "5789774": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay drawing",
+      "thumbnail": ""
+    },
+    "5789785": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay grid drawing",
+      "thumbnail": ""
+    },
+    "5789829": {
+      "userId": "enjalot",
+      "description": "voronoi delaunay animation",
+      "thumbnail": ""
+    },
+    "5789937": {
+      "userId": "enjalot",
+      "description": "delaunay stroke",
+      "thumbnail": ""
+    },
+    "5803524": {
+      "userId": "syntagmatic",
+      "description": "Historical Volumes",
+      "thumbnail": ""
+    },
+    "5862283": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5988531": {
+      "userId": "milroc",
+      "description": "basis interpolation + circles",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/5988531/raw/84897fefa373fbd1bcd8b1dc17740eedf4933008/thumbnail.png"
+    },
+    "6119774": {
+      "userId": "enjalot",
+      "description": "constraints",
+      "thumbnail": ""
+    },
+    "6198366": {
+      "userId": "enjalot",
+      "description": "fisheye grid",
+      "thumbnail": ""
+    },
+    "6198373": {
+      "userId": "enjalot",
+      "description": "fisheye grid",
+      "thumbnail": ""
+    },
+    "6231350": {
+      "userId": "timelyportfolio",
+      "description": "US Treasury Yield Curve using a R lattice plot with d3",
+      "thumbnail": ""
+    },
+    "6252259": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "6301817": {
+      "userId": "mbostock",
+      "description": "Map Zooming II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6301817/raw/f842017d6a32d0ad639a7535b15e3f5a2d594fcc/thumbnail.png"
+    },
+    "6301872": {
+      "userId": "mbostock",
+      "description": "Map Zooming III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6301872/raw/be446eb20d3bae51dadd9e4e2ad2d14c090a1ab4/thumbnail.png"
+    },
+    "6432815": {
+      "userId": "syntagmatic",
+      "description": "Voronoi Lookup",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6432815/raw/ad36833a2a4efe0fb6db75d53191cc10dc8e03a5/thumbnail.png"
+    },
+    "6452972": {
+      "userId": "mbostock",
+      "description": "Brush as Slider",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6452972/raw/71b5cb2ed52f7ab3aa3022a85bf70d10c9605590/thumbnail.png"
+    },
+    "6473246": {
+      "userId": "enjalot",
+      "description": "blood in the water",
+      "thumbnail": ""
+    },
+    "6473448": {
+      "userId": "enjalot",
+      "description": "fisheye",
+      "thumbnail": ""
+    },
+    "6492074": {
+      "userId": "syntagmatic",
+      "description": "Hyperbolic Grid",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6492074/raw/6f8f95398829d69997ba2ea90f843c8a76493f4a/thumbnail.png"
+    },
+    "6498000": {
+      "userId": "mbostock",
+      "description": "Click-to-Recenter Brush",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6498000/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "6498580": {
+      "userId": "mbostock",
+      "description": "Click-to-Recenter Brush II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6498580/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "6499018": {
+      "userId": "mbostock",
+      "description": "Smooth Slider",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6499018/raw/71b5cb2ed52f7ab3aa3022a85bf70d10c9605590/thumbnail.png"
+    },
+    "6559330": {
+      "userId": "enjalot",
+      "description": "simple bar",
+      "thumbnail": ""
+    },
+    "6559357": {
+      "userId": "enjalot",
+      "description": "simple bar code",
+      "thumbnail": ""
+    },
+    "6559462": {
+      "userId": "enjalot",
+      "description": "bar code",
+      "thumbnail": ""
+    },
+    "6623377": {
+      "userId": "tomgp",
+      "description": "Growth chart",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/6623377/raw/b93a71495fedcae17d5e918efe74a657a54eb245/thumbnail.png"
+    },
+    "6645345": {
+      "userId": "syntagmatic",
+      "description": "Selecting Countries on a Canvas Globe",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6645345/raw/aa0988598350799cc15e1f9a19a5bf407f324da8/thumbnail.png"
+    },
+    "6675193": {
+      "userId": "mbostock",
+      "description": "Canvas Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6675193/raw/f93597d91ee3376df2870a78b79443a669688564/thumbnail.png"
+    },
+    "6719986": {
+      "userId": "tomgp",
+      "description": "Discrete Gaussian distribution",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/6719986/raw/ed4473988618c4928e29faee9f4595ce223e1210/thumbnail.png"
+    },
+    "6875359": {
+      "userId": "timelyportfolio",
+      "description": "micropolar Area label fix?",
+      "thumbnail": ""
+    },
+    "6901553": {
+      "userId": "syntagmatic",
+      "description": "Versor.js Test",
+      "thumbnail": ""
+    },
+    "6905926": {
+      "userId": "mbostock",
+      "description": "Snowflake Simplification",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6905926/raw/384794639854d2ba7022ff14afda331737744566/thumbnail.png"
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7050567": {
+      "userId": "enjalot",
+      "description": "weezy utf8",
+      "thumbnail": ""
+    },
+    "7052702": {
+      "userId": "syntagmatic",
+      "description": "Draggable Canvas Force Graph",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7280327": {
+      "userId": "mbostock",
+      "description": "Shiboronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7280327/raw/d8085fdb18cf2ecec40d9c54a2b69c2ae0f6f0dd/thumbnail.png"
+    },
+    "8027637": {
+      "userId": "mbostock",
+      "description": "Closest Point on Path",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8027637/raw/5918a93a2a1dfeb700532f3878ba53312789595a/thumbnail.png"
+    },
+    "8263288": {
+      "userId": "enjalot",
+      "description": "polygon clipping",
+      "thumbnail": ""
+    },
+    "8263747": {
+      "userId": "enjalot",
+      "description": "polygon clipping",
+      "thumbnail": ""
+    },
+    "8463137": {
+      "userId": "bollwyvl",
+      "description": "",
+      "thumbnail": ""
+    },
+    "8664016": {
+      "userId": "enjalot",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/enjalot/8664016/raw/1465a8ba4eae0a54d5c12865a0b5815e01709197/thumbnail.png"
+    },
+    "8664421": {
+      "userId": "enjalot",
+      "description": "dragging an electron (result)",
+      "thumbnail": "https://gist.githubusercontent.com/enjalot/8664421/raw/15463d60cb177d22b4458fbbfdfa0aa6bbd9222a/thumbnail.png"
+    },
+    "8679325": {
+      "userId": "enjalot",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/enjalot/8679325/raw/15463d60cb177d22b4458fbbfdfa0aa6bbd9222a/thumbnail.png"
+    },
+    "8681770": {
+      "userId": "enjalot",
+      "description": "electron",
+      "thumbnail": "https://gist.githubusercontent.com/enjalot/8681770/raw/082883a7d87b55425afa773dc78e0d96b089dfef/thumbnail.png"
+    },
+    "8743890": {
+      "userId": "vlandham",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/8743890/raw/d16210ff242e79afc260f9dff1fe542c7c81539e/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9078690": {
+      "userId": "mbostock",
+      "description": "Quadtree Search",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9078690/raw/64522cfa6214d2cc66fd7f5abcde689accfb0e4d/thumbnail.png"
+    },
+    "9165567": {
+      "userId": "milroc",
+      "description": "urban data hacking",
+      "thumbnail": ""
+    },
+    "9539958": {
+      "userId": "mbostock",
+      "description": "OMG Particles II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9539958/raw/5bb0627ad6e7a9bf6e61732b59169269dbf71b61/thumbnail.png"
+    },
+    "9666146": {
+      "userId": "gelicia",
+      "description": "fisheyeplay",
+      "thumbnail": ""
+    },
+    "9716298": {
+      "userId": "magrawala",
+      "description": "Bubble Cursor",
+      "thumbnail": "https://gist.githubusercontent.com/magrawala/9716298/raw/ce9f18e8ad9c4a3ea6b3a16d3239f37d16a3598a/thumbnail.png"
+    },
+    "9807557": {
+      "userId": "timelyportfolio",
+      "description": "Datamaps version of http://portal.nifa.usda.gov/web/maps/nifa-funding-by-congressional-district/",
+      "thumbnail": ""
+    },
+    "9834558": {
+      "userId": "danharr",
+      "description": "Web Site Visits (via Jason Davies)",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9834558/raw/14c1a86196a4b5bf8440a14e6f332bd9f0f032e6/thumbnail.png"
+    },
+    "9842512": {
+      "userId": "milroc",
+      "description": "Fitts's Bar, I",
+      "thumbnail": ""
+    },
+    "9852608": {
+      "userId": "seemantk",
+      "description": "Gentoo Galaxy Visualization",
+      "thumbnail": "https://gist.githubusercontent.com/seemantk/9852608/raw/7c29a56a469bf5c842656ebc70fb674c707374ea/thumbnail.png"
+    }
+  },
+  "count": 207,
+  "coocurance": {
+    "d3.select": 207,
+    "d3.range": 107,
+    "d3.scale": 116,
+    "d3.scale.linear": 102,
+    "d3.layout": 27,
+    "d3.layout.force": 21,
+    "d3.geo": 67,
+    "d3.geom": 47,
+    "d3.geom.quadtree": 13,
+    "d3.behavior": 65,
+    "d3.behavior.zoom": 13,
+    "d3.mouse": 206,
+    "d3.event": 68,
+    "d3.json": 23,
+    "d3.scale.category": 22,
+    "d3.behavior.drag": 56,
+    "d3.timer": 19,
+    "d3.time": 32,
+    "d3.geo.path": 26,
+    "d3.geo.graticule": 6,
+    "d3.geo.equirectangular": 6,
+    "d3.geo.orthographic": 4,
+    "d3.geom.voronoi": 35,
+    "d3.selectAll": 27,
+    "d3.csv": 18,
+    "d3.time.format": 17,
+    "d3.interpolate": 48,
+    "d3.interpolateRound": 5,
+    "d3.text": 5,
+    "d3.format": 26,
+    "d3.rebind": 25,
+    "d3.dispatch": 22,
+    "d3.svg": 58,
+    "d3.svg.axis": 33,
+    "d3.time.format.iso": 5,
+    "d3.time.scale": 17,
+    "d3.svg.line": 41,
+    "d3.svg.line.radial": 7,
+    "d3.extent": 24,
+    "d3.fisheye": 24,
+    "d3.min": 35,
+    "d3.max": 28,
+    "d3.keys": 15,
+    "d3.csv.format": 3,
+    "d3.scale.identity": 8,
+    "d3.scale.ordinal": 24,
+    "d3.svg.brush": 21,
+    "d3.selection": 7,
+    "d3.touch": 9,
+    "d3.touches": 9,
+    "d3.transition": 9,
+    "d3.ease": 4,
+    "d3.timer.flush": 8,
+    "d3.interpolateNumber": 8,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 22,
+    "d3.interpolateHsl": 24,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 8,
+    "d3.descending": 7,
+    "d3.sum": 8,
+    "d3.mean": 4,
+    "d3.median": 5,
+    "d3.quantile": 7,
+    "d3.bisect": 18,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 13,
+    "d3.permute": 4,
+    "d3.zip": 11,
+    "d3.transpose": 6,
+    "d3.values": 6,
+    "d3.entries": 6,
+    "d3.merge": 8,
+    "d3.nest": 16,
+    "d3.map": 6,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.html": 6,
+    "d3.xml": 4,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 5,
+    "d3.csv.parse": 2,
+    "d3.csv.parseRows": 1,
+    "d3.rgb": 9,
+    "d3.hsl": 10,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 14,
+    "d3.scale.sqrt": 9,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 6,
+    "d3.scale.quantile": 4,
+    "d3.svg.area": 14,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 14,
+    "d3.svg.symbol": 7,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 6,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.time.format.utc": 4,
+    "d3.time.day": 5,
+    "d3.time.days": 5,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 5,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 7,
+    "d3.time.months": 5,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 5,
+    "d3.time.weeks": 5,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 6,
+    "d3.layout.cluster": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 5,
+    "d3.layout.pie": 8,
+    "d3.layout.stack": 9,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 6,
+    "d3.geo.albersUsa": 6,
+    "d3.geo.mercator": 11,
+    "d3.geom.polygon": 26,
+    "d3.geom.hull": 5,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.geo.stereographic": 2,
+    "d3.interpolateLab": 14,
+    "d3.interpolateHcl": 9,
+    "d3.random.normal": 6,
+    "d3.tsv": 7,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 4,
+    "d3.geo.transform": 3,
+    "d3.interpolateZoom": 2,
+    "d3.geo.clipExtent": 2,
+    "d3.geo.rotation": 1,
+    "d3.geo.conicEqualArea": 3,
+    "d3.geo.conicEqualArea.raw": 1,
+    "d3.geo.tile": 4,
+    "d3.geo.gnomonic": 1,
+    "d3.geo.projection": 1,
+    "d3.geo.satellite": 1,
+    "d3.hexbin": 1,
+    "d3.set": 2,
+    "d3.box": 2,
+    "d3.shuffle": 1
+  }
+}

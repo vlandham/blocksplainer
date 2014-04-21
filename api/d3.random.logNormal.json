@@ -1,0 +1,25 @@
+{
+  "api": "d3.random.logNormal",
+  "blocks": {
+    "3048166": {
+      "userId": "mbostock",
+      "description": "Duration Histogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3048166/raw/a5e70801e15e1c47012cfdcd251015aa01092f8b/thumbnail.png"
+    }
+  },
+  "count": 1,
+  "coocurance": {
+    "d3.select": 1,
+    "d3.max": 1,
+    "d3.range": 1,
+    "d3.format": 1,
+    "d3.scale": 1,
+    "d3.scale.linear": 1,
+    "d3.svg": 1,
+    "d3.svg.axis": 1,
+    "d3.time": 1,
+    "d3.time.format": 1,
+    "d3.layout": 1,
+    "d3.layout.histogram": 1
+  }
+}

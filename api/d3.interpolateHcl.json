@@ -1,0 +1,509 @@
+{
+  "api": "d3.interpolateHcl",
+  "blocks": {
+    "1125997": {
+      "userId": "mbostock",
+      "description": "Chained Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1125997/raw/09df60ccc4056c2e69e6c0ee40c9ce8907cd9531/thumbnail.png"
+    },
+    "3014589": {
+      "userId": "mbostock",
+      "description": "L*a*b* and HCL color spaces",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3014589/raw/8a1d8b16e3807e674f4cbc42ece48cbc0ab5708c/thumbnail.png"
+    },
+    "3108149": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3114830": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "3118365": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "3289530": {
+      "userId": "mbostock",
+      "description": "Heightmap",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3289530/raw/bc42ae18c73eb5866f5b97446e18c2e5a1c5f231/thumbnail.png"
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3341641": {
+      "userId": "syntagmatic",
+      "description": "Render Queue",
+      "thumbnail": ""
+    },
+    "3615614": {
+      "userId": "syntagmatic",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3615641": {
+      "userId": "syntagmatic",
+      "description": "d3 color interpolators",
+      "thumbnail": ""
+    },
+    "3615704": {
+      "userId": "syntagmatic",
+      "description": "3 color scale",
+      "thumbnail": ""
+    },
+    "3650755": {
+      "userId": "enjalot",
+      "description": "color scales",
+      "thumbnail": ""
+    },
+    "3714670": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3714774": {
+      "userId": "enjalot",
+      "description": "cost of living combo",
+      "thumbnail": ""
+    },
+    "3722445": {
+      "userId": "enjalot",
+      "description": "example block",
+      "thumbnail": ""
+    },
+    "3736720": {
+      "userId": "syntagmatic",
+      "description": "Zoomable Julia Set",
+      "thumbnail": ""
+    },
+    "3739948": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740375": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740480": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740524": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740655": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740667": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740789": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740849": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740921": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740930": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3740948": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741014": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741028": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741144": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741188": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741254": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741260": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741269": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741291": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741301": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741330": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741344": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741370": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741406": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3897603": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4082681": {
+      "userId": "NelsonMinar",
+      "description": "Demonstration of red/blue interpolation options",
+      "thumbnail": ""
+    },
+    "4083822": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4429648": {
+      "userId": "enjalot",
+      "description": "Pythagorean Triples",
+      "thumbnail": ""
+    },
+    "4669132": {
+      "userId": "enjalot",
+      "description": "heightmap",
+      "thumbnail": ""
+    },
+    "4998357": {
+      "userId": "enjalot",
+      "description": "#352 geometrydaily challenge",
+      "thumbnail": ""
+    },
+    "5385402": {
+      "userId": "mbostock",
+      "description": "Lorenz System",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5385402/raw/ce47231bebee9cd9dc903c16b961b584b7be96f7/thumbnail.png"
+    },
+    "5397710": {
+      "userId": "mbostock",
+      "description": "Lorenz Toy",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5397710/raw/886d1b41aa42dbb576e1f51340de995b312d353c/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5694697": {
+      "userId": "herrstucki",
+      "description": "Sorting the Grid",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5694697/raw/ef01332ddd8e5345a2b8e43ab6e64524355590bf/thumbnail.png"
+    },
+    "5835837": {
+      "userId": "enjalot",
+      "description": "choosing colors",
+      "thumbnail": ""
+    },
+    "5862283": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5912673": {
+      "userId": "mbostock",
+      "description": "Extradition Treaties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5912673/raw/855e24df490be3e28861e48b6fd6e31687470528/thumbnail.png"
+    },
+    "5939835": {
+      "userId": "gelicia",
+      "description": "mbostock chained transitions",
+      "thumbnail": ""
+    },
+    "6059532": {
+      "userId": "mbostock",
+      "description": "Gradient Bump",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6059532/raw/b65eeaf584e0623c0c3efe0a47df4df4f230901a/thumbnail.png"
+    },
+    "6243985": {
+      "userId": "gelicia",
+      "description": "color scales",
+      "thumbnail": ""
+    },
+    "6264239": {
+      "userId": "mbostock",
+      "description": "Plant Hardiness Zones",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6264239/raw/01a28795d0e0c65f5990dbb2f01ec2bfb888716d/thumbnail.png"
+    },
+    "6312708": {
+      "userId": "herrstucki",
+      "description": "Swiss Topography",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/6312708/raw/9a2bf8389df9582c622b5d2c08c7f14a0aeb3c97/thumbnail.png"
+    },
+    "6320825": {
+      "userId": "mbostock",
+      "description": "Population Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6320825/raw/e4d84ba027e9ac8d51ed78890597901bd911f8fa/thumbnail.png"
+    },
+    "6605026": {
+      "userId": "enjalot",
+      "description": "reddit r/pics 3",
+      "thumbnail": ""
+    },
+    "6605284": {
+      "userId": "enjalot",
+      "description": "reddit r/pics 4",
+      "thumbnail": ""
+    },
+    "6632828": {
+      "userId": "enjalot",
+      "description": "reusable scatter",
+      "thumbnail": ""
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7065278": {
+      "userId": "milroc",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7065278/raw/01a28795d0e0c65f5990dbb2f01ec2bfb888716d/thumbnail.png"
+    },
+    "7480189": {
+      "userId": "enjalot",
+      "description": "frontend masters interest + experience survey linked",
+      "thumbnail": ""
+    },
+    "7607535": {
+      "userId": "mbostock",
+      "description": "Zoomable Circle Packing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7607535/raw/19ead3729418158e4d457ffaa2c875823c9bb354/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    }
+  },
+  "count": 69,
+  "coocurance": {
+    "d3.select": 49,
+    "d3.selectAll": 9,
+    "d3.interpolate": 69,
+    "d3.keys": 31,
+    "d3.scale": 69,
+    "d3.scale.linear": 68,
+    "d3.behavior": 10,
+    "d3.behavior.zoom": 7,
+    "d3.timer": 17,
+    "d3.interpolateLab": 16,
+    "d3.rebind": 30,
+    "d3.dispatch": 30,
+    "d3.scale.sqrt": 11,
+    "d3.time": 21,
+    "d3.interpolateRgb": 10,
+    "d3.interpolateHsl": 14,
+    "d3.interpolateHcl": 68,
+    "d3.entries": 6,
+    "d3.range": 39,
+    "d3.scale.ordinal": 16,
+    "d3.json": 11,
+    "d3.svg": 13,
+    "d3.svg.arc": 6,
+    "d3.svg.axis": 11,
+    "d3.selection": 3,
+    "d3.event": 11,
+    "d3.mouse": 9,
+    "d3.touch": 3,
+    "d3.touches": 3,
+    "d3.transition": 4,
+    "d3.ease": 3,
+    "d3.timer.flush": 5,
+    "d3.interpolateNumber": 7,
+    "d3.interpolateRound": 3,
+    "d3.interpolateString": 3,
+    "d3.interpolateArray": 3,
+    "d3.interpolateObject": 3,
+    "d3.interpolateTransform": 3,
+    "d3.interpolators": 3,
+    "d3.ascending": 6,
+    "d3.descending": 4,
+    "d3.min": 13,
+    "d3.max": 15,
+    "d3.extent": 6,
+    "d3.sum": 6,
+    "d3.mean": 3,
+    "d3.median": 3,
+    "d3.quantile": 6,
+    "d3.bisect": 3,
+    "d3.bisectRight": 3,
+    "d3.bisectLeft": 3,
+    "d3.bisector": 3,
+    "d3.permute": 3,
+    "d3.zip": 3,
+    "d3.transpose": 3,
+    "d3.values": 4,
+    "d3.merge": 3,
+    "d3.nest": 6,
+    "d3.map": 5,
+    "d3.random.normal": 3,
+    "d3.transform": 3,
+    "d3.xhr": 3,
+    "d3.text": 3,
+    "d3.html": 3,
+    "d3.xml": 3,
+    "d3.csv": 4,
+    "d3.tsv": 5,
+    "d3.format": 8,
+    "d3.formatPrefix": 3,
+    "d3.requote": 3,
+    "d3.round": 3,
+    "d3.rgb": 21,
+    "d3.hsl": 3,
+    "d3.lab": 3,
+    "d3.hcl": 4,
+    "d3.ns.prefix": 3,
+    "d3.ns.qualify": 3,
+    "d3.functor": 5,
+    "d3.scale.pow": 3,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 5,
+    "d3.scale.threshold": 4,
+    "d3.scale.quantile": 3,
+    "d3.scale.identity": 3,
+    "d3.scale.category": 8,
+    "d3.svg.line": 5,
+    "d3.svg.line.radial": 3,
+    "d3.svg.area": 5,
+    "d3.svg.area.radial": 3,
+    "d3.svg.symbol": 3,
+    "d3.svg.symbolTypes": 3,
+    "d3.svg.chord": 3,
+    "d3.svg.diagonal": 3,
+    "d3.svg.diagonal.radial": 3,
+    "d3.svg.brush": 7,
+    "d3.time.format": 8,
+    "d3.time.format.utc": 3,
+    "d3.time.format.iso": 3,
+    "d3.time.scale": 6,
+    "d3.time.day": 3,
+    "d3.time.days": 3,
+    "d3.time.dayOfYear": 3,
+    "d3.time.hour": 4,
+    "d3.time.hours": 3,
+    "d3.time.minute": 3,
+    "d3.time.minutes": 3,
+    "d3.time.month": 3,
+    "d3.time.months": 3,
+    "d3.time.second": 3,
+    "d3.time.seconds": 3,
+    "d3.time.sunday": 3,
+    "d3.time.sundayOfYear": 3,
+    "d3.time.monday": 3,
+    "d3.time.mondayOfYear": 3,
+    "d3.time.week": 3,
+    "d3.time.weeks": 3,
+    "d3.time.weekOfYear": 3,
+    "d3.time.year": 3,
+    "d3.time.years": 3,
+    "d3.layout": 8,
+    "d3.layout.bundle": 3,
+    "d3.layout.chord": 3,
+    "d3.layout.cluster": 3,
+    "d3.layout.force": 5,
+    "d3.layout.hierarchy": 3,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 3,
+    "d3.layout.pie": 5,
+    "d3.layout.stack": 5,
+    "d3.layout.tree": 3,
+    "d3.layout.treemap": 3,
+    "d3.geo": 14,
+    "d3.geo.path": 14,
+    "d3.geo.circle": 3,
+    "d3.geo.bounds": 3,
+    "d3.geo.albers": 3,
+    "d3.geo.albersUsa": 3,
+    "d3.geo.equirectangular": 3,
+    "d3.geo.mercator": 7,
+    "d3.geom": 5,
+    "d3.geom.voronoi": 3,
+    "d3.geom.quadtree": 5,
+    "d3.geom.polygon": 3,
+    "d3.geom.hull": 3,
+    "d3.behavior.drag": 6,
+    "d3.geom.contour": 3,
+    "d3.geo.bonne": 3,
+    "d3.interpolateZoom": 1,
+    "d3.geo.projection": 1,
+    "d3.geo.naturalEarth": 1,
+    "d3.hexbin": 1,
+    "d3.set": 2,
+    "d3.box": 2,
+    "d3.shuffle": 1,
+    "d3.pairs": 1
+  }
+}

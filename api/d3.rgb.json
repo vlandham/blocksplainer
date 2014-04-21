@@ -1,0 +1,649 @@
+{
+  "api": "d3.rgb",
+  "blocks": {
+    "1021841": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1021841/raw/3eb47972c3f72a709c081b044989c44278f358a2/thumbnail.png"
+    },
+    "1021953": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1021953/raw/36092f17cf2ee121cdc9d8976a01aa27978dad7e/thumbnail.png"
+    },
+    "1046712": {
+      "userId": "mbostock",
+      "description": "Chord Diagram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1046712/raw/ff0a1e8076025791f8e0ca90574ec57e634ddb45/thumbnail.png"
+    },
+    "1129492": {
+      "userId": "mbostock",
+      "description": "Bounded Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1129492/raw/432d5a7a76219b8cec41f74bb94a7e930636088e/thumbnail.png"
+    },
+    "1134768": {
+      "userId": "mbostock",
+      "description": "Stacked Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1134768/raw/6574aca7fa9636f69e48c97ccf57575b5bcdcbe0/thumbnail.png"
+    },
+    "1138500": {
+      "userId": "mbostock",
+      "description": "Force-Directed Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1138500/raw/f46c81b0c8ae06a6928bb4f8a5fc9da02bcf0225/thumbnail.png"
+    },
+    "1308257": {
+      "userId": "mbostock",
+      "description": "The Euro Debt Crisis",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1308257/raw/aa1fa8c2ddda32f457f24cabdbf5f7f050b5b779/thumbnail.png"
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "2125175": {
+      "userId": "vlandham",
+      "description": "Force Layout with Multiple Foci",
+      "thumbnail": ""
+    },
+    "2165875": {
+      "userId": "enjalot",
+      "description": "inlets for tributary",
+      "thumbnail": ""
+    },
+    "2958199": {
+      "userId": "enjalot",
+      "description": "RGB Breakdown",
+      "thumbnail": ""
+    },
+    "3074470": {
+      "userId": "mbostock",
+      "description": "Heatmap (Canvas, JSON)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3074470/raw/fea0e2f6795109d8ccc5e5b8e45d8d4059436cd6/thumbnail.png"
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3289530": {
+      "userId": "mbostock",
+      "description": "Heightmap",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3289530/raw/bc42ae18c73eb5866f5b97446e18c2e5a1c5f231/thumbnail.png"
+    },
+    "3290752": {
+      "userId": "mbostock",
+      "description": "Rainbows are Harmful",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3290752/raw/b397d74bff9bc4d99feabc15d9ef5001e6a87f2b/thumbnail.png"
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3343492": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "3343586": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "3387570": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3692440": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693939": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741014": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741028": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741144": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741188": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741207": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741254": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741260": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741269": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741291": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741301": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741330": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741344": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741370": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3741406": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3898058": {
+      "userId": "enjalot",
+      "description": "force: multiple foci",
+      "thumbnail": ""
+    },
+    "4176908": {
+      "userId": "biovisualize",
+      "description": "Sankey Viz using R2D3",
+      "thumbnail": ""
+    },
+    "4208494": {
+      "userId": "christophermanning",
+      "description": "Spherical Force-Directed Layout",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4208494/raw/6980224a906b298dd4c5bc2dc9164aaf9846757e/thumbnail.png"
+    },
+    "4669132": {
+      "userId": "enjalot",
+      "description": "heightmap",
+      "thumbnail": ""
+    },
+    "5052095": {
+      "userId": "timelyportfolio",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5058110": {
+      "userId": "enjalot",
+      "description": "#rotate triangles",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5310716": {
+      "userId": "danharr",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5321812": {
+      "userId": "enjalot",
+      "description": "three.js test",
+      "thumbnail": ""
+    },
+    "5468998": {
+      "userId": "milroc",
+      "description": "Bubble Chart",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5542460": {
+      "userId": "enjalot",
+      "description": "clam star",
+      "thumbnail": ""
+    },
+    "5543476": {
+      "userId": "enjalot",
+      "description": "clam sknowflake",
+      "thumbnail": ""
+    },
+    "5553051": {
+      "userId": "milroc",
+      "description": "Slides: \"Reusable Visualizations\"",
+      "thumbnail": ""
+    },
+    "5681495": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5746180": {
+      "userId": "timelyportfolio",
+      "description": "put together Gist for new Rickshaw [multi renderer]",
+      "thumbnail": ""
+    },
+    "5784335": {
+      "userId": "enjalot",
+      "description": "uuid color mapping light-dark",
+      "thumbnail": ""
+    },
+    "5784434": {
+      "userId": "enjalot",
+      "description": "uuid color mapping light-dark",
+      "thumbnail": ""
+    },
+    "5852119": {
+      "userId": "jfsiii",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5870516": {
+      "userId": "enjalot",
+      "description": "#307 Aster (reverse)",
+      "thumbnail": ""
+    },
+    "5892755": {
+      "userId": "enjalot",
+      "description": "optical_illusion_001_motion2",
+      "thumbnail": ""
+    },
+    "6001601": {
+      "userId": "timelyportfolio",
+      "description": "rCharts Implements d3.js Sankey Plugin",
+      "thumbnail": ""
+    },
+    "6003575": {
+      "userId": "timelyportfolio",
+      "description": "rCharts Sankey EU Horsemeat",
+      "thumbnail": ""
+    },
+    "6003605": {
+      "userId": "timelyportfolio",
+      "description": "rCharts F1",
+      "thumbnail": ""
+    },
+    "6022406": {
+      "userId": "timelyportfolio",
+      "description": "",
+      "thumbnail": ""
+    },
+    "6062594": {
+      "userId": "timelyportfolio",
+      "description": "Easier Sankey | No Download/Extract",
+      "thumbnail": ""
+    },
+    "6085852": {
+      "userId": "timelyportfolio",
+      "description": "Sankey of rCharts Example Gallery",
+      "thumbnail": ""
+    },
+    "6095915": {
+      "userId": "enjalot",
+      "description": "color flipping",
+      "thumbnail": ""
+    },
+    "6108554": {
+      "userId": "milroc",
+      "description": "color brewer + HSL values",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6108554/raw/07b32c53a42a17007dfaa63d262a4b92c74842db/thumbnail.png"
+    },
+    "6198816": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199075": {
+      "userId": "enjalot",
+      "description": "bart ridership particles",
+      "thumbnail": ""
+    },
+    "6199373": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199398": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199401": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199408": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199415": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199445": {
+      "userId": "enjalot",
+      "description": "bart particles",
+      "thumbnail": ""
+    },
+    "6199528": {
+      "userId": "enjalot",
+      "description": "bart ridership particles",
+      "thumbnail": ""
+    },
+    "6316349": {
+      "userId": "milroc",
+      "description": "    ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6316349/raw/47c7c1fd2c9c05689a9e4f15454c59c114e1c957/thumbnail.png"
+    },
+    "6365963": {
+      "userId": "gelicia",
+      "description": "boomstick_motion2",
+      "thumbnail": ""
+    },
+    "6384402": {
+      "userId": "gelicia",
+      "description": "xor circles",
+      "thumbnail": ""
+    },
+    "6389274": {
+      "userId": "gelicia",
+      "description": "xor squares",
+      "thumbnail": ""
+    },
+    "6418413": {
+      "userId": "enjalot",
+      "description": "gif experiment xor circles",
+      "thumbnail": ""
+    },
+    "6418604": {
+      "userId": "enjalot",
+      "description": "gif experiment xor circles",
+      "thumbnail": ""
+    },
+    "6679752": {
+      "userId": "timelyportfolio",
+      "description": "Sankey with Some Changes",
+      "thumbnail": ""
+    },
+    "6684778": {
+      "userId": "gelicia",
+      "description": "red and black",
+      "thumbnail": ""
+    },
+    "6690695": {
+      "userId": "gelicia",
+      "description": "i wish this was a mustache emporium",
+      "thumbnail": ""
+    },
+    "6708323": {
+      "userId": "enjalot",
+      "description": "simplified aspiring mustache emporium",
+      "thumbnail": ""
+    },
+    "6708338": {
+      "userId": "enjalot",
+      "description": "mustache phase",
+      "thumbnail": ""
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7063641": {
+      "userId": "ramnathv",
+      "description": "",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7269050": {
+      "userId": "ramnathv",
+      "description": "Sankey Plot of Grant Funding",
+      "thumbnail": ""
+    },
+    "7691619": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9614088": {
+      "userId": "enjalot",
+      "description": "#@unsquared geometry BADGE",
+      "thumbnail": ""
+    },
+    "9614207": {
+      "userId": "enjalot",
+      "description": "gif experiment xor circles BADGE",
+      "thumbnail": ""
+    },
+    "10000634": {
+      "userId": "finiterank",
+      "description": "Paleta de colores",
+      "thumbnail": "https://gist.githubusercontent.com/finiterank/10000634/raw/f3ca99a3885b356f4e99544c88dcfdfc192cc4d7/thumbnail.png"
+    },
+    "10156411": {
+      "userId": "jugglingnutcase",
+      "description": "7 Wonders scores stacked bar graph",
+      "thumbnail": "https://gist.githubusercontent.com/jugglingnutcase/10156411/raw/6574aca7fa9636f69e48c97ccf57575b5bcdcbe0/thumbnail.png"
+    }
+  },
+  "count": 95,
+  "coocurance": {
+    "d3.select": 78,
+    "d3.range": 54,
+    "d3.scale": 79,
+    "d3.scale.category": 35,
+    "d3.layout": 27,
+    "d3.layout.force": 18,
+    "d3.geo": 16,
+    "d3.geom": 15,
+    "d3.selectAll": 18,
+    "d3.selection": 6,
+    "d3.event": 28,
+    "d3.mouse": 9,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 7,
+    "d3.ease": 6,
+    "d3.timer": 12,
+    "d3.timer.flush": 9,
+    "d3.interpolate": 44,
+    "d3.interpolateNumber": 11,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 6,
+    "d3.interpolateRgb": 9,
+    "d3.interpolateHsl": 16,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 8,
+    "d3.interpolators": 5,
+    "d3.ascending": 9,
+    "d3.descending": 10,
+    "d3.min": 12,
+    "d3.max": 16,
+    "d3.extent": 10,
+    "d3.sum": 10,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 7,
+    "d3.bisect": 6,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 5,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.keys": 30,
+    "d3.values": 7,
+    "d3.entries": 6,
+    "d3.merge": 7,
+    "d3.nest": 19,
+    "d3.map": 7,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 13,
+    "d3.html": 7,
+    "d3.xml": 5,
+    "d3.csv": 7,
+    "d3.format": 29,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 94,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 12,
+    "d3.rebind": 25,
+    "d3.dispatch": 26,
+    "d3.scale.linear": 54,
+    "d3.scale.sqrt": 10,
+    "d3.scale.pow": 6,
+    "d3.scale.log": 6,
+    "d3.scale.quantize": 7,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 15,
+    "d3.svg": 17,
+    "d3.svg.line": 11,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 10,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 13,
+    "d3.svg.symbol": 7,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 7,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 13,
+    "d3.svg.brush": 11,
+    "d3.time": 14,
+    "d3.time.format": 8,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 4,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 5,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 6,
+    "d3.layout.cluster": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 9,
+    "d3.layout.stack": 11,
+    "d3.layout.tree": 7,
+    "d3.layout.treemap": 5,
+    "d3.geo.path": 8,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 5,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 5,
+    "d3.geo.mercator": 5,
+    "d3.geom.voronoi": 6,
+    "d3.geom.quadtree": 10,
+    "d3.geom.polygon": 6,
+    "d3.geom.hull": 4,
+    "d3.behavior": 25,
+    "d3.behavior.drag": 23,
+    "d3.behavior.zoom": 7,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 21,
+    "d3.random.normal": 3,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.sankey": 13,
+    "d3.hexbin": 1,
+    "d3.set": 4,
+    "d3.box": 2,
+    "d3.shuffle": 1,
+    "d3.fisheye": 2,
+    "d3.geo.azimuthalEqualArea": 1,
+    "d3.geo.azimuthalEquidistant": 1,
+    "d3.geo.conicConformal": 1,
+    "d3.geo.conicEquidistant": 1,
+    "d3.geo.conicEqualArea": 1,
+    "d3.geo.gnomonic": 1,
+    "d3.geo.orthographic": 1,
+    "d3.geo.stereographic": 1,
+    "d3.geo.transverseMercator": 1
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "api": "d3.svg.brush",
+  "blocks": {
+    "1341021": {
+      "userId": "mbostock",
+      "description": "Parallel Coordinates",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1341021/raw/6e78575c190f99d9b0726272d12948f4d63ae136/thumbnail.png"
+    },
+    "1341281": {
+      "userId": "jasondavies",
+      "description": "Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "1558011": {
+      "userId": "mbostock",
+      "description": "Cost of Living - Parallel Coordinates",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1558011/raw/3ad1be6024088ea04971d9ee872cd05b8aeee755/thumbnail.png"
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "1667367": {
+      "userId": "mbostock",
+      "description": "Focus+Context via Brushing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1667367/raw/9b1031ca53bbadcdfad590800d4f636d7079f682/thumbnail.png"
+    },
+    "2313155": {
+      "userId": "syntagmatic",
+      "description": "Parallel Coordinates Coloring",
+      "thumbnail": ""
+    },
+    "2409451": {
+      "userId": "syntagmatic",
+      "description": "Canvas Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "2411910": {
+      "userId": "syntagmatic",
+      "description": "Canvas Parallel Coordinates - 7637 Rows",
+      "thumbnail": ""
+    },
+    "2417758": {
+      "userId": "syntagmatic",
+      "description": "Canvas Parallel Coordinates - getImageData caching",
+      "thumbnail": ""
+    },
+    "2420080": {
+      "userId": "syntagmatic",
+      "description": "Canvas Parallel Coordinates - Shuffled Rendering",
+      "thumbnail": ""
+    },
+    "2499006": {
+      "userId": "syntagmatic",
+      "description": "Cycled Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "2499356": {
+      "userId": "syntagmatic",
+      "description": "Flat-edged Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "2505588": {
+      "userId": "syntagmatic",
+      "description": "Parallel Coordinates with Inverted Axis",
+      "thumbnail": ""
+    },
+    "2514902": {
+      "userId": "syntagmatic",
+      "description": "Hipparcos Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "2584519": {
+      "userId": "syntagmatic",
+      "description": "Galactic Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3096638": {
+      "userId": "syntagmatic",
+      "description": "Parallel Coordinates Intersections",
+      "thumbnail": ""
+    },
+    "3135763": {
+      "userId": "syntagmatic",
+      "description": "Improved Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3136001": {
+      "userId": "syntagmatic",
+      "description": "Parallel Coordinates with Invertible Axes",
+      "thumbnail": ""
+    },
+    "3150058": {
+      "userId": "syntagmatic",
+      "description": "Parallel Coordinates with Invertible Axes",
+      "thumbnail": ""
+    },
+    "3150059": {
+      "userId": "syntagmatic",
+      "description": "Nutrient Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3156751": {
+      "userId": "syntagmatic",
+      "description": "Parallel Coordinates CSV Upload",
+      "thumbnail": ""
+    },
+    "3267951": {
+      "userId": "syntagmatic",
+      "description": "Nutrient Parallel Coordinates, 60 Dimensions",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3290263": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290313": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "3290392": {
+      "userId": "syntagmatic",
+      "description": "Fisheye Nutrient Parallel Coordinates, 146 Dimensions",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3791303": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3791522": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3882999": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3883018": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3984401": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3998749": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4063663": {
+      "userId": "mbostock",
+      "description": "Scatterplot Matrix Brushing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063663/raw/13ced70c2a3f0c23d22be47d7afb2f5bcd5cec19/thumbnail.png"
+    },
+    "4150164": {
+      "userId": "enjalot",
+      "description": "calendar",
+      "thumbnail": ""
+    },
+    "4181267": {
+      "userId": "syntagmatic",
+      "description": "Canvas Parallel Coordinates - 7637 Rows - Oridinal/Quantitative dimensions",
+      "thumbnail": ""
+    },
+    "4215939": {
+      "userId": "vlandham",
+      "description": "Focus+Context via Brushing",
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/4215939/raw/9b1031ca53bbadcdfad590800d4f636d7079f682/thumbnail.png"
+    },
+    "4248862": {
+      "userId": "syntagmatic",
+      "description": "Null Values - Parallel Coordinates",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4248862/raw/3ad1be6024088ea04971d9ee872cd05b8aeee755/thumbnail.png"
+    },
+    "4343214": {
+      "userId": "mbostock",
+      "description": "Quadtree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4343214/raw/50ff76f693819cd2e49e983ef50d5f0b34be2998/thumbnail.png"
+    },
+    "4349509": {
+      "userId": "mbostock",
+      "description": "Ordinal Brushing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4349509/raw/9de291f8c1a34228b2d86dfa8e82046759d79d19/thumbnail.png"
+    },
+    "4349545": {
+      "userId": "mbostock",
+      "description": "Brush Handles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4349545/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "4414107": {
+      "userId": "emeeks",
+      "description": "Parallel Coordinates wired to a map of routes from ORBIS",
+      "thumbnail": ""
+    },
+    "4497604": {
+      "userId": "emeeks",
+      "description": "",
+      "thumbnail": ""
+    },
+    "4513760": {
+      "userId": "emeeks",
+      "description": "Projected Geodata with a Bounding Box Brush",
+      "thumbnail": "https://gist.githubusercontent.com/emeeks/4513760/raw/af8d81b0644e5e5a70c2f41b7fb3793e101547f2/thumbnail.png"
+    },
+    "4513986": {
+      "userId": "vlandham",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/4513986/raw/9de291f8c1a34228b2d86dfa8e82046759d79d19/thumbnail.png"
+    },
+    "4560481": {
+      "userId": "mbostock",
+      "description": "Brushable Network",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4560481/raw/e4ccf79ccf2a35e683d240a062b1111cc34c5156/thumbnail.png"
+    },
+    "4565798": {
+      "userId": "mbostock",
+      "description": "Brushable Network, II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4565798/raw/0e3ef645fa34a66a9e892f8ac747adcae11e6e5e/thumbnail.png"
+    },
+    "4566102": {
+      "userId": "mbostock",
+      "description": "Draggable Network, II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4566102/raw/d54841891938f990014a2b421298407ac8e72bed/thumbnail.png"
+    },
+    "4614246": {
+      "userId": "enjalot",
+      "description": "Pimp my Tribe (update4 - redux)",
+      "thumbnail": ""
+    },
+    "4617766": {
+      "userId": "enjalot",
+      "description": "saveable graph layout",
+      "thumbnail": ""
+    },
+    "4618198": {
+      "userId": "enjalot",
+      "description": "crossfilter racetrack",
+      "thumbnail": ""
+    },
+    "4624730": {
+      "userId": "enjalot",
+      "description": "crossfilter racetrack",
+      "thumbnail": ""
+    },
+    "4639189": {
+      "userId": "enjalot",
+      "description": "crossfilter racetrack",
+      "thumbnail": ""
+    },
+    "5023284": {
+      "userId": "syntagmatic",
+      "description": "WebGL-2d Parallel Coordinates Test",
+      "thumbnail": ""
+    },
+    "5050837": {
+      "userId": "mbostock",
+      "description": "EPSG:2163 Coordinates",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5050837/raw/72bd3f859fbc0e8ba796db459e7a0e7ceb5685cf/thumbnail.png"
+    },
+    "5061827": {
+      "userId": "enjalot",
+      "description": "crossfilter racetrack",
+      "thumbnail": ""
+    },
+    "5068952": {
+      "userId": "zjonsson",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/ZJONSSON/5068952/raw/50ff76f693819cd2e49e983ef50d5f0b34be2998/thumbnail.png"
+    },
+    "5072003": {
+      "userId": "enjalot",
+      "description": "crossfilter racetrack",
+      "thumbnail": ""
+    },
+    "5080688": {
+      "userId": "syntagmatic",
+      "description": "Elementary Particles",
+      "thumbnail": ""
+    },
+    "5091037": {
+      "userId": "timelyportfolio",
+      "description": "Adapt Mike Bostock's brushable handle example to work with a resizable and draggable jquery ui box.",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5255022": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5267175": {
+      "userId": "timelyportfolio",
+      "description": "map with parcoord forked from http://dexvis.wordpress.com",
+      "thumbnail": ""
+    },
+    "5342495": {
+      "userId": "ramnathv",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/ramnathv/5342495/raw/13ced70c2a3f0c23d22be47d7afb2f5bcd5cec19/thumbnail.png"
+    },
+    "5431762": {
+      "userId": "enjalot",
+      "description": "verlet-js editable + brushable",
+      "thumbnail": ""
+    },
+    "5479601": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5479605": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5518052": {
+      "userId": "milroc",
+      "description": "bar + sum: vanilla d3.js",
+      "thumbnail": ""
+    },
+    "5519642": {
+      "userId": "milroc",
+      "description": "bar + sum: reusable d3.js",
+      "thumbnail": ""
+    },
+    "5519819": {
+      "userId": "milroc",
+      "description": "bar + sum: d3.js & angular.js",
+      "thumbnail": ""
+    },
+    "5520449": {
+      "userId": "milroc",
+      "description": "bar + sum: d3.js & ember.js ",
+      "thumbnail": ""
+    },
+    "5522467": {
+      "userId": "milroc",
+      "description": "bar + sum: d3.js & backbone.js",
+      "thumbnail": ""
+    },
+    "5553051": {
+      "userId": "milroc",
+      "description": "Slides: \"Reusable Visualizations\"",
+      "thumbnail": ""
+    },
+    "5609750": {
+      "userId": "biovisualize",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5612571": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "6216724": {
+      "userId": "mbostock",
+      "description": "Brush Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6216724/raw/76fc7085c6c69edf0d77460388889a8f7c6f8dd8/thumbnail.png"
+    },
+    "6232537": {
+      "userId": "mbostock",
+      "description": "Brush Snapping",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6232537/raw/6d19169101a80c3fef1407b7d782c6da1a024c7e/thumbnail.png"
+    },
+    "6232620": {
+      "userId": "mbostock",
+      "description": "Brush Snapping II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6232620/raw/6d19169101a80c3fef1407b7d782c6da1a024c7e/thumbnail.png"
+    },
+    "6316349": {
+      "userId": "milroc",
+      "description": "    ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6316349/raw/47c7c1fd2c9c05689a9e4f15454c59c114e1c957/thumbnail.png"
+    },
+    "6452972": {
+      "userId": "mbostock",
+      "description": "Brush as Slider",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6452972/raw/71b5cb2ed52f7ab3aa3022a85bf70d10c9605590/thumbnail.png"
+    },
+    "6498000": {
+      "userId": "mbostock",
+      "description": "Click-to-Recenter Brush",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6498000/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "6498580": {
+      "userId": "mbostock",
+      "description": "Click-to-Recenter Brush II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6498580/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "6499018": {
+      "userId": "mbostock",
+      "description": "Smooth Slider",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6499018/raw/71b5cb2ed52f7ab3aa3022a85bf70d10c9605590/thumbnail.png"
+    },
+    "6604999": {
+      "userId": "enjalot",
+      "description": "reddit r/pics 2",
+      "thumbnail": ""
+    },
+    "6605026": {
+      "userId": "enjalot",
+      "description": "reddit r/pics 3",
+      "thumbnail": ""
+    },
+    "6605284": {
+      "userId": "enjalot",
+      "description": "reddit r/pics 4",
+      "thumbnail": ""
+    },
+    "6623377": {
+      "userId": "tomgp",
+      "description": "Growth chart",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/6623377/raw/b93a71495fedcae17d5e918efe74a657a54eb245/thumbnail.png"
+    },
+    "6640200": {
+      "userId": "enjalot",
+      "description": "reddit brush",
+      "thumbnail": ""
+    },
+    "6640391": {
+      "userId": "enjalot",
+      "description": "reddit brush",
+      "thumbnail": ""
+    },
+    "6641917": {
+      "userId": "enjalot",
+      "description": "d3 workshop",
+      "thumbnail": ""
+    },
+    "6719986": {
+      "userId": "tomgp",
+      "description": "Discrete Gaussian distribution",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/6719986/raw/ed4473988618c4928e29faee9f4595ce223e1210/thumbnail.png"
+    },
+    "6914083": {
+      "userId": "enjalot",
+      "description": "traffic control",
+      "thumbnail": ""
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7113747": {
+      "userId": "enjalot",
+      "description": "html5devconf time brush",
+      "thumbnail": ""
+    },
+    "7123788": {
+      "userId": "enjalot",
+      "description": "html5devconf time",
+      "thumbnail": ""
+    },
+    "7149418": {
+      "userId": "enjalot",
+      "description": "html5devconf intermediate d3.js workshop",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7159797": {
+      "userId": "enjalot",
+      "description": "scatterplot",
+      "thumbnail": ""
+    },
+    "7162280": {
+      "userId": "enjalot",
+      "description": "html5devconf project",
+      "thumbnail": ""
+    },
+    "7586334": {
+      "userId": "mbostock",
+      "description": "Parallel Coordinates",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7586334/raw/80fc380a81ed3556e184836631d4d6da0129e37e/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9357131": {
+      "userId": "emeeks",
+      "description": "GEXF D3 Complex Example",
+      "thumbnail": ""
+    },
+    "9357371": {
+      "userId": "emeeks",
+      "description": "GEXF D3 Simple Example",
+      "thumbnail": ""
+    },
+    "9820337": {
+      "userId": "milroc",
+      "description": "bars",
+      "thumbnail": ""
+    },
+    "9834127": {
+      "userId": "danharr",
+      "description": "Swimlanes for media plans",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9834127/raw/ce996adf6d2f4e4cd91a9e8705b45a8b92c463d3/thumbnail.png"
+    },
+    "9852608": {
+      "userId": "seemantk",
+      "description": "Gentoo Galaxy Visualization",
+      "thumbnail": "https://gist.githubusercontent.com/seemantk/9852608/raw/7c29a56a469bf5c842656ebc70fb674c707374ea/thumbnail.png"
+    }
+  },
+  "count": 108,
+  "coocurance": {
+    "d3.select": 108,
+    "d3.event": 53,
+    "d3.scale": 104,
+    "d3.scale.ordinal": 62,
+    "d3.svg": 108,
+    "d3.svg.symbol": 9,
+    "d3.svg.symbolTypes": 7,
+    "d3.svg.axis": 84,
+    "d3.max": 45,
+    "d3.extent": 61,
+    "d3.csv": 41,
+    "d3.scale.linear": 91,
+    "d3.svg.area": 11,
+    "d3.svg.brush": 107,
+    "d3.time": 44,
+    "d3.time.format": 25,
+    "d3.time.scale": 30,
+    "d3.selectAll": 38,
+    "d3.svg.line": 42,
+    "d3.min": 36,
+    "d3.keys": 39,
+    "d3.csv.format": 7,
+    "d3.hsl": 8,
+    "d3.behavior": 28,
+    "d3.behavior.drag": 24,
+    "d3.rebind": 21,
+    "d3.fisheye": 6,
+    "d3.mouse": 21,
+    "d3.timer": 18,
+    "d3.scale.identity": 14,
+    "d3.range": 27,
+    "d3.selection": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 7,
+    "d3.ease": 6,
+    "d3.timer.flush": 9,
+    "d3.interpolate": 18,
+    "d3.interpolateNumber": 9,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 6,
+    "d3.interpolateHsl": 8,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 8,
+    "d3.descending": 7,
+    "d3.sum": 9,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 7,
+    "d3.bisect": 7,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 6,
+    "d3.permute": 5,
+    "d3.zip": 6,
+    "d3.transpose": 5,
+    "d3.values": 6,
+    "d3.entries": 5,
+    "d3.merge": 7,
+    "d3.nest": 9,
+    "d3.map": 6,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 21,
+    "d3.html": 7,
+    "d3.xml": 5,
+    "d3.format": 19,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 6,
+    "d3.csv.parse": 2,
+    "d3.csv.parseRows": 1,
+    "d3.rgb": 11,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 11,
+    "d3.dispatch": 14,
+    "d3.scale.sqrt": 10,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 6,
+    "d3.scale.quantize": 9,
+    "d3.scale.quantile": 5,
+    "d3.scale.category": 19,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 13,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.time.format.utc": 10,
+    "d3.time.format.iso": 4,
+    "d3.time.day": 10,
+    "d3.time.days": 9,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 8,
+    "d3.time.hours": 6,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 8,
+    "d3.time.months": 6,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 13,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 10,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 5,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 8,
+    "d3.layout.stack": 8,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo": 17,
+    "d3.geo.path": 11,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 13,
+    "d3.geom.voronoi": 6,
+    "d3.geom.quadtree": 11,
+    "d3.geom.polygon": 6,
+    "d3.geom.hull": 4,
+    "d3.behavior.zoom": 9,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 7,
+    "d3.random.normal": 7,
+    "d3.tsv": 4,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.geo.graticule": 3,
+    "d3.geo.azimuthalEqualArea": 1,
+    "d3.set": 6,
+    "d3.geo.projection": 2,
+    "d3.geo.aitoff": 1,
+    "d3.geo.satellite": 1,
+    "d3.hexbin": 1,
+    "d3.box": 2,
+    "d3.shuffle": 1
+  }
+}

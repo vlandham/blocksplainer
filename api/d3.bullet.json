@@ -1,0 +1,38 @@
+{
+  "api": "d3.bullet",
+  "blocks": {
+    "4061961": {
+      "userId": "mbostock",
+      "description": "Bullet Charts",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4061961/raw/ee3e849724fc0cb2a738fcc33ee864081c2c295e/thumbnail.png"
+    },
+    "5452290": {
+      "userId": "jasondavies",
+      "description": "Vertical Bullet Charts",
+      "thumbnail": "https://gist.githubusercontent.com/jasondavies/5452290/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5498995": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5498995/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    }
+  },
+  "count": 3,
+  "coocurance": {
+    "d3.select": 3,
+    "d3.selectAll": 3,
+    "d3.max": 3,
+    "d3.json": 3,
+    "d3.transition": 2,
+    "d3.timer": 3,
+    "d3.timer.flush": 3,
+    "d3.descending": 3,
+    "d3.rebind": 2,
+    "d3.scale": 3,
+    "d3.scale.linear": 3,
+    "d3.svg": 2,
+    "d3.svg.axis": 2,
+    "d3.time": 3,
+    "d3.bullet": 2
+  }
+}

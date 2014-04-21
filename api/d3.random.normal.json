@@ -1,0 +1,288 @@
+{
+  "api": "d3.random.normal",
+  "blocks": {
+    "1584697": {
+      "userId": "mbostock",
+      "description": "Sortable Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1584697/raw/0418e7d595a61074e019c7a0e977c50bdb0227e2/thumbnail.png"
+    },
+    "1642874": {
+      "userId": "mbostock",
+      "description": "Line Transition",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1642874/raw/b3858c418cf20e1ceb408b1160cead8ad5b35f6f/thumbnail.png"
+    },
+    "1642989": {
+      "userId": "mbostock",
+      "description": "Spline Transition",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1642989/raw/589a1e75cb3be94a1e016b93dfa2e458c379b2ff/thumbnail.png"
+    },
+    "1643051": {
+      "userId": "mbostock",
+      "description": "Line Transition (Broken)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1643051/raw/7cf0a92c19b762e3aefbadaaec5b4fb25b33c5d7/thumbnail.png"
+    },
+    "1691430": {
+      "userId": "zjonsson",
+      "description": "Automatic floating labels using d3 force-layout",
+      "thumbnail": ""
+    },
+    "3056952": {
+      "userId": "milroc",
+      "description": "Minimal Viable Chart Junk (Updating Line Chart)",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3680957": {
+      "userId": "mbostock",
+      "description": "SVG Semantic Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3680957/raw/d4571630e67960ce869c9023f3fee629f3e2a59f/thumbnail.png"
+    },
+    "3680958": {
+      "userId": "mbostock",
+      "description": "Canvas Geometric Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3680958/raw/cc58165e29323486c3c3ffd6124fb9e3519a45a8/thumbnail.png"
+    },
+    "3680999": {
+      "userId": "mbostock",
+      "description": "SVG Geometric Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3680999/raw/03ba9136f4ce089c430819e9a68aac3edefe88cc/thumbnail.png"
+    },
+    "3681006": {
+      "userId": "mbostock",
+      "description": "Canvas Semantic Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3681006/raw/4268b140b53e675622cffc3a7d961b10b885f189/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "4248145": {
+      "userId": "mbostock",
+      "description": "Hexagonal Binning",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4248145/raw/6d1f16bc8b796af51424c85bec6f641cbf6a768d/thumbnail.png"
+    },
+    "4248146": {
+      "userId": "mbostock",
+      "description": "Hexagonal Binning (Area)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4248146/raw/0ca4d4a5b797e4c70da478f974f343e0e1b06c0b/thumbnail.png"
+    },
+    "4341699": {
+      "userId": "mbostock",
+      "description": "Convex Hull",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341699/raw/aa3ca4c0c1c3a68464b65bc15b7ad787b280b52c/thumbnail.png"
+    },
+    "4349545": {
+      "userId": "mbostock",
+      "description": "Brush Handles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4349545/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "5091037": {
+      "userId": "timelyportfolio",
+      "description": "Adapt Mike Bostock's brushable handle example to work with a resizable and draggable jquery ui box.",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "6135698": {
+      "userId": "enjalot",
+      "description": "line for tty56",
+      "thumbnail": ""
+    },
+    "6238040": {
+      "userId": "mbostock",
+      "description": "Zoom Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6238040/raw/c15a50be2d60a20516d6855076e341eeeddd6400/thumbnail.png"
+    },
+    "6498000": {
+      "userId": "mbostock",
+      "description": "Click-to-Recenter Brush",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6498000/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "6498580": {
+      "userId": "mbostock",
+      "description": "Click-to-Recenter Brush II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6498580/raw/a17acfe0ce9dd8a66e9ae33c79534f4e1036f00a/thumbnail.png"
+    },
+    "6909318": {
+      "userId": "mbostock",
+      "description": "Voronoi Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6909318/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    },
+    "7606141": {
+      "userId": "mbostock",
+      "description": "Infinite Queue",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7606141/raw/1b0f7feacafca1ac69e1a1cdb576aa24e89ed8da/thumbnail.png"
+    },
+    "7833311": {
+      "userId": "mbostock",
+      "description": "Dynamic Hexbin",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7833311/raw/9e0021914504e28e489a9ca783776d59431640f6/thumbnail.png"
+    },
+    "9116395": {
+      "userId": "mpmckenna8",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9116395/raw/bebdcadcff52064055babe2b6a652de093033cce/thumbnail.png"
+    }
+  },
+  "count": 26,
+  "coocurance": {
+    "d3.select": 26,
+    "d3.scale": 19,
+    "d3.scale.linear": 19,
+    "d3.svg": 15,
+    "d3.svg.axis": 15,
+    "d3.behavior": 8,
+    "d3.behavior.zoom": 8,
+    "d3.selectAll": 3,
+    "d3.selection": 3,
+    "d3.event": 9,
+    "d3.mouse": 6,
+    "d3.touch": 3,
+    "d3.touches": 3,
+    "d3.transition": 3,
+    "d3.ease": 3,
+    "d3.timer": 6,
+    "d3.timer.flush": 3,
+    "d3.interpolate": 5,
+    "d3.interpolateNumber": 3,
+    "d3.interpolateRound": 3,
+    "d3.interpolateString": 3,
+    "d3.interpolateRgb": 3,
+    "d3.interpolateHsl": 3,
+    "d3.interpolateLab": 5,
+    "d3.interpolateHcl": 3,
+    "d3.interpolateArray": 3,
+    "d3.interpolateObject": 3,
+    "d3.interpolateTransform": 3,
+    "d3.interpolators": 3,
+    "d3.ascending": 3,
+    "d3.descending": 3,
+    "d3.min": 3,
+    "d3.max": 4,
+    "d3.extent": 3,
+    "d3.sum": 3,
+    "d3.mean": 3,
+    "d3.median": 3,
+    "d3.quantile": 3,
+    "d3.bisect": 3,
+    "d3.bisectRight": 3,
+    "d3.bisectLeft": 3,
+    "d3.bisector": 3,
+    "d3.permute": 3,
+    "d3.zip": 3,
+    "d3.transpose": 3,
+    "d3.keys": 3,
+    "d3.values": 3,
+    "d3.entries": 3,
+    "d3.merge": 3,
+    "d3.range": 25,
+    "d3.nest": 3,
+    "d3.map": 3,
+    "d3.transform": 3,
+    "d3.xhr": 3,
+    "d3.text": 3,
+    "d3.json": 3,
+    "d3.html": 3,
+    "d3.xml": 3,
+    "d3.csv": 3,
+    "d3.tsv": 3,
+    "d3.format": 4,
+    "d3.formatPrefix": 3,
+    "d3.requote": 3,
+    "d3.round": 4,
+    "d3.rgb": 3,
+    "d3.hsl": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.ns.prefix": 3,
+    "d3.ns.qualify": 3,
+    "d3.functor": 3,
+    "d3.rebind": 3,
+    "d3.dispatch": 3,
+    "d3.scale.sqrt": 4,
+    "d3.scale.pow": 3,
+    "d3.scale.log": 3,
+    "d3.scale.quantize": 3,
+    "d3.scale.threshold": 3,
+    "d3.scale.quantile": 3,
+    "d3.scale.identity": 5,
+    "d3.scale.ordinal": 4,
+    "d3.scale.category": 3,
+    "d3.svg.line": 8,
+    "d3.svg.line.radial": 3,
+    "d3.svg.area": 3,
+    "d3.svg.area.radial": 3,
+    "d3.svg.arc": 7,
+    "d3.svg.symbol": 3,
+    "d3.svg.symbolTypes": 3,
+    "d3.svg.chord": 3,
+    "d3.svg.diagonal": 3,
+    "d3.svg.diagonal.radial": 3,
+    "d3.svg.brush": 7,
+    "d3.time": 6,
+    "d3.time.format": 3,
+    "d3.time.format.utc": 3,
+    "d3.time.format.iso": 3,
+    "d3.time.scale": 3,
+    "d3.time.day": 3,
+    "d3.time.days": 3,
+    "d3.time.dayOfYear": 3,
+    "d3.time.hour": 3,
+    "d3.time.hours": 3,
+    "d3.time.minute": 3,
+    "d3.time.minutes": 3,
+    "d3.time.month": 3,
+    "d3.time.months": 3,
+    "d3.time.second": 3,
+    "d3.time.seconds": 3,
+    "d3.time.sunday": 3,
+    "d3.time.sundayOfYear": 3,
+    "d3.time.monday": 3,
+    "d3.time.mondayOfYear": 3,
+    "d3.time.week": 3,
+    "d3.time.weeks": 3,
+    "d3.time.weekOfYear": 3,
+    "d3.time.year": 3,
+    "d3.time.years": 3,
+    "d3.layout": 4,
+    "d3.layout.bundle": 3,
+    "d3.layout.chord": 3,
+    "d3.layout.cluster": 3,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 3,
+    "d3.layout.histogram": 3,
+    "d3.layout.pack": 3,
+    "d3.layout.partition": 3,
+    "d3.layout.pie": 3,
+    "d3.layout.stack": 3,
+    "d3.layout.tree": 3,
+    "d3.layout.treemap": 3,
+    "d3.geo": 6,
+    "d3.geo.path": 3,
+    "d3.geo.circle": 3,
+    "d3.geo.bounds": 3,
+    "d3.geo.albers": 3,
+    "d3.geo.albersUsa": 3,
+    "d3.geo.equirectangular": 3,
+    "d3.geo.mercator": 3,
+    "d3.geom": 6,
+    "d3.geom.voronoi": 5,
+    "d3.geom.quadtree": 3,
+    "d3.geom.polygon": 5,
+    "d3.geom.hull": 4,
+    "d3.behavior.drag": 3,
+    "d3.geom.contour": 3,
+    "d3.geo.bonne": 3,
+    "d3.random.normal": 25,
+    "d3.hexbin": 3,
+    "d3.force_labels": 1
+  }
+}

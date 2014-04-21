@@ -1,0 +1,39 @@
+{
+  "api": "d3.force_labels",
+  "blocks": {
+    "1691430": {
+      "userId": "zjonsson",
+      "description": "Automatic floating labels using d3 force-layout",
+      "thumbnail": ""
+    },
+    "3895025": {
+      "userId": "zjonsson",
+      "description": "Avg Price Histories (force_labels)",
+      "thumbnail": ""
+    }
+  },
+  "count": 2,
+  "coocurance": {
+    "d3.select": 2,
+    "d3.selectAll": 1,
+    "d3.max": 1,
+    "d3.csv": 1,
+    "d3.hcl": 1,
+    "d3.scale": 1,
+    "d3.scale.linear": 1,
+    "d3.svg": 1,
+    "d3.svg.line": 1,
+    "d3.svg.axis": 1,
+    "d3.time": 1,
+    "d3.time.format": 1,
+    "d3.time.scale": 1,
+    "d3.time.month": 1,
+    "d3.time.months": 1,
+    "d3.layout": 1,
+    "d3.layout.force": 1,
+    "d3.force_labels": 1,
+    "d3.range": 1,
+    "d3.random.normal": 1,
+    "d3.format": 1
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "api": "d3.transition",
+  "blocks": {
+    "1096355": {
+      "userId": "mbostock",
+      "description": "PolarClock",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1096355/raw/99e7d82c5d2f685d1ea44c3cddace045ffb8cd1e/thumbnail.png"
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "1649463": {
+      "userId": "mbostock",
+      "description": "Smooth Scrolling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1649463/raw/6e304e798312d09fc22838c1c4149dcf4837be3f/thumbnail.png"
+    },
+    "2494514": {
+      "userId": "syntagmatic",
+      "description": "Nutrition Parallel Sets",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3750941": {
+      "userId": "mbostock",
+      "description": "Progress Events",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3750941/raw/2d9aac37ffab0928bd150307fef4cac06c8b92c1/thumbnail.png"
+    },
+    "3892928": {
+      "userId": "mbostock",
+      "description": "Programmatic Pan+Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3892928/raw/5dbc762641491ca62f6691c7db95c51df79be8e0/thumbnail.png"
+    },
+    "4183330": {
+      "userId": "mbostock",
+      "description": "World Tour",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4183330/raw/2e0a1e65302c1b6bf1cbad4ebe5bef212b19f0c1/thumbnail.png"
+    },
+    "4183701": {
+      "userId": "jasondavies",
+      "description": "World Countries",
+      "thumbnail": ""
+    },
+    "4188015": {
+      "userId": "jasondavies",
+      "description": "Australia↔Austria",
+      "thumbnail": ""
+    },
+    "5113971": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5260594": {
+      "userId": "zjonsson",
+      "description": "Brownian Bridge",
+      "thumbnail": ""
+    },
+    "5438143": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5452290": {
+      "userId": "jasondavies",
+      "description": "Vertical Bullet Charts",
+      "thumbnail": "https://gist.githubusercontent.com/jasondavies/5452290/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5498995": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5498995/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5779690": {
+      "userId": "mbostock",
+      "description": "Exit, Update, Enter II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5779690/raw/34ce9863173236d73a98aa75d27204648713b4e3/thumbnail.png"
+    },
+    "5944371": {
+      "userId": "mbostock",
+      "description": "Bilevel Partition",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5944371/raw/3e8b6ccb28f5e91335af10aa5fbf4ecc9e584178/thumbnail.png"
+    },
+    "5945430": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5945430/raw/3e8b6ccb28f5e91335af10aa5fbf4ecc9e584178/thumbnail.png"
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7607535": {
+      "userId": "mbostock",
+      "description": "Zoomable Circle Packing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7607535/raw/19ead3729418158e4d457ffaa2c875823c9bb354/thumbnail.png"
+    },
+    "8463137": {
+      "userId": "bollwyvl",
+      "description": "",
+      "thumbnail": ""
+    },
+    "9353922": {
+      "userId": "milroc",
+      "description": "Contextually aware axis ticks",
+      "thumbnail": ""
+    },
+    "9834558": {
+      "userId": "danharr",
+      "description": "Web Site Visits (via Jason Davies)",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9834558/raw/14c1a86196a4b5bf8440a14e6f332bd9f0f032e6/thumbnail.png"
+    }
+  },
+  "count": 27,
+  "coocurance": {
+    "d3.select": 26,
+    "d3.range": 9,
+    "d3.selectAll": 9,
+    "d3.selection": 6,
+    "d3.event": 15,
+    "d3.mouse": 9,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.ease": 5,
+    "d3.timer": 9,
+    "d3.timer.flush": 9,
+    "d3.interpolate": 17,
+    "d3.interpolateNumber": 9,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 6,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 7,
+    "d3.descending": 9,
+    "d3.min": 8,
+    "d3.max": 10,
+    "d3.extent": 9,
+    "d3.sum": 6,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 5,
+    "d3.bisect": 6,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 5,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.keys": 9,
+    "d3.values": 6,
+    "d3.entries": 6,
+    "d3.merge": 9,
+    "d3.nest": 9,
+    "d3.map": 5,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 14,
+    "d3.html": 7,
+    "d3.xml": 5,
+    "d3.csv": 8,
+    "d3.format": 11,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 2,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 7,
+    "d3.hsl": 6,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 11,
+    "d3.rebind": 12,
+    "d3.dispatch": 11,
+    "d3.scale": 21,
+    "d3.scale.linear": 19,
+    "d3.scale.sqrt": 7,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 10,
+    "d3.scale.category": 11,
+    "d3.svg": 19,
+    "d3.svg.line": 11,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 8,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 11,
+    "d3.svg.symbol": 7,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 14,
+    "d3.svg.brush": 7,
+    "d3.time": 13,
+    "d3.time.format": 7,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 7,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 10,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 5,
+    "d3.layout.partition": 7,
+    "d3.layout.pie": 6,
+    "d3.layout.stack": 6,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo": 10,
+    "d3.geo.path": 8,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 7,
+    "d3.geom.voronoi": 7,
+    "d3.geom.quadtree": 4,
+    "d3.geom.polygon": 6,
+    "d3.geom.hull": 4,
+    "d3.behavior": 12,
+    "d3.behavior.drag": 11,
+    "d3.behavior.zoom": 7,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.transition": 26,
+    "d3.bullet": 2,
+    "d3.geo.graticule": 2,
+    "d3.geo.orthographic": 3,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 4,
+    "d3.random.normal": 3,
+    "d3.tsv": 4,
+    "d3.lab": 5,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.interpolateZoom": 1,
+    "d3.geo.centroid": 1,
+    "d3.fisheye": 2
+  }
+}

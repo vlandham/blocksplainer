@@ -1,0 +1,19 @@
+{
+  "api": "d3.rollup",
+  "blocks": {
+    "4343153": {
+      "userId": "mbostock",
+      "description": "Graph Rollup",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4343153/raw/0d313b170109ed09602f525bad3d02c3ec7d9db9/thumbnail.png"
+    }
+  },
+  "count": 1,
+  "coocurance": {
+    "d3.select": 1,
+    "d3.json": 1,
+    "d3.scale": 1,
+    "d3.scale.ordinal": 1,
+    "d3.svg": 1,
+    "d3.svg.axis": 1
+  }
+}

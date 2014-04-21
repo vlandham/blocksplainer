@@ -1,0 +1,1878 @@
+{
+  "api": "d3.layout",
+  "blocks": {
+    "908382": {
+      "userId": "mbostock",
+      "description": "",
+      "thumbnail": ""
+    },
+    "910126": {
+      "userId": "mbostock",
+      "description": null,
+      "thumbnail": ""
+    },
+    "913077": {
+      "userId": "mbostock",
+      "description": null,
+      "thumbnail": ""
+    },
+    "929623": {
+      "userId": "mbostock",
+      "description": "Build Your Own Graph!",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/929623/raw/2fa4f7b74425a03f3e9f55611119f13fd9d8d5ed/thumbnail.png"
+    },
+    "950642": {
+      "userId": "mbostock",
+      "description": "Labeled Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/950642/raw/143bc46b6005eb4fc017f41732e5554a152f2d52/thumbnail.png"
+    },
+    "972398": {
+      "userId": "mbostock",
+      "description": "Treemap",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/972398/raw/e9ce17fa3cbd7b15f65a7bf0fdee11ed022b426b/thumbnail.png"
+    },
+    "996370": {
+      "userId": "mbostock",
+      "description": "Force Layout from List",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/996370/raw/146c4a1c31215683ec028d0be5cded20b17b767f/thumbnail.png"
+    },
+    "999346": {
+      "userId": "mbostock",
+      "description": "Random Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/999346/raw/e55c8f6f7b56a1e3d3985eb47f8e1f1397febe14/thumbnail.png"
+    },
+    "1005873": {
+      "userId": "mbostock",
+      "description": "Zoomable Icicle",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1005873/raw/82b19ce454f7e5a96f8cb8b2285efd72d9811536/thumbnail.png"
+    },
+    "1021841": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1021841/raw/3eb47972c3f72a709c081b044989c44278f358a2/thumbnail.png"
+    },
+    "1021953": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1021953/raw/36092f17cf2ee121cdc9d8976a01aa27978dad7e/thumbnail.png"
+    },
+    "1026757": {
+      "userId": "syntagmatic",
+      "description": "",
+      "thumbnail": ""
+    },
+    "1028380": {
+      "userId": "syntagmatic",
+      "description": "Chord Transitions, V2",
+      "thumbnail": ""
+    },
+    "1039698": {
+      "userId": "jasondavies",
+      "description": "Pedigree Chart",
+      "thumbnail": ""
+    },
+    "1044242": {
+      "userId": "mbostock",
+      "description": "Hierarchical Edge Bundling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1044242/raw/f2b962ea45796acb7dfa191242808c494d3b2386/thumbnail.png"
+    },
+    "1046712": {
+      "userId": "mbostock",
+      "description": "Chord Diagram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1046712/raw/ff0a1e8076025791f8e0ca90574ec57e634ddb45/thumbnail.png"
+    },
+    "1062288": {
+      "userId": "mbostock",
+      "description": "Collapsible Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1062288/raw/dae954d20718dabfbcc62bcc309bc8971f680afe/thumbnail.png"
+    },
+    "1062383": {
+      "userId": "mbostock",
+      "description": "Force-Directed Symbols",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1062383/raw/cba682f9982787b695a0068e037b8b1632f690fa/thumbnail.png"
+    },
+    "1073373": {
+      "userId": "mbostock",
+      "description": "Force-Directed States of America",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1073373/raw/59c2ea59d1a6a204571ab065fd1182e90ecd876c/thumbnail.png"
+    },
+    "1080941": {
+      "userId": "mbostock",
+      "description": "Force-Directed Layout from XML",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1080941/raw/8d3ac5cb2fbc4ded8dec036da442266003af38fe/thumbnail.png"
+    },
+    "1093025": {
+      "userId": "mbostock",
+      "description": "Collapsible Indented Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1093025/raw/1b7469b9f03b2deb5e8bfd2fb8585b71438fbd93/thumbnail.png"
+    },
+    "1093130": {
+      "userId": "mbostock",
+      "description": "Collapsible Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1093130/raw/9c0de3bcb3c0578e2c3327e43c8bd5a8035842e0/thumbnail.png"
+    },
+    "1095795": {
+      "userId": "mbostock",
+      "description": "Modifying a Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1095795/raw/0513e8d11d32cc7a4cb1404417e419faedd069e6/thumbnail.png"
+    },
+    "1129492": {
+      "userId": "mbostock",
+      "description": "Bounded Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1129492/raw/432d5a7a76219b8cec41f74bb94a7e930636088e/thumbnail.png"
+    },
+    "1134768": {
+      "userId": "mbostock",
+      "description": "Stacked Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1134768/raw/6574aca7fa9636f69e48c97ccf57575b5bcdcbe0/thumbnail.png"
+    },
+    "1138500": {
+      "userId": "mbostock",
+      "description": "Force-Directed Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1138500/raw/f46c81b0c8ae06a6928bb4f8a5fc9da02bcf0225/thumbnail.png"
+    },
+    "1153292": {
+      "userId": "mbostock",
+      "description": "Mobile Patent Suits",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1153292/raw/698996ea52cd7a26858b873ab8cfe14050af3872/thumbnail.png"
+    },
+    "1169680": {
+      "userId": "mbostock",
+      "description": "Dots",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1169680/raw/7f2026ae591a841809be3615a59fe6ae97870ac9/thumbnail.png"
+    },
+    "1193117": {
+      "userId": "jasondavies",
+      "description": "Geographic projections",
+      "thumbnail": ""
+    },
+    "1199811": {
+      "userId": "mbostock",
+      "description": "Force Layout from Adjacency List",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1199811/raw/04ad7dec9143c8dd4bf84d8ef79e6add6ef355bd/thumbnail.png"
+    },
+    "1203641": {
+      "userId": "enjalot",
+      "description": "Simple Pie Chart example with D3.js",
+      "thumbnail": ""
+    },
+    "1212197": {
+      "userId": "mbostock",
+      "description": "Force Layout with Tooltips",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1212197/raw/4c8bcbe989e78f3b5f69aa1ebb32127753583feb/thumbnail.png"
+    },
+    "1212215": {
+      "userId": "mbostock",
+      "description": "Force Layout with Mouseover Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1212215/raw/4a66952910c8a9693daf8c390b1e71778090fb5d/thumbnail.png"
+    },
+    "1218567": {
+      "userId": "enjalot",
+      "description": "[d3cast] Simple Bar Chart example with d3.js",
+      "thumbnail": ""
+    },
+    "1225877": {
+      "userId": "enjalot",
+      "description": "Broken arc.centroid calculation",
+      "thumbnail": ""
+    },
+    "1249681": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1249681/raw/6f3e466589c104e8c4a97d65d1fa24bcedad807e/thumbnail.png"
+    },
+    "1256572": {
+      "userId": "mbostock",
+      "description": "D3 Show Reel",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1256572/raw/5c5f877acab111386ff366995bcc6f2eb52852e9/thumbnail.png"
+    },
+    "1262152": {
+      "userId": "enjalot",
+      "description": "Double Pie Chart",
+      "thumbnail": ""
+    },
+    "1262258": {
+      "userId": "enjalot",
+      "description": "Multi Pie",
+      "thumbnail": ""
+    },
+    "1262305": {
+      "userId": "enjalot",
+      "description": "Bakery",
+      "thumbnail": ""
+    },
+    "1269004": {
+      "userId": "enjalot",
+      "description": "",
+      "thumbnail": ""
+    },
+    "1276555": {
+      "userId": "enjalot",
+      "description": "viewBox space coordinate transformation",
+      "thumbnail": ""
+    },
+    "1282943": {
+      "userId": "enjalot",
+      "description": "Chernoff Smileys",
+      "thumbnail": ""
+    },
+    "1283663": {
+      "userId": "mbostock",
+      "description": "Hierarchical Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1283663/raw/90a6678bb4bfe0b2960a8a5d6eb68a3cfce9f6d9/thumbnail.png"
+    },
+    "1291084": {
+      "userId": "jasondavies",
+      "description": "Force Layout with fixed Mouseover Labels",
+      "thumbnail": ""
+    },
+    "1299353": {
+      "userId": "jasondavies",
+      "description": "",
+      "thumbnail": ""
+    },
+    "1305111": {
+      "userId": "mbostock",
+      "description": "Pie Multiples",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1305111/raw/a24ba332ee370a0ac12e109ab7a36665380d3f18/thumbnail.png"
+    },
+    "1305337": {
+      "userId": "mbostock",
+      "description": "Pie Multiples with Nesting",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1305337/raw/c9923ef66faaf6cabc97c85b76093097ecf9f2ab/thumbnail.png"
+    },
+    "1306365": {
+      "userId": "mbostock",
+      "description": "Sunburst with Distortion",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1306365/raw/53d29bc600ef12573dfb086b92a436098fd3c716/thumbnail.png"
+    },
+    "1308257": {
+      "userId": "mbostock",
+      "description": "The Euro Debt Crisis",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1308257/raw/aa1fa8c2ddda32f457f24cabdbf5f7f050b5b779/thumbnail.png"
+    },
+    "1310924": {
+      "userId": "enjalot",
+      "description": "Simple sorting selection example",
+      "thumbnail": ""
+    },
+    "1319738": {
+      "userId": "jasondavies",
+      "description": "Counties of the United Kingdom",
+      "thumbnail": ""
+    },
+    "1320232": {
+      "userId": "enjalot",
+      "description": "Simple column chart in d3.js",
+      "thumbnail": ""
+    },
+    "1334054": {
+      "userId": "zjonsson",
+      "description": "Icesave capital structure - nest/layout example",
+      "thumbnail": ""
+    },
+    "1346395": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, I",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1346395/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "1346410": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1346410/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "1356894": {
+      "userId": "enjalot",
+      "description": "",
+      "thumbnail": ""
+    },
+    "1378144": {
+      "userId": "enjalot",
+      "description": "d3 behavior.drag example",
+      "thumbnail": ""
+    },
+    "1579132": {
+      "userId": "mbostock",
+      "description": "One Path for All Links",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1579132/raw/bd31c0bfee515573ef3e2a6cd93c601c3ad46779/thumbnail.png"
+    },
+    "1625629": {
+      "userId": "christophermanning",
+      "description": "Chicago Lobbyists Force-Directed Graph Visualization",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1625629/raw/82df81ab2e047b71a953088f36800ec80c9e1018/thumbnail.png"
+    },
+    "1627378": {
+      "userId": "mbostock",
+      "description": "Circle Packing with Zero Values",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1627378/raw/b2e3675ebe1081d9f91571065a39c47564ddf1fe/thumbnail.png"
+    },
+    "1628131": {
+      "userId": "mbostock",
+      "description": "Circle Packing Zero Values",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1628131/raw/9bde6892b6a2c5af04eeefebc8dae0ff7e7b8b2b/thumbnail.png"
+    },
+    "1667139": {
+      "userId": "mbostock",
+      "description": "Static Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1667139/raw/f15418c2de9d5c71eaa81455a2a22e7a45629751/thumbnail.png"
+    },
+    "1691430": {
+      "userId": "zjonsson",
+      "description": "Automatic floating labels using d3 force-layout",
+      "thumbnail": ""
+    },
+    "1703449": {
+      "userId": "christophermanning",
+      "description": "Hamiltonian Graph Builder",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1703449/raw/3e567c98e2fba70357d49c6613de75d838890116/thumbnail.png"
+    },
+    "1706523": {
+      "userId": "zjonsson",
+      "description": "Newton's cradle",
+      "thumbnail": ""
+    },
+    "1706849": {
+      "userId": "zjonsson",
+      "description": "Newton's balls",
+      "thumbnail": ""
+    },
+    "1734663": {
+      "userId": "christophermanning",
+      "description": "Voronoi Diagram with Force Directed Nodes and Delaunay Links",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/1734663/raw/991c632cfc8b75d9175a079f240112d1f311fed9/thumbnail.png"
+    },
+    "1747543": {
+      "userId": "mbostock",
+      "description": "Clustered Force Layout I",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1747543/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png"
+    },
+    "1748247": {
+      "userId": "mbostock",
+      "description": "Clustered Force Layout II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1748247/raw/ac89cb04f3604f40087333a7a4c9aa8b27aa3a38/thumbnail.png"
+    },
+    "1804889": {
+      "userId": "mbostock",
+      "description": "Force Layout Multiples (Independent)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1804889/raw/f53ac5207e9f548252d4bfbb6126f63ec7a982f3/thumbnail.png"
+    },
+    "1804919": {
+      "userId": "mbostock",
+      "description": "Multi-Foci Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1804919/raw/c2073310cf1ee4ad3399bc331b94656cf5e461dc/thumbnail.png"
+    },
+    "1808856": {
+      "userId": "jasondavies",
+      "description": "d3 Treemap with resizing problems",
+      "thumbnail": ""
+    },
+    "1846650": {
+      "userId": "jasondavies",
+      "description": "Automatically Sizing Text in D3",
+      "thumbnail": ""
+    },
+    "1846692": {
+      "userId": "mbostock",
+      "description": "Automatic Text Sizing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1846692/raw/751c4b09fc3df0c0e925022ee77bd4d6255af2aa/thumbnail.png"
+    },
+    "1933560": {
+      "userId": "mbostock",
+      "description": "Histogram Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1933560/raw/0cdad1086248c9b4588d47d62eef101183ba7a62/thumbnail.png"
+    },
+    "2048144": {
+      "userId": "syntagmatic",
+      "description": "Clustered Force Layout",
+      "thumbnail": ""
+    },
+    "2054229": {
+      "userId": "syntagmatic",
+      "description": "Frank Guerino's Pie Charts",
+      "thumbnail": ""
+    },
+    "2125175": {
+      "userId": "vlandham",
+      "description": "Force Layout with Multiple Foci",
+      "thumbnail": ""
+    },
+    "2165875": {
+      "userId": "enjalot",
+      "description": "inlets for tributary",
+      "thumbnail": ""
+    },
+    "2257712": {
+      "userId": "syntagmatic",
+      "description": "Nutrient Pack Layout with BitDeli API",
+      "thumbnail": ""
+    },
+    "2297029": {
+      "userId": "syntagmatic",
+      "description": "Nutrient Scatterplot",
+      "thumbnail": ""
+    },
+    "2429963": {
+      "userId": "mbostock",
+      "description": "\"Elbow\" Dendrogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2429963/raw/a59bdb4956954009218c8ce0416cbb032b21ea19/thumbnail.png"
+    },
+    "2432083": {
+      "userId": "emeeks",
+      "description": "Force-Directed Layout with Append on Double-Click",
+      "thumbnail": ""
+    },
+    "2556042": {
+      "userId": "syntagmatic",
+      "description": "Force-Directed Parallel Coordinates",
+      "thumbnail": ""
+    },
+    "2556118": {
+      "userId": "enjalot",
+      "description": "created by water, a live-coding editor (http://water.gabrielflor.it)",
+      "thumbnail": ""
+    },
+    "2706022": {
+      "userId": "mbostock",
+      "description": "Force-Directed Graph with Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2706022/raw/2165fe4dafd6cc777e988c651fbc8a658bb2b1db/thumbnail.png"
+    },
+    "2720730": {
+      "userId": "zjonsson",
+      "description": "d3.layout.force3d (a quick hack to get force layout into the third dimension)",
+      "thumbnail": ""
+    },
+    "2846454": {
+      "userId": "mbostock",
+      "description": "Force Layout & Matrix Market Format",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2846454/raw/4c711799deb7e17728d4eccd5e7af15d2f5425c8/thumbnail.png"
+    },
+    "2949937": {
+      "userId": "mbostock",
+      "description": "Force Layout from CSV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2949937/raw/1b8b41a41443973e50056724241df156df584e32/thumbnail.png"
+    },
+    "2949981": {
+      "userId": "mbostock",
+      "description": "Tree Layout from CSV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2949981/raw/01f1c48b14cfd38d42c050729d71e2df68e60cb7/thumbnail.png"
+    },
+    "2958485": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "2966094": {
+      "userId": "mbostock",
+      "description": "Pedigree Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2966094/raw/2d3707571c46312d2bb1e71a48603a1743290a28/thumbnail.png"
+    },
+    "3007180": {
+      "userId": "mbostock",
+      "description": "Exoplanets",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3007180/raw/ffdc4306956aed1d6cbcbdcfb91adf21d16235ad/thumbnail.png"
+    },
+    "3020685": {
+      "userId": "mbostock",
+      "description": "Stacked Area via Nest",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3020685/raw/5805bd10d4d290265388031c5173ba40943736cc/thumbnail.png"
+    },
+    "3037015": {
+      "userId": "mbostock",
+      "description": "Molecule",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3037015/raw/3f84ad36fe828c832fa45435dd56508ffe94a62e/thumbnail.png"
+    },
+    "3048166": {
+      "userId": "mbostock",
+      "description": "Duration Histogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3048166/raw/a5e70801e15e1c47012cfdcd251015aa01092f8b/thumbnail.png"
+    },
+    "3048450": {
+      "userId": "mbostock",
+      "description": "Histogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3048450/raw/2a90346395f25c755aeaa8556a8e18d1b5f398a7/thumbnail.png"
+    },
+    "3048740": {
+      "userId": "mbostock",
+      "description": "Stacked Radial Area",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3048740/raw/fe0d67b0fb45b098d765c060395724b7acafba3c/thumbnail.png"
+    },
+    "3063069": {
+      "userId": "milroc",
+      "description": "bl.ocks template",
+      "thumbnail": ""
+    },
+    "3087986": {
+      "userId": "mbostock",
+      "description": "Cross-linked Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3087986/raw/1978345e64f3cf19bd841a4820fe2c248ffbd85e/thumbnail.png"
+    },
+    "3134318": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134327": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134341": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134374": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134377": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134378": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3134415": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "3140140": {
+      "userId": "syntagmatic",
+      "description": "Pack Layout Transition Challenge",
+      "thumbnail": ""
+    },
+    "3180395": {
+      "userId": "mbostock",
+      "description": "Force Layout with Canvas",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3180395/raw/647fa210ab1ef409f377f6c7508ea125adf705a9/thumbnail.png"
+    },
+    "3184089": {
+      "userId": "mbostock",
+      "description": "Tree Layout Orientations",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3184089/raw/23f65c0babbafede00244878c043ec9f5b02c15d/thumbnail.png"
+    },
+    "3231298": {
+      "userId": "mbostock",
+      "description": "Collision Detection",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3231298/raw/d187656d23ea7fd82d28a233a9a3d3a19776bdb1/thumbnail.png"
+    },
+    "3231307": {
+      "userId": "mbostock",
+      "description": "Collision Detection (Canvas)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3231307/raw/75ac824a7c74125306ab6cc3791da5b05cb1cc8a/thumbnail.png"
+    },
+    "3253523": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3253608": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3253677": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3253729": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3253876": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3254003": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3254785": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3254902": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3254949": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255073": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255085": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255155": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255166": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255247": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255262": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255284": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255488": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255594": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255652": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255672": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255705": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3255857": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256062": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256232": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256462": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256465": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256468": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256473": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256485": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256496": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256501": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3256507": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3261028": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3311124": {
+      "userId": "mbostock",
+      "description": "Force-Directed Graph",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3311124/raw/ab36ef6ceae8ef5f1bf68d54823b3eba53bf904c/thumbnail.png"
+    },
+    "3315291": {
+      "userId": "mbostock",
+      "description": "Pack Test",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3315291/raw/9bae4826e1432a8bdd8a878d8ce5faa5f8f51e6b/thumbnail.png"
+    },
+    "3315318": {
+      "userId": "mbostock",
+      "description": "Pack Test",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3315318/raw/7107b3584c49f0d01bfb4c9ece9adc09ad2a6e9a/thumbnail.png"
+    },
+    "3355967": {
+      "userId": "mbostock",
+      "description": "Resizable Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3355967/raw/5803f2726eb8e845a906b845fba040910f207515/thumbnail.png"
+    },
+    "3361332": {
+      "userId": "emeeks",
+      "description": "Topic Clouds using D3 Word Cloud Layout",
+      "thumbnail": ""
+    },
+    "3375667": {
+      "userId": "enjalot",
+      "description": "created by livecoding - http://livecoding.gabrielflor.it/3375667",
+      "thumbnail": ""
+    },
+    "3388603": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3615983": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693939": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3698409": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3714311": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3714774": {
+      "userId": "enjalot",
+      "description": "cost of living combo",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3750558": {
+      "userId": "mbostock",
+      "description": "Sticky Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3750558/raw/88ca3e80ca2f866668e3cd5dd578a507d51c97fd/thumbnail.png"
+    },
+    "3754357": {
+      "userId": "syntagmatic",
+      "description": "Fracturing California",
+      "thumbnail": ""
+    },
+    "3758929": {
+      "userId": "enjalot",
+      "description": "stacks",
+      "thumbnail": ""
+    },
+    "3854614": {
+      "userId": "mbostock",
+      "description": "Walmart locations",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3854614/raw/9af74488aff3cc0cc664e5927f9d3117926a02a0/thumbnail.png"
+    },
+    "3876312": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3885211": {
+      "userId": "mbostock",
+      "description": "Stacked Area Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3885211/raw/f38320a84d1aae3ba9577a0263b04a7eb5ecf65d/thumbnail.png"
+    },
+    "3887193": {
+      "userId": "mbostock",
+      "description": "Donut Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3887193/raw/695fdae55b831b7d12ea98da14278bea933b4e91/thumbnail.png"
+    },
+    "3887235": {
+      "userId": "mbostock",
+      "description": "Pie Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3887235/raw/aee5f14ea2ececaac804cccae62734b8e42ea94f/thumbnail.png"
+    },
+    "3888852": {
+      "userId": "mbostock",
+      "description": "Donut Multiples",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3888852/raw/e932e8b1ed909a82f38c7070bafc65c8d91bd249/thumbnail.png"
+    },
+    "3898058": {
+      "userId": "enjalot",
+      "description": "force: multiple foci",
+      "thumbnail": ""
+    },
+    "3898087": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3943967": {
+      "userId": "mbostock",
+      "description": "Stacked-to-Grouped Bars",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3943967/raw/561ccef4ec05fce861e5f67042beb716d88e9c9d/thumbnail.png"
+    },
+    "3991039": {
+      "userId": "syntagmatic",
+      "description": "Categorical Foci",
+      "thumbnail": ""
+    },
+    "4055889": {
+      "userId": "mbostock",
+      "description": "Pseudo-Demers Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055889/raw/76d784f55c63eacb2f6c1ede14389a029d5444b7/thumbnail.png"
+    },
+    "4055892": {
+      "userId": "mbostock",
+      "description": "Pseudo-Dorling Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055892/raw/96869c7f5556d0d4e791f7998891ea1a1137c2f4/thumbnail.png"
+    },
+    "4060954": {
+      "userId": "mbostock",
+      "description": "Streamgraph",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060954/raw/a5df9eecf1201c67d645fe1cf7a2a831ec8efccc/thumbnail.png"
+    },
+    "4062006": {
+      "userId": "mbostock",
+      "description": "Chord Diagram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4062006/raw/2241e71872a06ab78c6670179a7c1ee6051a1354/thumbnail.png"
+    },
+    "4062045": {
+      "userId": "mbostock",
+      "description": "Force-Directed Graph",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4062045/raw/0eab8866e65041658e4e28685488feed79a59a24/thumbnail.png"
+    },
+    "4063269": {
+      "userId": "mbostock",
+      "description": "Bubble Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063269/raw/5144eafeac9e298962133e9e31de45da21714108/thumbnail.png"
+    },
+    "4063423": {
+      "userId": "mbostock",
+      "description": "Sunburst Partition",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063423/raw/3ec428c06d314c67f4e29df3acbed655d251be71/thumbnail.png"
+    },
+    "4063530": {
+      "userId": "mbostock",
+      "description": "Circle Packing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063530/raw/ae51148f93dde571c3cf44edf004576255d28326/thumbnail.png"
+    },
+    "4063550": {
+      "userId": "mbostock",
+      "description": "Radial Reingold–Tilford Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063550/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4063570": {
+      "userId": "mbostock",
+      "description": "Cluster Dendrogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063570/raw/b1b3381ff5183d97a9db82d1c535da230686a3c9/thumbnail.png"
+    },
+    "4063582": {
+      "userId": "mbostock",
+      "description": "Treemap",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063582/raw/8cebc4ee07093a03fcd0694d6bbf835758ca0c50/thumbnail.png"
+    },
+    "4075296": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4076122": {
+      "userId": "syntagmatic",
+      "description": "d3 src tree",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4076122/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4092944": {
+      "userId": "syntagmatic",
+      "description": "d3 src tree transitions",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4092944/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4187201": {
+      "userId": "christophermanning",
+      "description": "Erdős–Rényi Force Directed Graph",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4187201/raw/fec076d2b8f4ee2166fa5bc33cf759973ce85ecf/thumbnail.png"
+    },
+    "4208494": {
+      "userId": "christophermanning",
+      "description": "Spherical Force-Directed Layout",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4208494/raw/6980224a906b298dd4c5bc2dc9164aaf9846757e/thumbnail.png"
+    },
+    "4211048": {
+      "userId": "enjalot",
+      "description": "dot append thanks",
+      "thumbnail": ""
+    },
+    "4213367": {
+      "userId": "biovisualize",
+      "description": "Reusable Circular Network with Editable Data Table",
+      "thumbnail": ""
+    },
+    "4217715": {
+      "userId": "timelyportfolio",
+      "description": "shiny json",
+      "thumbnail": ""
+    },
+    "4247094": {
+      "userId": "biovisualize",
+      "description": "Circular network in Tributary",
+      "thumbnail": ""
+    },
+    "4285420": {
+      "userId": "christophermanning",
+      "description": "Force-Directed Sierpinski Triangle",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4285420/raw/61ba0751051f4d4f18cdd51f92fcff8ea175d59f/thumbnail.png"
+    },
+    "4339083": {
+      "userId": "mbostock",
+      "description": "Collapsible Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4339083/raw/65e7be96865fa4e37c857b0a06a30d7cac0986e3/thumbnail.png"
+    },
+    "4339184": {
+      "userId": "mbostock",
+      "description": "Reingold–Tilford Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4339184/raw/16a25b5849c9ef729ec93fb2b064b892695cdf1b/thumbnail.png"
+    },
+    "4339607": {
+      "userId": "mbostock",
+      "description": "Cluster Dendrogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4339607/raw/346440fb7e88130ef4c4dd995ef9c04b3acd753c/thumbnail.png"
+    },
+    "4341134": {
+      "userId": "mbostock",
+      "description": "Hierarchical Edge Bundling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341134/raw/50199c7c687b36846b302e0ec69e173714107c07/thumbnail.png"
+    },
+    "4341417": {
+      "userId": "mbostock",
+      "description": "Donut Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341417/raw/baaacb67b5451b2d02a135ff27c944b1496de518/thumbnail.png"
+    },
+    "4341574": {
+      "userId": "mbostock",
+      "description": "The Amazing Pie",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341574/raw/10e0ccfc24523e61dce2bea430ee0d480577cd3b/thumbnail.png"
+    },
+    "4341954": {
+      "userId": "mbostock",
+      "description": "Kernel Density Estimation",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341954/raw/992cc6995683e3f977d4f8383386961e3fdb230d/thumbnail.png"
+    },
+    "4347473": {
+      "userId": "mbostock",
+      "description": "Icicle",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4347473/raw/e38b9e32f3a784cf5bc0ec861f2b02e618173794/thumbnail.png"
+    },
+    "4348373": {
+      "userId": "mbostock",
+      "description": "Zoomable Sunburst",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4348373/raw/5093e6b77e3d4fbedceefccde3bd0aeb708a15a8/thumbnail.png"
+    },
+    "4485778": {
+      "userId": "sxv",
+      "description": "Interactive SVG + Canvas Plot",
+      "thumbnail": ""
+    },
+    "4491174": {
+      "userId": "sxv",
+      "description": "Can't we all get along?",
+      "thumbnail": ""
+    },
+    "4527513": {
+      "userId": "christophermanning",
+      "description": "Octocat Force Layout",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4527513/raw/37665cf2e84049df8eee5e21b6d5c33238ce838c/thumbnail.png"
+    },
+    "4588962": {
+      "userId": "emeeks",
+      "description": "An online tool for interactive teaching of network visualization and representation principles.",
+      "thumbnail": ""
+    },
+    "4600693": {
+      "userId": "mbostock",
+      "description": "Curved Links",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4600693/raw/2e8ff813f5401a5106d6cc57a5735e741319e384/thumbnail.png"
+    },
+    "4679202": {
+      "userId": "mbostock",
+      "description": "Stacked-to-Multiples",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4679202/raw/efdd537e9693ec11e2f3e0ccfec0c923d2659739/thumbnail.png"
+    },
+    "4699389": {
+      "userId": "herrstucki",
+      "description": "Streamgraph to multiple area charts",
+      "thumbnail": ""
+    },
+    "4707935": {
+      "userId": "emeeks",
+      "description": "Many, many pie charts",
+      "thumbnail": ""
+    },
+    "4733217": {
+      "userId": "emeeks",
+      "description": "From http://mbostock.github.com/d3/talk/20111018/tree.html",
+      "thumbnail": ""
+    },
+    "4945496": {
+      "userId": "gelicia",
+      "description": "Simple(?) Stacked Bar Charts",
+      "thumbnail": ""
+    },
+    "4963194": {
+      "userId": "syntagmatic",
+      "description": "Force-Directed SVG Icons",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4963194/raw/0eab8866e65041658e4e28685488feed79a59a24/thumbnail.png"
+    },
+    "4966973": {
+      "userId": "gelicia",
+      "description": "Simple(?) Horizontal Stacked Bar Charts",
+      "thumbnail": ""
+    },
+    "4982077": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5049980": {
+      "userId": "timelyportfolio",
+      "description": "Adaptation of Mike Bostock's Force-Directed Graph of Les Mis Characters using .csv dataset instead of json",
+      "thumbnail": ""
+    },
+    "5086216": {
+      "userId": "timelyportfolio",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5087480": {
+      "userId": "vlandham",
+      "description": "Simpler Force Directed Radial Layout",
+      "thumbnail": ""
+    },
+    "5095509": {
+      "userId": "gelicia",
+      "description": "Simple Stacked Bar Charts data 2",
+      "thumbnail": ""
+    },
+    "5125315": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5136338": {
+      "userId": "enjalot",
+      "description": "pack layout example",
+      "thumbnail": ""
+    },
+    "5147500": {
+      "userId": "gelicia",
+      "description": "Simple tree example",
+      "thumbnail": ""
+    },
+    "5173373": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5173373/raw/efdd537e9693ec11e2f3e0ccfec0c923d2659739/thumbnail.png"
+    },
+    "5183584": {
+      "userId": "vlandham",
+      "description": "the illusion of links in a force",
+      "thumbnail": ""
+    },
+    "5190287": {
+      "userId": "enjalot",
+      "description": "fastqc tests 2",
+      "thumbnail": ""
+    },
+    "5218414": {
+      "userId": "emeeks",
+      "description": "Constrained Voronoi with Derived Areas",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5351448": {
+      "userId": "timelyportfolio",
+      "description": "experiment with vega formula transform and new zip functionality",
+      "thumbnail": ""
+    },
+    "5369146": {
+      "userId": "mbostock",
+      "description": "How selectAll Works",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5369146/raw/1226e86424e09f49cf582b6fb9e96852b7c0cd70/thumbnail.png"
+    },
+    "5410501": {
+      "userId": "enjalot",
+      "description": "stacked layout",
+      "thumbnail": ""
+    },
+    "5437184": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5467720": {
+      "userId": "herrstucki",
+      "description": "Indented tree layout",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5467720/raw/cefce71ace511623e31650d0ca26f797dc8a2f7b/thumbnail.png"
+    },
+    "5468998": {
+      "userId": "milroc",
+      "description": "Bubble Chart",
+      "thumbnail": ""
+    },
+    "5471344": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5484778": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5530308": {
+      "userId": "enjalot",
+      "description": "force layout",
+      "thumbnail": ""
+    },
+    "5530427": {
+      "userId": "enjalot",
+      "description": "force layout",
+      "thumbnail": ""
+    },
+    "5530496": {
+      "userId": "enjalot",
+      "description": "force layout lamp",
+      "thumbnail": ""
+    },
+    "5530544": {
+      "userId": "enjalot",
+      "description": "force layout big",
+      "thumbnail": ""
+    },
+    "5530557": {
+      "userId": "enjalot",
+      "description": "force layout illusion",
+      "thumbnail": ""
+    },
+    "5530602": {
+      "userId": "enjalot",
+      "description": "force layout members",
+      "thumbnail": ""
+    },
+    "5537943": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5538328": {
+      "userId": "enjalot",
+      "description": "force layout no collision",
+      "thumbnail": ""
+    },
+    "5538702": {
+      "userId": "enjalot",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5538737": {
+      "userId": "enjalot",
+      "description": "1024 members userSpace",
+      "thumbnail": ""
+    },
+    "5543774": {
+      "userId": "milroc",
+      "description": "1024 members",
+      "thumbnail": ""
+    },
+    "5545110": {
+      "userId": "enjalot",
+      "description": "1024 members html",
+      "thumbnail": ""
+    },
+    "5546227": {
+      "userId": "enjalot",
+      "description": "1024 members html foci",
+      "thumbnail": ""
+    },
+    "5553051": {
+      "userId": "milroc",
+      "description": "Slides: \"Reusable Visualizations\"",
+      "thumbnail": ""
+    },
+    "5586845": {
+      "userId": "timelyportfolio",
+      "description": "BIS Derivative Data using Mike Bostock's stacked to multiple bar",
+      "thumbnail": ""
+    },
+    "5672200": {
+      "userId": "mbostock",
+      "description": "Hierarchical Edge Bundling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5672200/raw/d645f5a15e9f63ec4161d7a70f54976da60d4680/thumbnail.png"
+    },
+    "5675395": {
+      "userId": "enjalot",
+      "description": "1024 members html foci",
+      "thumbnail": ""
+    },
+    "5681495": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5681842": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5681842/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5681974": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, IV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5681974/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5682158": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, V",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5682158/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5684816": {
+      "userId": "herrstucki",
+      "description": "Grid layout",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5684816/raw/35ffaf0d07a626b3a3af416d6a5cf73c11a0191b/thumbnail.png"
+    },
+    "5694697": {
+      "userId": "herrstucki",
+      "description": "Sorting the Grid",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5694697/raw/ef01332ddd8e5345a2b8e43ab6e64524355590bf/thumbnail.png"
+    },
+    "5710596": {
+      "userId": "herrstucki",
+      "description": "Filtering the Grid",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5710596/raw/3b3fd39e95dac26c32141309a7131a5fc6f96f03/thumbnail.png"
+    },
+    "5710620": {
+      "userId": "herrstucki",
+      "description": "Filtering the Grid 2",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5710620/raw/405a58ac698a9f58397cc0ae97af142a52f674ed/thumbnail.png"
+    },
+    "5736996": {
+      "userId": "enjalot",
+      "description": "d3 api exploration",
+      "thumbnail": ""
+    },
+    "5746180": {
+      "userId": "timelyportfolio",
+      "description": "put together Gist for new Rickshaw [multi renderer]",
+      "thumbnail": ""
+    },
+    "5754227": {
+      "userId": "gelicia",
+      "description": "pie layout play",
+      "thumbnail": ""
+    },
+    "5798871": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/biovisualize/5798871/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5801758": {
+      "userId": "biovisualize",
+      "description": "dag layout",
+      "thumbnail": ""
+    },
+    "5808514": {
+      "userId": "enjalot",
+      "description": "SO help - line",
+      "thumbnail": ""
+    },
+    "5826708": {
+      "userId": "enjalot",
+      "description": "pie for ccmonster",
+      "thumbnail": ""
+    },
+    "5841623": {
+      "userId": "ramnathv",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5851873": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5872848": {
+      "userId": "mbostock",
+      "description": "Dispatching Events",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5872848/raw/ed399cb807cae14f3dcb60eefbb8534475c9d344/thumbnail.png"
+    },
+    "5915027": {
+      "userId": "jfsiii",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/jfsiii/5915027/raw/0eab8866e65041658e4e28685488feed79a59a24/thumbnail.png"
+    },
+    "5940031": {
+      "userId": "gelicia",
+      "description": "squidz help",
+      "thumbnail": ""
+    },
+    "5944371": {
+      "userId": "mbostock",
+      "description": "Bilevel Partition",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5944371/raw/3e8b6ccb28f5e91335af10aa5fbf4ecc9e584178/thumbnail.png"
+    },
+    "5945430": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5945430/raw/3e8b6ccb28f5e91335af10aa5fbf4ecc9e584178/thumbnail.png"
+    },
+    "6077525": {
+      "userId": "enjalot",
+      "description": "kiera stream data",
+      "thumbnail": ""
+    },
+    "6077539": {
+      "userId": "enjalot",
+      "description": "kiera stream data",
+      "thumbnail": ""
+    },
+    "6077665": {
+      "userId": "enjalot",
+      "description": "kiera stream data",
+      "thumbnail": ""
+    },
+    "6084963": {
+      "userId": "jfsiii",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/jfsiii/6084963/raw/efdd537e9693ec11e2f3e0ccfec0c923d2659739/thumbnail.png"
+    },
+    "6092274": {
+      "userId": "enjalot",
+      "description": "kiera stream data",
+      "thumbnail": ""
+    },
+    "6092282": {
+      "userId": "enjalot",
+      "description": "kiera stream data",
+      "thumbnail": ""
+    },
+    "6149542": {
+      "userId": "enjalot",
+      "description": "BART ridership",
+      "thumbnail": ""
+    },
+    "6199768": {
+      "userId": "herrstucki",
+      "description": "Animating Flowers",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/6199768/raw/42c6c2a1c5b4bc13e7ea45d223ae6699f8910143/thumbnail.png"
+    },
+    "6201953": {
+      "userId": "gelicia",
+      "description": "helping choudhary",
+      "thumbnail": ""
+    },
+    "6202127": {
+      "userId": "gelicia",
+      "description": "helping choudhary",
+      "thumbnail": ""
+    },
+    "6202333": {
+      "userId": "gelicia",
+      "description": "helping choudhary",
+      "thumbnail": ""
+    },
+    "6252259": {
+      "userId": "jeremybuis",
+      "description": null,
+      "thumbnail": ""
+    },
+    "6316349": {
+      "userId": "milroc",
+      "description": "    ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6316349/raw/47c7c1fd2c9c05689a9e4f15454c59c114e1c957/thumbnail.png"
+    },
+    "6361720": {
+      "userId": "gelicia",
+      "description": "squidz help moving",
+      "thumbnail": ""
+    },
+    "6361723": {
+      "userId": "gelicia",
+      "description": "squidz help",
+      "thumbnail": ""
+    },
+    "6369061": {
+      "userId": "ckuijjer",
+      "description": "Top Three Hot Dog Eaters",
+      "thumbnail": "https://gist.githubusercontent.com/ckuijjer/6369061/raw/d1d4c4af1799d519c8f4d999a06a080a247b678d/thumbnail.png"
+    },
+    "6418898": {
+      "userId": "syntagmatic",
+      "description": "Force-Directed Edge Severing",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6418898/raw/0eab8866e65041658e4e28685488feed79a59a24/thumbnail.png"
+    },
+    "6419716": {
+      "userId": "syntagmatic",
+      "description": "Force-directed Splitting",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6419716/raw/4c711799deb7e17728d4eccd5e7af15d2f5425c8/thumbnail.png"
+    },
+    "6604854": {
+      "userId": "enjalot",
+      "description": "reddit comments treemap",
+      "thumbnail": ""
+    },
+    "6612462": {
+      "userId": "enjalot",
+      "description": "reddit comments treemap",
+      "thumbnail": ""
+    },
+    "6615317": {
+      "userId": "emeeks",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/emeeks/6615317/raw/ae51148f93dde571c3cf44edf004576255d28326/thumbnail.png"
+    },
+    "6631652": {
+      "userId": "enjalot",
+      "description": "simple histogram",
+      "thumbnail": ""
+    },
+    "6641917": {
+      "userId": "enjalot",
+      "description": "d3 workshop",
+      "thumbnail": ""
+    },
+    "6645441": {
+      "userId": "mbostock",
+      "description": "Treemap Padding",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6645441/raw/8cebc4ee07093a03fcd0694d6bbf835758ca0c50/thumbnail.png"
+    },
+    "6804753": {
+      "userId": "mbostock",
+      "description": "Delaunay Force Mesh",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6804753/raw/b170729c04a319eeafab64d977c1de53376bde29/thumbnail.png"
+    },
+    "6929969": {
+      "userId": "ckuijjer",
+      "description": "Donut chart using Protovis",
+      "thumbnail": "https://gist.githubusercontent.com/ckuijjer/6929969/raw/bec258b9703dd3e6f94056ce7128a4e1b051af25/thumbnail.png"
+    },
+    "6944484": {
+      "userId": "syntagmatic",
+      "description": "Canvas Force-Directed Graph",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/6944484/raw/0eab8866e65041658e4e28685488feed79a59a24/thumbnail.png"
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "7052702": {
+      "userId": "syntagmatic",
+      "description": "Draggable Canvas Force Graph",
+      "thumbnail": ""
+    },
+    "7113356": {
+      "userId": "enjalot",
+      "description": "html5devconf force",
+      "thumbnail": ""
+    },
+    "7127495": {
+      "userId": "pcj",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/pcj/7127495/raw/0ef356f60e20f70f424195a693739dfc74c42ad7/thumbnail.png"
+    },
+    "7155003": {
+      "userId": "bollwyvl",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/bollwyvl/7155003/raw/0ef356f60e20f70f424195a693739dfc74c42ad7/thumbnail.png"
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "7356026": {
+      "userId": "bollwyvl",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/bollwyvl/7356026/raw/0ef356f60e20f70f424195a693739dfc74c42ad7/thumbnail.png"
+    },
+    "7380178": {
+      "userId": "emeeks",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/emeeks/7380178/raw/f2b962ea45796acb7dfa191242808c494d3b2386/thumbnail.png"
+    },
+    "7607535": {
+      "userId": "mbostock",
+      "description": "Zoomable Circle Packing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7607535/raw/19ead3729418158e4d457ffaa2c875823c9bb354/thumbnail.png"
+    },
+    "7607999": {
+      "userId": "mbostock",
+      "description": "Hierarchical Edge Bundling",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7607999/raw/f2b962ea45796acb7dfa191242808c494d3b2386/thumbnail.png"
+    },
+    "7694722": {
+      "userId": "danharr",
+      "description": "Football Lineups",
+      "thumbnail": ""
+    },
+    "7809166": {
+      "userId": "mbostock",
+      "description": "Cluster Dendrogram II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7809166/raw/2173f87453e1f06126819db6e30e3d8b2d4da312/thumbnail.png"
+    },
+    "7881887": {
+      "userId": "mbostock",
+      "description": "Clustered Force Layout III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7881887/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png"
+    },
+    "7882658": {
+      "userId": "mbostock",
+      "description": "Cluster Force Layout IV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7882658/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png"
+    },
+    "7914714": {
+      "userId": "emeeks",
+      "description": "Taffy Edges",
+      "thumbnail": ""
+    },
+    "8250493": {
+      "userId": "gelicia",
+      "description": "Simple Horiz Stack Bar W/ Tip",
+      "thumbnail": ""
+    },
+    "8551991": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8551991/raw/90a6678bb4bfe0b2960a8a5d6eb68a3cfce9f6d9/thumbnail.png"
+    },
+    "8552311": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8552311/raw/82b19ce454f7e5a96f8cb8b2285efd72d9811536/thumbnail.png"
+    },
+    "8564373": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8564373/raw/5093e6b77e3d4fbedceefccde3bd0aeb708a15a8/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    },
+    "9061986": {
+      "userId": "hobbes7878",
+      "description": "Stadium Chart",
+      "thumbnail": "https://gist.githubusercontent.com/hobbes7878/9061986/raw/856d8ba4c5685d797e9639282e97762a9a8cad22/thumbnail.png"
+    },
+    "9239214": {
+      "userId": "bollwyvl",
+      "description": "d3 fishbone",
+      "thumbnail": "https://gist.githubusercontent.com/bollwyvl/9239214/raw/a185d90f94d891b0f9609530f715295a691b6914/thumbnail.png"
+    },
+    "9265219": {
+      "userId": "bollwyvl",
+      "description": "A fishbone editor",
+      "thumbnail": "https://gist.githubusercontent.com/bollwyvl/9265219/raw/a185d90f94d891b0f9609530f715295a691b6914/thumbnail.png"
+    },
+    "9357131": {
+      "userId": "emeeks",
+      "description": "GEXF D3 Complex Example",
+      "thumbnail": ""
+    },
+    "9357371": {
+      "userId": "emeeks",
+      "description": "GEXF D3 Simple Example",
+      "thumbnail": ""
+    },
+    "9833333": {
+      "userId": "danharr",
+      "description": "Passes during a game",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9833333/raw/56d8360539eeee6ecc067b13e4ced558ed434dda/thumbnail.png"
+    },
+    "9834558": {
+      "userId": "danharr",
+      "description": "Web Site Visits (via Jason Davies)",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9834558/raw/14c1a86196a4b5bf8440a14e6f332bd9f0f032e6/thumbnail.png"
+    },
+    "9837654": {
+      "userId": "danharr",
+      "description": "Path to Conversion",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9837654/raw/2a869b02a7f1d951e9868c931a35b9afc85bf271/thumbnail.png"
+    },
+    "9980626": {
+      "userId": "emeeks",
+      "description": "Topojson Import into Force-Directed",
+      "thumbnail": ""
+    },
+    "9993335": {
+      "userId": "jugglingnutcase",
+      "description": "7 Wonder's score streamgraphs",
+      "thumbnail": "https://gist.githubusercontent.com/jugglingnutcase/9993335/raw/121747e0a5680ca564ef5e70c7fa80a5e866fd36/thumbnail.png"
+    },
+    "10000634": {
+      "userId": "finiterank",
+      "description": "Paleta de colores",
+      "thumbnail": "https://gist.githubusercontent.com/finiterank/10000634/raw/f3ca99a3885b356f4e99544c88dcfdfc192cc4d7/thumbnail.png"
+    },
+    "10001728": {
+      "userId": "gisminister",
+      "description": "Markercluster pie charts",
+      "thumbnail": "https://gist.githubusercontent.com/gisminister/10001728/raw/3b2a8874af904a730889951db81dbcebaa3eb8e4/thumbnail.png"
+    },
+    "10014250": {
+      "userId": "emeeks",
+      "description": "Topojson Import into Force-Directed II",
+      "thumbnail": "https://gist.githubusercontent.com/emeeks/10014250/raw/fa1e0e5a6d12fc1373bcd2466550d65d20038610/thumbnail.png"
+    },
+    "10156411": {
+      "userId": "jugglingnutcase",
+      "description": "7 Wonders scores stacked bar graph",
+      "thumbnail": "https://gist.githubusercontent.com/jugglingnutcase/10156411/raw/6574aca7fa9636f69e48c97ccf57575b5bcdcbe0/thumbnail.png"
+    },
+    "69a97f937b6147e67edd": {
+      "userId": "iros",
+      "description": "d3.chart piebars",
+      "thumbnail": ""
+    }
+  },
+  "count": 340,
+  "coocurance": {
+    "d3.select": 323,
+    "d3.format": 42,
+    "d3.scale": 246,
+    "d3.scale.linear": 103,
+    "d3.svg": 181,
+    "d3.svg.axis": 53,
+    "d3.scale.category": 157,
+    "d3.scale.ordinal": 72,
+    "d3.svg.arc": 105,
+    "d3.layout.pie": 80,
+    "d3.mouse": 27,
+    "d3.range": 87,
+    "d3.layout": 339,
+    "d3.layout.force": 123,
+    "d3.geo": 72,
+    "d3.geom": 66,
+    "d3.geom.quadtree": 44,
+    "d3.behavior": 22,
+    "d3.behavior.zoom": 14,
+    "d3.rgb": 27,
+    "d3.event": 67,
+    "d3.json": 97,
+    "d3.behavior.drag": 13,
+    "d3.text": 9,
+    "d3.selection": 6,
+    "d3.tsv": 16,
+    "d3.svg.diagonal": 23,
+    "d3.svg.diagonal.radial": 9,
+    "d3.layout.tree": 40,
+    "d3.interpolate": 46,
+    "d3.interpolateLab": 5,
+    "d3.geo.path": 14,
+    "d3.selectAll": 49,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 10,
+    "d3.ease": 5,
+    "d3.timer": 14,
+    "d3.timer.flush": 8,
+    "d3.interpolateNumber": 9,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 9,
+    "d3.interpolateHsl": 6,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 15,
+    "d3.descending": 28,
+    "d3.min": 24,
+    "d3.max": 68,
+    "d3.extent": 28,
+    "d3.sum": 14,
+    "d3.mean": 6,
+    "d3.median": 4,
+    "d3.quantile": 6,
+    "d3.bisect": 5,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 5,
+    "d3.permute": 4,
+    "d3.zip": 5,
+    "d3.transpose": 6,
+    "d3.keys": 21,
+    "d3.values": 11,
+    "d3.entries": 17,
+    "d3.merge": 10,
+    "d3.nest": 38,
+    "d3.map": 10,
+    "d3.transform": 4,
+    "d3.xhr": 5,
+    "d3.html": 6,
+    "d3.xml": 5,
+    "d3.csv": 36,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 6,
+    "d3.csv.parseRows": 4,
+    "d3.csv.format": 1,
+    "d3.hsl": 4,
+    "d3.ns.prefix": 6,
+    "d3.ns.qualify": 4,
+    "d3.functor": 15,
+    "d3.rebind": 18,
+    "d3.dispatch": 47,
+    "d3.scale.sqrt": 37,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 7,
+    "d3.scale.quantize": 12,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 4,
+    "d3.svg.line": 25,
+    "d3.svg.line.radial": 8,
+    "d3.svg.area": 26,
+    "d3.svg.area.radial": 5,
+    "d3.svg.symbol": 10,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 15,
+    "d3.svg.brush": 13,
+    "d3.time": 37,
+    "d3.time.format": 23,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 22,
+    "d3.time.day": 15,
+    "d3.time.days": 8,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 5,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 5,
+    "d3.time.weeks": 5,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 5,
+    "d3.time.years": 5,
+    "d3.layout.bundle": 9,
+    "d3.layout.chord": 15,
+    "d3.layout.cluster": 14,
+    "d3.layout.hierarchy": 7,
+    "d3.layout.histogram": 15,
+    "d3.layout.pack": 20,
+    "d3.layout.partition": 24,
+    "d3.layout.stack": 42,
+    "d3.layout.treemap": 18,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 5,
+    "d3.geo.albers": 7,
+    "d3.geo.albersUsa": 6,
+    "d3.geo.equirectangular": 5,
+    "d3.geo.mercator": 8,
+    "d3.geom.voronoi": 10,
+    "d3.geom.polygon": 8,
+    "d3.geom.hull": 5,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateHcl": 8,
+    "d3.random.normal": 4,
+    "d3.lab": 5,
+    "d3.hcl": 4,
+    "d3.scale.threshold": 3,
+    "d3.interpolateZoom": 1,
+    "d3.hexbin": 2,
+    "d3.random.bates": 1,
+    "d3.random.logNormal": 1,
+    "d3.set": 6,
+    "d3.box": 2,
+    "d3.shuffle": 1,
+    "d3.fisheye": 2,
+    "d3.tsv.parse": 1,
+    "d3.geo.azimuthalEqualArea": 1,
+    "d3.geo.azimuthalEquidistant": 1,
+    "d3.geo.conicConformal": 1,
+    "d3.geo.conicEquidistant": 1,
+    "d3.geo.conicEqualArea": 1,
+    "d3.geo.gnomonic": 1,
+    "d3.geo.orthographic": 1,
+    "d3.geo.stereographic": 1,
+    "d3.geo.transverseMercator": 1,
+    "d3.force_labels": 1
+  }
+}

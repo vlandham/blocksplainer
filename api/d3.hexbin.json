@@ -1,0 +1,124 @@
+{
+  "api": "d3.hexbin",
+  "blocks": {
+    "3828981": {
+      "userId": "mbostock",
+      "description": "van Wijk Smooth Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3828981/raw/2b993736c8b08bc227e2c041858cb9c87ed9b5e2/thumbnail.png"
+    },
+    "3854614": {
+      "userId": "mbostock",
+      "description": "Walmart locations",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3854614/raw/9af74488aff3cc0cc664e5927f9d3117926a02a0/thumbnail.png"
+    },
+    "4248145": {
+      "userId": "mbostock",
+      "description": "Hexagonal Binning",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4248145/raw/6d1f16bc8b796af51424c85bec6f641cbf6a768d/thumbnail.png"
+    },
+    "4248146": {
+      "userId": "mbostock",
+      "description": "Hexagonal Binning (Area)",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4248146/raw/0ca4d4a5b797e4c70da478f974f343e0e1b06c0b/thumbnail.png"
+    },
+    "4330486": {
+      "userId": "mbostock",
+      "description": "Bivariate Hexbin Map",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4330486/raw/4e55698dbb10349f49cf55b68e59ce4c10cab506/thumbnail.png"
+    },
+    "5574274": {
+      "userId": "biovisualize",
+      "description": "Hexbin experiments",
+      "thumbnail": ""
+    },
+    "5574625": {
+      "userId": "enjalot",
+      "description": "Hexbin experiments",
+      "thumbnail": ""
+    },
+    "7833311": {
+      "userId": "mbostock",
+      "description": "Dynamic Hexbin",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7833311/raw/9e0021914504e28e489a9ca783776d59431640f6/thumbnail.png"
+    },
+    "8812632": {
+      "userId": "ramnathv",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/ramnathv/8812632/raw/7faefc8c260b7b308bd5f973103985a616b4ad62/thumbnail.png"
+    },
+    "8871035": {
+      "userId": "timelyportfolio",
+      "description": "work on @ramnathv datamaps plugin",
+      "thumbnail": ""
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    }
+  },
+  "count": 11,
+  "coocurance": {
+    "d3.select": 10,
+    "d3.timer": 2,
+    "d3.interpolate": 5,
+    "d3.interpolateLab": 3,
+    "d3.range": 6,
+    "d3.random.normal": 3,
+    "d3.scale": 10,
+    "d3.scale.linear": 6,
+    "d3.time": 3,
+    "d3.median": 1,
+    "d3.json": 4,
+    "d3.tsv": 1,
+    "d3.scale.sqrt": 4,
+    "d3.time.format": 2,
+    "d3.time.scale": 1,
+    "d3.geo": 3,
+    "d3.geo.path": 2,
+    "d3.geo.albers": 1,
+    "d3.hexbin": 10,
+    "d3.scale.identity": 4,
+    "d3.svg": 5,
+    "d3.svg.axis": 5,
+    "d3.min": 2,
+    "d3.max": 3,
+    "d3.scale.quantize": 3,
+    "d3.layout": 2,
+    "d3.interpolateZoom": 1,
+    "d3.values": 1,
+    "d3.event": 1,
+    "d3.set": 1,
+    "d3.format": 1,
+    "d3.rgb": 1,
+    "d3.functor": 1,
+    "d3.rebind": 1,
+    "d3.scale.ordinal": 1,
+    "d3.scale.category": 1,
+    "d3.svg.brush": 1,
+    "d3.layout.force": 1,
+    "d3.geom": 1,
+    "d3.geom.quadtree": 1,
+    "d3.mouse": 1,
+    "d3.timer.flush": 1,
+    "d3.interpolateNumber": 1,
+    "d3.interpolateHcl": 1,
+    "d3.ascending": 1,
+    "d3.extent": 1,
+    "d3.sum": 1,
+    "d3.quantile": 1,
+    "d3.nest": 1,
+    "d3.svg.line": 1,
+    "d3.svg.area": 1,
+    "d3.svg.arc": 1,
+    "d3.layout.pie": 1,
+    "d3.layout.stack": 1,
+    "d3.behavior": 1,
+    "d3.behavior.zoom": 1,
+    "d3.box": 1,
+    "d3.selectAll": 2,
+    "d3.shuffle": 1,
+    "d3.time.hour": 1,
+    "d3.dispatch": 1
+  }
+}

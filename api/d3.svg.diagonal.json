@@ -1,0 +1,284 @@
+{
+  "api": "d3.svg.diagonal",
+  "blocks": {
+    "999346": {
+      "userId": "mbostock",
+      "description": "Random Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/999346/raw/e55c8f6f7b56a1e3d3985eb47f8e1f1397febe14/thumbnail.png"
+    },
+    "1039698": {
+      "userId": "jasondavies",
+      "description": "Pedigree Chart",
+      "thumbnail": ""
+    },
+    "1093025": {
+      "userId": "mbostock",
+      "description": "Collapsible Indented Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1093025/raw/1b7469b9f03b2deb5e8bfd2fb8585b71438fbd93/thumbnail.png"
+    },
+    "1299353": {
+      "userId": "jasondavies",
+      "description": "",
+      "thumbnail": ""
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "2949981": {
+      "userId": "mbostock",
+      "description": "Tree Layout from CSV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2949981/raw/01f1c48b14cfd38d42c050729d71e2df68e60cb7/thumbnail.png"
+    },
+    "3087986": {
+      "userId": "mbostock",
+      "description": "Cross-linked Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3087986/raw/1978345e64f3cf19bd841a4820fe2c248ffbd85e/thumbnail.png"
+    },
+    "3184089": {
+      "userId": "mbostock",
+      "description": "Tree Layout Orientations",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3184089/raw/23f65c0babbafede00244878c043ec9f5b02c15d/thumbnail.png"
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "4063550": {
+      "userId": "mbostock",
+      "description": "Radial Reingold–Tilford Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063550/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4063570": {
+      "userId": "mbostock",
+      "description": "Cluster Dendrogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4063570/raw/b1b3381ff5183d97a9db82d1c535da230686a3c9/thumbnail.png"
+    },
+    "4075296": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4076122": {
+      "userId": "syntagmatic",
+      "description": "d3 src tree",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4076122/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4092944": {
+      "userId": "syntagmatic",
+      "description": "d3 src tree transitions",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4092944/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4339083": {
+      "userId": "mbostock",
+      "description": "Collapsible Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4339083/raw/65e7be96865fa4e37c857b0a06a30d7cac0986e3/thumbnail.png"
+    },
+    "4339184": {
+      "userId": "mbostock",
+      "description": "Reingold–Tilford Tree",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4339184/raw/16a25b5849c9ef729ec93fb2b064b892695cdf1b/thumbnail.png"
+    },
+    "4339607": {
+      "userId": "mbostock",
+      "description": "Cluster Dendrogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4339607/raw/346440fb7e88130ef4c4dd995ef9c04b3acd753c/thumbnail.png"
+    },
+    "4733217": {
+      "userId": "emeeks",
+      "description": "From http://mbostock.github.com/d3/talk/20111018/tree.html",
+      "thumbnail": ""
+    },
+    "5147500": {
+      "userId": "gelicia",
+      "description": "Simple tree example",
+      "thumbnail": ""
+    },
+    "5158988": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5369146": {
+      "userId": "mbostock",
+      "description": "How selectAll Works",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5369146/raw/1226e86424e09f49cf582b6fb9e96852b7c0cd70/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5841623": {
+      "userId": "ramnathv",
+      "description": null,
+      "thumbnail": ""
+    }
+  },
+  "count": 25,
+  "coocurance": {
+    "d3.select": 25,
+    "d3.selection": 6,
+    "d3.tsv": 5,
+    "d3.svg": 25,
+    "d3.svg.diagonal.radial": 10,
+    "d3.layout": 23,
+    "d3.layout.tree": 20,
+    "d3.svg.diagonal": 24,
+    "d3.range": 5,
+    "d3.selectAll": 6,
+    "d3.event": 7,
+    "d3.mouse": 4,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 5,
+    "d3.ease": 5,
+    "d3.timer": 5,
+    "d3.timer.flush": 5,
+    "d3.interpolate": 5,
+    "d3.interpolateNumber": 5,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 5,
+    "d3.descending": 5,
+    "d3.min": 6,
+    "d3.max": 6,
+    "d3.extent": 5,
+    "d3.sum": 5,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 5,
+    "d3.bisect": 5,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 4,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.keys": 5,
+    "d3.values": 5,
+    "d3.entries": 7,
+    "d3.merge": 5,
+    "d3.nest": 6,
+    "d3.map": 5,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 17,
+    "d3.html": 5,
+    "d3.xml": 5,
+    "d3.csv": 5,
+    "d3.format": 5,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 5,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 5,
+    "d3.rebind": 5,
+    "d3.dispatch": 5,
+    "d3.scale": 7,
+    "d3.scale.linear": 7,
+    "d3.scale.sqrt": 5,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 5,
+    "d3.scale.category": 5,
+    "d3.svg.line": 5,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 5,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 5,
+    "d3.svg.symbol": 5,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 5,
+    "d3.svg.axis": 5,
+    "d3.svg.brush": 5,
+    "d3.time": 5,
+    "d3.time.format": 4,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 4,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 4,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 7,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 5,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 4,
+    "d3.layout.stack": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo": 4,
+    "d3.geo.path": 4,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 4,
+    "d3.geom.voronoi": 4,
+    "d3.geom.quadtree": 4,
+    "d3.geom.polygon": 4,
+    "d3.geom.hull": 4,
+    "d3.behavior": 6,
+    "d3.behavior.drag": 5,
+    "d3.behavior.zoom": 6,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3
+  }
+}

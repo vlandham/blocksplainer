@@ -1,0 +1,391 @@
+{
+  "api": "d3.descending",
+  "blocks": {
+    "1026757": {
+      "userId": "syntagmatic",
+      "description": "",
+      "thumbnail": ""
+    },
+    "1028380": {
+      "userId": "syntagmatic",
+      "description": "Chord Transitions, V2",
+      "thumbnail": ""
+    },
+    "1046712": {
+      "userId": "mbostock",
+      "description": "Chord Diagram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1046712/raw/ff0a1e8076025791f8e0ca90574ec57e634ddb45/thumbnail.png"
+    },
+    "1262152": {
+      "userId": "enjalot",
+      "description": "Double Pie Chart",
+      "thumbnail": ""
+    },
+    "1262258": {
+      "userId": "enjalot",
+      "description": "Multi Pie",
+      "thumbnail": ""
+    },
+    "1262305": {
+      "userId": "enjalot",
+      "description": "Bakery",
+      "thumbnail": ""
+    },
+    "1282943": {
+      "userId": "enjalot",
+      "description": "Chernoff Smileys",
+      "thumbnail": ""
+    },
+    "1308257": {
+      "userId": "mbostock",
+      "description": "The Euro Debt Crisis",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1308257/raw/aa1fa8c2ddda32f457f24cabdbf5f7f050b5b779/thumbnail.png"
+    },
+    "1310924": {
+      "userId": "enjalot",
+      "description": "Simple sorting selection example",
+      "thumbnail": ""
+    },
+    "1334054": {
+      "userId": "zjonsson",
+      "description": "Icesave capital structure - nest/layout example",
+      "thumbnail": ""
+    },
+    "1378144": {
+      "userId": "enjalot",
+      "description": "d3 behavior.drag example",
+      "thumbnail": ""
+    },
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "1628131": {
+      "userId": "mbostock",
+      "description": "Circle Packing Zero Values",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1628131/raw/9bde6892b6a2c5af04eeefebc8dae0ff7e7b8b2b/thumbnail.png"
+    },
+    "2556118": {
+      "userId": "enjalot",
+      "description": "created by water, a live-coding editor (http://water.gabrielflor.it)",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3373554": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3373677": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3373895": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3374868": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3374884": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3374887": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3375162": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3375204": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3375625": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3375667": {
+      "userId": "enjalot",
+      "description": "created by livecoding - http://livecoding.gabrielflor.it/3375667",
+      "thumbnail": ""
+    },
+    "3505710": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3971708": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4061961": {
+      "userId": "mbostock",
+      "description": "Bullet Charts",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4061961/raw/ee3e849724fc0cb2a738fcc33ee864081c2c295e/thumbnail.png"
+    },
+    "4062006": {
+      "userId": "mbostock",
+      "description": "Chord Diagram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4062006/raw/2241e71872a06ab78c6670179a7c1ee6051a1354/thumbnail.png"
+    },
+    "4341574": {
+      "userId": "mbostock",
+      "description": "The Amazing Pie",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4341574/raw/10e0ccfc24523e61dce2bea430ee0d480577cd3b/thumbnail.png"
+    },
+    "5189018": {
+      "userId": "herrstucki",
+      "description": "D3 Data Tutorial",
+      "thumbnail": ""
+    },
+    "5240519": {
+      "userId": "timelyportfolio",
+      "description": "dexvis map experiment",
+      "thumbnail": ""
+    },
+    "5452290": {
+      "userId": "jasondavies",
+      "description": "Vertical Bullet Charts",
+      "thumbnail": "https://gist.githubusercontent.com/jasondavies/5452290/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5498995": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5498995/raw/e4f29c5d2ea0959c8e4330484474c80ea93f1676/thumbnail.png"
+    },
+    "5577023": {
+      "userId": "mbostock",
+      "description": "Every ColorBrewer Scale",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5577023/raw/d14aeeff84351fc98a172a925a09297911b32933/thumbnail.png"
+    },
+    "5694697": {
+      "userId": "herrstucki",
+      "description": "Sorting the Grid",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5694697/raw/ef01332ddd8e5345a2b8e43ab6e64524355590bf/thumbnail.png"
+    },
+    "5710596": {
+      "userId": "herrstucki",
+      "description": "Filtering the Grid",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5710596/raw/3b3fd39e95dac26c32141309a7131a5fc6f96f03/thumbnail.png"
+    },
+    "5710620": {
+      "userId": "herrstucki",
+      "description": "Filtering the Grid 2",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5710620/raw/405a58ac698a9f58397cc0ae97af142a52f674ed/thumbnail.png"
+    },
+    "6108554": {
+      "userId": "milroc",
+      "description": "color brewer + HSL values",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/6108554/raw/07b32c53a42a17007dfaa63d262a4b92c74842db/thumbnail.png"
+    },
+    "6149542": {
+      "userId": "enjalot",
+      "description": "BART ridership",
+      "thumbnail": ""
+    },
+    "6199768": {
+      "userId": "herrstucki",
+      "description": "Animating Flowers",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/6199768/raw/42c6c2a1c5b4bc13e7ea45d223ae6699f8910143/thumbnail.png"
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "9833333": {
+      "userId": "danharr",
+      "description": "Passes during a game",
+      "thumbnail": "https://gist.githubusercontent.com/danharr/9833333/raw/56d8360539eeee6ecc067b13e4ced558ed434dda/thumbnail.png"
+    }
+  },
+  "count": 46,
+  "coocurance": {
+    "d3.select": 45,
+    "d3.range": 33,
+    "d3.selectAll": 15,
+    "d3.selection": 6,
+    "d3.event": 11,
+    "d3.mouse": 7,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 9,
+    "d3.ease": 5,
+    "d3.timer": 10,
+    "d3.timer.flush": 10,
+    "d3.interpolate": 16,
+    "d3.interpolateNumber": 5,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 9,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 9,
+    "d3.min": 18,
+    "d3.max": 22,
+    "d3.extent": 8,
+    "d3.sum": 8,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 5,
+    "d3.bisect": 6,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 5,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.keys": 7,
+    "d3.values": 7,
+    "d3.entries": 7,
+    "d3.merge": 7,
+    "d3.nest": 7,
+    "d3.map": 6,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 10,
+    "d3.html": 7,
+    "d3.xml": 5,
+    "d3.csv": 6,
+    "d3.format": 11,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 10,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 7,
+    "d3.rebind": 9,
+    "d3.dispatch": 7,
+    "d3.scale": 42,
+    "d3.scale.linear": 29,
+    "d3.scale.sqrt": 7,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 27,
+    "d3.scale.category": 14,
+    "d3.svg": 29,
+    "d3.svg.line": 10,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 7,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 22,
+    "d3.svg.symbol": 9,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 14,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 10,
+    "d3.svg.brush": 7,
+    "d3.time": 10,
+    "d3.time.format": 4,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 4,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 6,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 28,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 13,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 5,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 13,
+    "d3.layout.stack": 7,
+    "d3.layout.tree": 6,
+    "d3.layout.treemap": 4,
+    "d3.geo": 6,
+    "d3.geo.path": 5,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 4,
+    "d3.geo.albersUsa": 4,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 6,
+    "d3.geom.voronoi": 6,
+    "d3.geom.quadtree": 4,
+    "d3.geom.polygon": 6,
+    "d3.geom.hull": 4,
+    "d3.behavior": 8,
+    "d3.behavior.drag": 8,
+    "d3.behavior.zoom": 5,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.descending": 45,
+    "d3.bullet": 3,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 4,
+    "d3.random.normal": 3,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 4,
+    "d3.scale.threshold": 3,
+    "d3.fisheye": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "api": "d3.geo.polyhedron.butterfly",
+  "blocks": {
+    "4458680": {
+      "userId": "mbostock",
+      "description": "Gnomonic Butterfly",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4458680/raw/bc3c5c0d77a6466b444aa87b9546412fd2e90f74/thumbnail.png"
+    }
+  },
+  "count": 1,
+  "coocurance": {
+    "d3.select": 1,
+    "d3.json": 1,
+    "d3.geo": 1,
+    "d3.geo.path": 1,
+    "d3.geo.graticule": 1,
+    "d3.geo.polyhedron": 1
+  }
+}

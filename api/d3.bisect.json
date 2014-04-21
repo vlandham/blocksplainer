@@ -1,0 +1,330 @@
+{
+  "api": "d3.bisect",
+  "blocks": {
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3902569": {
+      "userId": "mbostock",
+      "description": "X-Value Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3902569/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png"
+    },
+    "5149102": {
+      "userId": "timelyportfolio",
+      "description": "zui53 and d3 line chart",
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5149102/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png"
+    },
+    "5255022": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5257985": {
+      "userId": "timelyportfolio",
+      "description": "output from R clickme ractive to produce d3 multiline chart",
+      "thumbnail": ""
+    },
+    "5287484": {
+      "userId": "timelyportfolio",
+      "description": "old price tables in d3 line chart using clickme ractive",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5650748": {
+      "userId": "enjalot",
+      "description": "ascii img chinese scale",
+      "thumbnail": ""
+    },
+    "5650770": {
+      "userId": "enjalot",
+      "description": "ascii img chinese EJ",
+      "thumbnail": ""
+    },
+    "5650777": {
+      "userId": "enjalot",
+      "description": "ascii img fire nate",
+      "thumbnail": ""
+    },
+    "5650826": {
+      "userId": "enjalot",
+      "description": "ascii img chinese nate",
+      "thumbnail": ""
+    },
+    "5653815": {
+      "userId": "enjalot",
+      "description": "ascii img chinese zeffii",
+      "thumbnail": ""
+    },
+    "5653820": {
+      "userId": "enjalot",
+      "description": "ascii img chinese EJ2",
+      "thumbnail": ""
+    },
+    "5653838": {
+      "userId": "enjalot",
+      "description": "ascii img chinese sarah",
+      "thumbnail": ""
+    },
+    "5655296": {
+      "userId": "enjalot",
+      "description": "ascii img chinese enj",
+      "thumbnail": ""
+    },
+    "5655304": {
+      "userId": "enjalot",
+      "description": "ascii img chinese weezy",
+      "thumbnail": ""
+    },
+    "5655308": {
+      "userId": "enjalot",
+      "description": "ascii img chinese ljeezy",
+      "thumbnail": ""
+    },
+    "5655325": {
+      "userId": "enjalot",
+      "description": "ascii img chinese biovisualize",
+      "thumbnail": ""
+    },
+    "5768048": {
+      "userId": "enjalot",
+      "description": "ascii img chinese nateje",
+      "thumbnail": ""
+    },
+    "5779793": {
+      "userId": "enjalot",
+      "description": "scaler",
+      "thumbnail": ""
+    },
+    "5780132": {
+      "userId": "enjalot",
+      "description": "scaler",
+      "thumbnail": ""
+    },
+    "5780169": {
+      "userId": "enjalot",
+      "description": "scaler ascii",
+      "thumbnail": ""
+    },
+    "5783737": {
+      "userId": "enjalot",
+      "description": "scaler utf8",
+      "thumbnail": ""
+    },
+    "5988531": {
+      "userId": "milroc",
+      "description": "basis interpolation + circles",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/5988531/raw/84897fefa373fbd1bcd8b1dc17740eedf4933008/thumbnail.png"
+    },
+    "6231350": {
+      "userId": "timelyportfolio",
+      "description": "US Treasury Yield Curve using a R lattice plot with d3",
+      "thumbnail": ""
+    },
+    "7050349": {
+      "userId": "enjalot",
+      "description": "ascii img chinese d3visualization",
+      "thumbnail": ""
+    },
+    "7050567": {
+      "userId": "enjalot",
+      "description": "weezy utf8",
+      "thumbnail": ""
+    },
+    "7156298": {
+      "userId": "timelyportfolio",
+      "description": "Backtest Overfitting | Translated in R",
+      "thumbnail": ""
+    },
+    "9165567": {
+      "userId": "milroc",
+      "description": "urban data hacking",
+      "thumbnail": ""
+    },
+    "9907392": {
+      "userId": "mbostock",
+      "description": "Paint by Numbers",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9907392/raw/5eecf112b0c9b52418df910f466befebacc9acb8/thumbnail.png"
+    },
+    "9918809": {
+      "userId": "mbostock",
+      "description": "Paint by Numbers II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9918809/raw/26111cbd110116f82593a460bc9056803340ea9e/thumbnail.png"
+    }
+  },
+  "count": 34,
+  "coocurance": {
+    "d3.select": 33,
+    "d3.range": 9,
+    "d3.selectAll": 10,
+    "d3.selection": 6,
+    "d3.event": 13,
+    "d3.mouse": 18,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 6,
+    "d3.ease": 5,
+    "d3.timer": 6,
+    "d3.timer.flush": 6,
+    "d3.interpolate": 15,
+    "d3.interpolateNumber": 5,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateRgb": 5,
+    "d3.interpolateHsl": 14,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 5,
+    "d3.descending": 6,
+    "d3.min": 11,
+    "d3.max": 14,
+    "d3.extent": 13,
+    "d3.sum": 6,
+    "d3.mean": 5,
+    "d3.median": 6,
+    "d3.quantile": 6,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 15,
+    "d3.permute": 5,
+    "d3.zip": 11,
+    "d3.transpose": 5,
+    "d3.keys": 8,
+    "d3.values": 5,
+    "d3.entries": 7,
+    "d3.merge": 7,
+    "d3.nest": 10,
+    "d3.map": 5,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 7,
+    "d3.html": 6,
+    "d3.xml": 5,
+    "d3.csv": 7,
+    "d3.format": 9,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 6,
+    "d3.hsl": 7,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 8,
+    "d3.rebind": 12,
+    "d3.dispatch": 12,
+    "d3.scale": 33,
+    "d3.scale.linear": 26,
+    "d3.scale.sqrt": 6,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 20,
+    "d3.scale.category": 12,
+    "d3.svg": 14,
+    "d3.svg.line": 14,
+    "d3.svg.line.radial": 6,
+    "d3.svg.area": 8,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 7,
+    "d3.svg.symbol": 7,
+    "d3.svg.symbolTypes": 6,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 13,
+    "d3.svg.brush": 7,
+    "d3.time": 13,
+    "d3.time.format": 11,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 11,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 5,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 5,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 5,
+    "d3.layout.stack": 5,
+    "d3.layout.tree": 5,
+    "d3.layout.treemap": 4,
+    "d3.geo": 7,
+    "d3.geo.path": 6,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 6,
+    "d3.geo.albersUsa": 6,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.geom": 5,
+    "d3.geom.voronoi": 5,
+    "d3.geom.quadtree": 4,
+    "d3.geom.polygon": 5,
+    "d3.geom.hull": 4,
+    "d3.behavior": 13,
+    "d3.behavior.drag": 13,
+    "d3.behavior.zoom": 5,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 3,
+    "d3.bisect": 33,
+    "d3.random.normal": 3,
+    "d3.tsv": 4,
+    "d3.lab": 5,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 4,
+    "d3.fisheye": 1
+  }
+}

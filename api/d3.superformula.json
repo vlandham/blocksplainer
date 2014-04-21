@@ -1,0 +1,35 @@
+{
+  "api": "d3.superformula",
+  "blocks": {
+    "1020902": {
+      "userId": "mbostock",
+      "description": "Superformula Tweening",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1020902/raw/fdf2f5bd355b0beb20cece54ff5503b0b94a9705/thumbnail.png"
+    },
+    "1021103": {
+      "userId": "mbostock",
+      "description": "Superformula Explorer",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1021103/raw/792d9fdd80d77ae1ae97ef20051c59b974a7d998/thumbnail.png"
+    },
+    "3903358": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "6338550": {
+      "userId": "enjalot",
+      "description": "don't be a",
+      "thumbnail": ""
+    }
+  },
+  "count": 4,
+  "coocurance": {
+    "d3.select": 4,
+    "d3.entries": 1,
+    "d3.format": 1,
+    "d3.scale": 2,
+    "d3.scale.linear": 1,
+    "d3.scale.ordinal": 1,
+    "d3.superformula": 3
+  }
+}

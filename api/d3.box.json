@@ -1,0 +1,81 @@
+{
+  "api": "d3.box",
+  "blocks": {
+    "4061502": {
+      "userId": "mbostock",
+      "description": "Box Plots",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4061502/raw/751219107de72b67547eab84b7e95b2d5151c8cc/thumbnail.png"
+    },
+    "6543694": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/6543694/raw/751219107de72b67547eab84b7e95b2d5151c8cc/thumbnail.png"
+    },
+    "7032589": {
+      "userId": "milroc",
+      "description": "temp",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7032589/raw/275236975c3711807f68356235d3a9b12737880a/thumbnail.png"
+    },
+    "8981451": {
+      "userId": "milroc",
+      "description": " ",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8981451/raw/da0aa8e767b28f6e50f0c6152d33cc3fa5278317/thumbnail.png"
+    }
+  },
+  "count": 4,
+  "coocurance": {
+    "d3.select": 4,
+    "d3.max": 4,
+    "d3.csv": 2,
+    "d3.timer": 4,
+    "d3.timer.flush": 4,
+    "d3.ascending": 4,
+    "d3.quantile": 4,
+    "d3.range": 4,
+    "d3.functor": 4,
+    "d3.scale": 4,
+    "d3.scale.linear": 4,
+    "d3.time": 4,
+    "d3.values": 1,
+    "d3.hexbin": 1,
+    "d3.event": 2,
+    "d3.set": 2,
+    "d3.format": 2,
+    "d3.rgb": 2,
+    "d3.rebind": 2,
+    "d3.scale.sqrt": 2,
+    "d3.scale.ordinal": 2,
+    "d3.scale.category": 2,
+    "d3.svg": 2,
+    "d3.svg.axis": 2,
+    "d3.svg.brush": 2,
+    "d3.layout": 2,
+    "d3.layout.force": 2,
+    "d3.geo": 2,
+    "d3.geom": 2,
+    "d3.geom.quadtree": 2,
+    "d3.mouse": 2,
+    "d3.interpolate": 2,
+    "d3.interpolateNumber": 2,
+    "d3.interpolateHcl": 2,
+    "d3.min": 2,
+    "d3.extent": 2,
+    "d3.sum": 2,
+    "d3.nest": 2,
+    "d3.scale.quantize": 2,
+    "d3.svg.line": 2,
+    "d3.svg.area": 2,
+    "d3.svg.arc": 2,
+    "d3.time.format": 2,
+    "d3.layout.pie": 2,
+    "d3.layout.stack": 2,
+    "d3.geo.path": 2,
+    "d3.behavior": 2,
+    "d3.behavior.zoom": 2,
+    "d3.box": 3,
+    "d3.selectAll": 2,
+    "d3.shuffle": 1,
+    "d3.time.hour": 1,
+    "d3.dispatch": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "api": "d3.geo.centroid",
+  "blocks": {
+    "4183330": {
+      "userId": "mbostock",
+      "description": "World Tour",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4183330/raw/2e0a1e65302c1b6bf1cbad4ebe5bef212b19f0c1/thumbnail.png"
+    },
+    "6899928": {
+      "userId": "herrstucki",
+      "description": "Swiss Municipality Coordinates",
+      "thumbnail": ""
+    }
+  },
+  "count": 2,
+  "coocurance": {
+    "d3.select": 2,
+    "d3.transition": 1,
+    "d3.interpolate": 1,
+    "d3.json": 2,
+    "d3.tsv": 1,
+    "d3.geo": 2,
+    "d3.geo.path": 1,
+    "d3.geo.orthographic": 1,
+    "d3.geo.centroid": 1
+  }
+}

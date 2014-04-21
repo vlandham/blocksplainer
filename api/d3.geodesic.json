@@ -1,0 +1,52 @@
+{
+  "api": "d3.geodesic",
+  "blocks": {
+    "3057239": {
+      "userId": "mbostock",
+      "description": "Geodesic Rainbow",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3057239/raw/2653540d1a6f916b276664d1da0aea30b199801f/thumbnail.png"
+    },
+    "3058685": {
+      "userId": "mbostock",
+      "description": "Geodesic Grid",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3058685/raw/6071a5aef78fa1011b2c49abf12ef666aabc0675/thumbnail.png"
+    },
+    "3061181": {
+      "userId": "mbostock",
+      "description": "Icosahedron",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3061181/raw/1e96d476dec97b4e315e8f3a3300c7924254b60d/thumbnail.png"
+    },
+    "3132496": {
+      "userId": "biovisualize",
+      "description": "Icosahedron",
+      "thumbnail": ""
+    },
+    "3879898": {
+      "userId": "vlandham",
+      "description": "Geodesic Grid",
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/3879898/raw/6071a5aef78fa1011b2c49abf12ef666aabc0675/thumbnail.png"
+    },
+    "3909585": {
+      "userId": "enjalot",
+      "description": "geodesic globe",
+      "thumbnail": ""
+    }
+  },
+  "count": 6,
+  "coocurance": {
+    "d3.values": 4,
+    "d3.merge": 4,
+    "d3.round": 4,
+    "d3.geo": 6,
+    "d3.select": 6,
+    "d3.timer": 5,
+    "d3.time": 5,
+    "d3.geo.path": 5,
+    "d3.geodesic": 5,
+    "d3.geo.circle": 2,
+    "d3.hsl": 2,
+    "d3.geo.orthographic": 2,
+    "d3.geom": 1,
+    "d3.geom.polygon": 1
+  }
+}

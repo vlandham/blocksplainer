@@ -1,0 +1,25 @@
+{
+  "api": "d3.geo.airy",
+  "blocks": {
+    "5620764": {
+      "userId": "mbostock",
+      "description": "Airy’s Minimum Error",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5620764/raw/a6416a8c84274601cff2514a3dfefe92136227db/thumbnail.png"
+    },
+    "5620807": {
+      "userId": "mbostock",
+      "description": "Airy’s Minimum Error",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5620807/raw/ab117077d07aa4191d3595d3c82378fbf8ef03c7/thumbnail.png"
+    }
+  },
+  "count": 2,
+  "coocurance": {
+    "d3.select": 2,
+    "d3.json": 2,
+    "d3.geo": 2,
+    "d3.geo.path": 2,
+    "d3.geo.graticule": 2,
+    "d3.geo.projection": 2,
+    "d3.geo.airy": 1
+  }
+}

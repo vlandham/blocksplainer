@@ -1,0 +1,707 @@
+{
+  "api": "d3.geo.albers",
+  "blocks": {
+    "870118": {
+      "userId": "mbostock",
+      "description": "Fill-Rule Evenodd",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/870118/raw/648a75ad58ec3fc8c918ee8b7da4a505362f1748/thumbnail.png"
+    },
+    "2005817": {
+      "userId": "syntagmatic",
+      "description": "Albers to Azimuthal",
+      "thumbnail": ""
+    },
+    "2041223": {
+      "userId": "syntagmatic",
+      "description": "Selectable Projection Demo",
+      "thumbnail": ""
+    },
+    "2206340": {
+      "userId": "mbostock",
+      "description": "mousewheel-zoom + click-to-center",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206340/raw/42715641276609ccab008a229872d6290e2e498b/thumbnail.png"
+    },
+    "2206489": {
+      "userId": "mbostock",
+      "description": "click-to-center",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206489/raw/8b6f277e2045bd0c4c4d0cbfe034471226df2b24/thumbnail.png"
+    },
+    "2206529": {
+      "userId": "mbostock",
+      "description": "click-to-center via transform",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206529/raw/f1aeb9c3125f3a9e566de8b7b2c22d5586acf02c/thumbnail.png"
+    },
+    "2206590": {
+      "userId": "mbostock",
+      "description": "click-to-zoom via transform",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206590/raw/e7a4a6219ac2f2e2fe963c5f1fa088878d0c86c4/thumbnail.png"
+    },
+    "2478722": {
+      "userId": "syntagmatic",
+      "description": "Projection Demo",
+      "thumbnail": ""
+    },
+    "2869871": {
+      "userId": "mbostock",
+      "description": "Albers Projection",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2869871/raw/e9dc0e18ea3854a8b2d4fd7fcfed99f935ae3c4f/thumbnail.png"
+    },
+    "3062264": {
+      "userId": "vlandham",
+      "description": "mousewheel-zoom + click-to-center",
+      "thumbnail": ""
+    },
+    "3081153": {
+      "userId": "mbostock",
+      "description": "Shape Tweening",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3081153/raw/b835813dd9cd97f36fac1fcaee42a691dc386ab3/thumbnail.png"
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3692144": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3711652": {
+      "userId": "mbostock",
+      "description": "Projection Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3711652/raw/e7ba4d67fbd586fbaf935872fed7a03d8fbc012c/thumbnail.png"
+    },
+    "3721735": {
+      "userId": "jasondavies",
+      "description": "Antemeridian Cutting",
+      "thumbnail": ""
+    },
+    "3734308": {
+      "userId": "mbostock",
+      "description": "Albers Equal-Area Conic",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3734308/raw/706aebbdcd91c252e4c1cb1d77506e6f5b9aa51b/thumbnail.png"
+    },
+    "3736910": {
+      "userId": "jasondavies",
+      "description": "Projection Transitions (Atlantis)",
+      "thumbnail": ""
+    },
+    "3739100": {
+      "userId": "jasondavies",
+      "description": "Interrupted Projection Transitions",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3783604": {
+      "userId": "mbostock",
+      "description": "d3.geo.path + Canvas",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3783604/raw/e2714d9702eeed9af0268eb87da90aef2c814baa/thumbnail.png"
+    },
+    "3903425": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4055889": {
+      "userId": "mbostock",
+      "description": "Pseudo-Demers Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055889/raw/76d784f55c63eacb2f6c1ede14389a029d5444b7/thumbnail.png"
+    },
+    "4055892": {
+      "userId": "mbostock",
+      "description": "Pseudo-Dorling Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055892/raw/96869c7f5556d0d4e791f7998891ea1a1137c2f4/thumbnail.png"
+    },
+    "4060606": {
+      "userId": "mbostock",
+      "description": "Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060606/raw/3f2f45d819ae639f06f971881bd62d53e6dd6c28/thumbnail.png"
+    },
+    "4090848": {
+      "userId": "mbostock",
+      "description": "U.S. States TopoJSON",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4090848/raw/748fad9707dff9caba5118c2f002393fd19cf07b/thumbnail.png"
+    },
+    "4136647": {
+      "userId": "mbostock",
+      "description": "U.S. TopoJSON",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4136647/raw/0707f38a7ef1b9fb5a4577beb1fc6e76ad739d90/thumbnail.png"
+    },
+    "4206810": {
+      "userId": "mbostock",
+      "description": "Fuzzy Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4206810/raw/ab88686b7b96c178aaf0f9ffdd10316c08036f7a/thumbnail.png"
+    },
+    "4206857": {
+      "userId": "mbostock",
+      "description": "Blocky Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4206857/raw/8da1fb680e918ee0a4d47679b26d48eaa44ee217/thumbnail.png"
+    },
+    "4207744": {
+      "userId": "mbostock",
+      "description": "Swiss Cantons",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4207744/raw/1ff60152d2b4c2165f1fe2f199b12c09c01dbd4e/thumbnail.png"
+    },
+    "4208494": {
+      "userId": "christophermanning",
+      "description": "Spherical Force-Directed Layout",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/4208494/raw/6980224a906b298dd4c5bc2dc9164aaf9846757e/thumbnail.png"
+    },
+    "4330486": {
+      "userId": "mbostock",
+      "description": "Bivariate Hexbin Map",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4330486/raw/4e55698dbb10349f49cf55b68e59ce4c10cab506/thumbnail.png"
+    },
+    "4360892": {
+      "userId": "mbostock",
+      "description": "U.S. Airports Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4360892/raw/2b9ed54821308e0032e66957dcec8a107751b4b8/thumbnail.png"
+    },
+    "4408297": {
+      "userId": "mbostock",
+      "description": "TopoJSON Points",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4408297/raw/dae89836bf1e28c82849322f0d86f72462c21e5a/thumbnail.png"
+    },
+    "4431123": {
+      "userId": "mbostock",
+      "description": "Blocky Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4431123/raw/299f1c7bcc648615572a1171498e67c712dfa104/thumbnail.png"
+    },
+    "4431759": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/biovisualize/4431759/raw/afe6b25e81d5e277d6ddfcf01d5f0646a8de1ef6/thumbnail.png"
+    },
+    "4431801": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/biovisualize/4431801/raw/e9ccf966ef29d9979616b3a296e65a28f3fd3191/thumbnail.png"
+    },
+    "4532173": {
+      "userId": "emeeks",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/emeeks/4532173/raw/e887823daa0aceaa02e52f8ca7cb3d7814686d67/thumbnail.png"
+    },
+    "4657115": {
+      "userId": "mbostock",
+      "description": "113th U.S. Congressional Districts",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4657115/raw/4be439f4eec024fb153014fd34f7779760c5832b/thumbnail.png"
+    },
+    "4693544": {
+      "userId": "enjalot",
+      "description": "simple globe",
+      "thumbnail": ""
+    },
+    "4699541": {
+      "userId": "mbostock",
+      "description": "Zoom to Bounding Box",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4699541/raw/155be58bdf35d91259033ac296063939a85fb913/thumbnail.png"
+    },
+    "4700486": {
+      "userId": "enjalot",
+      "description": "prototype: d3.geo",
+      "thumbnail": ""
+    },
+    "4707858": {
+      "userId": "mbostock",
+      "description": "Project to Bounding Box",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4707858/raw/8787cc55b573a6f452f3dfbb1c313c19f7d1db10/thumbnail.png"
+    },
+    "5021179": {
+      "userId": "enjalot",
+      "description": "SF bus routes",
+      "thumbnail": ""
+    },
+    "5021432": {
+      "userId": "enjalot",
+      "description": "SF bus routes",
+      "thumbnail": ""
+    },
+    "5180185": {
+      "userId": "mbostock",
+      "description": "Zipdecode",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5180185/raw/e749eedfd9bbd99fecde4f7333496bab28b8dcd9/thumbnail.png"
+    },
+    "5386999": {
+      "userId": "herrstucki",
+      "description": "Zipdecode Switzerland",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5386999/raw/fa552de02733d315aa803365160cee046aa3a3a5/thumbnail.png"
+    },
+    "5390755": {
+      "userId": "herrstucki",
+      "description": "ZipScribble Switzerland",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5390755/raw/a57508c6253718ef28e20a1837ea42e913576541/thumbnail.png"
+    },
+    "5413933": {
+      "userId": "mbostock",
+      "description": "Albers Siberia",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5413933/raw/e8c932ba85b5a92f6c5438e3141aa5ce8c1e2256/thumbnail.png"
+    },
+    "5416405": {
+      "userId": "mbostock",
+      "description": "Merging States",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5416405/raw/e53f8516b08b5b171b65722ac7dc7cc4b493f5a6/thumbnail.png"
+    },
+    "5416440": {
+      "userId": "mbostock",
+      "description": "Merging States II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5416440/raw/328c23669635570b65b967e6600c760f9e729bb1/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5562420": {
+      "userId": "christophermanning",
+      "description": "Spherical Random Walk",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/5562420/raw/78245024b3af0d976920ba3467ac210e19f0d575/thumbnail.png"
+    },
+    "5608230": {
+      "userId": "mbostock",
+      "description": "Albers Tiles",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5608230/raw/9a3b726e7aaa32d27feb4252e09d7b1fb41c9bb1/thumbnail.png"
+    },
+    "5629120": {
+      "userId": "mbostock",
+      "description": "AlbersUSA + PR",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5629120/raw/b30566caeaf38fa5849941bd798df2ee481110d5/thumbnail.png"
+    },
+    "5651657": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5651806": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5655269": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5707610": {
+      "userId": "mbostock",
+      "description": "TopoJSON Parallax",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5707610/raw/0707f38a7ef1b9fb5a4577beb1fc6e76ad739d90/thumbnail.png"
+    },
+    "5707818": {
+      "userId": "mbostock",
+      "description": "TopoJSON Layers",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5707818/raw/0707f38a7ef1b9fb5a4577beb1fc6e76ad739d90/thumbnail.png"
+    },
+    "5732029": {
+      "userId": "mbostock",
+      "description": "Line Simplification",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5732029/raw/4fe15605ce5565f26a585fb4d394c2a0f508a66e/thumbnail.png"
+    },
+    "6262722": {
+      "userId": "mbostock",
+      "description": "OPHZ Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6262722/raw/8d8ccd0d62e41305746d4b251a0cfadf92a70a10/thumbnail.png"
+    },
+    "6800268": {
+      "userId": "enjalot",
+      "description": "Bay Area",
+      "thumbnail": ""
+    },
+    "7608400": {
+      "userId": "mbostock",
+      "description": "Voronoi Arc Map",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7608400/raw/7dd3b5216f4c394dd0bdb1182460fc7a64d60c71/thumbnail.png"
+    },
+    "7714930": {
+      "userId": "gelicia",
+      "description": "MEI Data - City",
+      "thumbnail": ""
+    },
+    "7723849": {
+      "userId": "gelicia",
+      "description": "MEI Data - State",
+      "thumbnail": ""
+    },
+    "7726273": {
+      "userId": "gelicia",
+      "description": "MEI Data - City",
+      "thumbnail": ""
+    },
+    "8075631": {
+      "userId": "vlandham",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/vlandham/8075631/raw/28456aba6df39a2ce10e44be29329a9d324e6327/thumbnail.png"
+    },
+    "8203750": {
+      "userId": "christophermanning",
+      "description": "Random Walk USA",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/8203750/raw/2aa6a2f183f1d169a6e0d30c1c3e6702472e434e/thumbnail.png"
+    },
+    "8814734": {
+      "userId": "mbostock",
+      "description": "Neighboring Congressional Districts",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8814734/raw/50c3d5310c99e90bf2b4cf47d917242214183f3f/thumbnail.png"
+    },
+    "8876820": {
+      "userId": "gelicia",
+      "description": "transport",
+      "thumbnail": ""
+    },
+    "8936426": {
+      "userId": "ramnathv",
+      "description": "Customizing Popup in DataMaps",
+      "thumbnail": ""
+    },
+    "8969477": {
+      "userId": "ramnathv",
+      "description": "",
+      "thumbnail": ""
+    },
+    "9216751": {
+      "userId": "vlandham",
+      "description": null,
+      "thumbnail": ""
+    },
+    "9386620": {
+      "userId": "tomgp",
+      "description": "Small multiple maps",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/9386620/raw/accc0bb59ad375538cb28abf6f1a20bc4ae187a7/thumbnail.png"
+    },
+    "9392981": {
+      "userId": "tomgp",
+      "description": "slider with map 'tooltip'",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/9392981/raw/eb08e1d2b42b93c3436597512bd8ee8fd367f110/thumbnail.png"
+    },
+    "9497971": {
+      "userId": "gelicia",
+      "description": "MEI Data - State",
+      "thumbnail": ""
+    },
+    "9651412": {
+      "userId": "tomgp",
+      "description": "train fare contours",
+      "thumbnail": ""
+    },
+    "9656675": {
+      "userId": "mbostock",
+      "description": "Zoom to Bounding Box II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9656675/raw/155be58bdf35d91259033ac296063939a85fb913/thumbnail.png"
+    },
+    "9714216": {
+      "userId": "mpmckenna8",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9714216/raw/8b6f277e2045bd0c4c4d0cbfe034471226df2b24/thumbnail.png"
+    },
+    "9744098": {
+      "userId": "mbostock",
+      "description": "County Topology",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9744098/raw/ad656665d10e68190f21370ffe424c06a736ffff/thumbnail.png"
+    },
+    "9744818": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9744818/raw/e3f3399d1cf88cc7c0a5fa50bfc81754cdd48ec9/thumbnail.png"
+    },
+    "9748706": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9748706/raw/859d73ee6d2f415e527e1b3d97046833a9b2f276/thumbnail.png"
+    },
+    "9788959": {
+      "userId": "mbostock",
+      "description": "Border Distance",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9788959/raw/1f0573078354b9343642aa0c66e370ad42f97eac/thumbnail.png"
+    },
+    "9807557": {
+      "userId": "timelyportfolio",
+      "description": "Datamaps version of http://portal.nifa.usda.gov/web/maps/nifa-funding-by-congressional-district/",
+      "thumbnail": ""
+    },
+    "9832019": {
+      "userId": "dougdowson",
+      "description": "Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/dougdowson/9832019/raw/70f5739dd29bfe82954b5f1eb52d4dfabde1986f/thumbnail.png"
+    },
+    "9867796": {
+      "userId": "mbostock",
+      "description": "Merging Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9867796/raw/35b9fdc777fbe36fa242f04f68041694701d4b1e/thumbnail.png"
+    },
+    "9876000": {
+      "userId": "mbostock",
+      "description": "Merging Counties II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9876000/raw/63a7134380e6aecf658f492a3a5875db53f0d955/thumbnail.png"
+    },
+    "9885854": {
+      "userId": "mbostock",
+      "description": "Merging Counties III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9885854/raw/4cfab1a58ac97de15cf3bf8a874b192d90dbfe56/thumbnail.png"
+    },
+    "9907184": {
+      "userId": "dougdowson",
+      "description": "Dot Map",
+      "thumbnail": "https://gist.githubusercontent.com/dougdowson/9907184/raw/852d2ab268fda9ea04e555a98e6fad48ae04aec8/thumbnail.png"
+    },
+    "9907392": {
+      "userId": "mbostock",
+      "description": "Paint by Numbers",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9907392/raw/5eecf112b0c9b52418df910f466befebacc9acb8/thumbnail.png"
+    },
+    "9918809": {
+      "userId": "mbostock",
+      "description": "Paint by Numbers II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9918809/raw/26111cbd110116f82593a460bc9056803340ea9e/thumbnail.png"
+    },
+    "9937333": {
+      "userId": "iros",
+      "description": null,
+      "thumbnail": ""
+    },
+    "9940874": {
+      "userId": "iros",
+      "description": "created by http://livecoding.io",
+      "thumbnail": ""
+    },
+    "9978356": {
+      "userId": "mbostock",
+      "description": "Congressional District Topology",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9978356/raw/e3f630ac565bc05fd34a702fe8a0060f9905c2fb/thumbnail.png"
+    }
+  },
+  "count": 95,
+  "coocurance": {
+    "d3.select": 93,
+    "d3.selectAll": 12,
+    "d3.extent": 7,
+    "d3.scale": 31,
+    "d3.scale.linear": 13,
+    "d3.geo": 95,
+    "d3.geo.path": 87,
+    "d3.geo.albersUsa": 58,
+    "d3.geo.albers": 94,
+    "d3.event": 21,
+    "d3.json": 68,
+    "d3.geo.graticule": 15,
+    "d3.geo.projection": 4,
+    "d3.geo.equirectangular": 13,
+    "d3.geo.mercator": 19,
+    "d3.geo.orthographic": 5,
+    "d3.geo.stereographic": 3,
+    "d3.behavior": 19,
+    "d3.behavior.drag": 10,
+    "d3.geo.polyhedron": 1,
+    "d3.geo.polyhedron.waterman": 1,
+    "d3.geo.aitoff": 6,
+    "d3.geo.august": 3,
+    "d3.geo.baker": 2,
+    "d3.geo.berghaus": 1,
+    "d3.geo.boggs": 2,
+    "d3.geo.bonne": 11,
+    "d3.geo.bromley": 2,
+    "d3.geo.collignon": 6,
+    "d3.geo.craster": 2,
+    "d3.geo.cylindricalEqualArea": 6,
+    "d3.geo.cylindricalStereographic": 1,
+    "d3.geo.eckert1": 6,
+    "d3.geo.eckert2": 6,
+    "d3.geo.eckert3": 6,
+    "d3.geo.eckert4": 6,
+    "d3.geo.eckert5": 6,
+    "d3.geo.eckert6": 6,
+    "d3.geo.eisenlohr": 3,
+    "d3.geo.fahey": 1,
+    "d3.geo.ginzburg4": 1,
+    "d3.geo.ginzburg5": 1,
+    "d3.geo.ginzburg6": 1,
+    "d3.geo.ginzburg8": 1,
+    "d3.geo.ginzburg9": 1,
+    "d3.geo.gringorten": 1,
+    "d3.geo.guyou": 1,
+    "d3.geo.hammer": 6,
+    "d3.geo.hammerRetroazimuthal": 1,
+    "d3.geo.healpix": 1,
+    "d3.geo.hill": 2,
+    "d3.geo.homolosine": 6,
+    "d3.geo.kavrayskiy7": 6,
+    "d3.geo.lagrange": 3,
+    "d3.geo.larrivee": 6,
+    "d3.geo.laskowski": 2,
+    "d3.geo.loximuthal": 2,
+    "d3.geo.miller": 6,
+    "d3.geo.mollweide": 6,
+    "d3.geo.mtFlatPolarParabolic": 2,
+    "d3.geo.mtFlatPolarQuartic": 2,
+    "d3.geo.mtFlatPolarSinusoidal": 2,
+    "d3.geo.naturalEarth": 2,
+    "d3.geo.nellHammer": 6,
+    "d3.geo.polyconic": 6,
+    "d3.geo.rectangularPolyconic": 1,
+    "d3.geo.robinson": 6,
+    "d3.geo.sinusoidal": 6,
+    "d3.geo.sinuMollweide": 2,
+    "d3.geo.times": 1,
+    "d3.geo.vanDerGrinten": 6,
+    "d3.geo.vanDerGrinten2": 1,
+    "d3.geo.vanDerGrinten3": 1,
+    "d3.geo.vanDerGrinten4": 2,
+    "d3.geo.wagner4": 2,
+    "d3.geo.wagner6": 6,
+    "d3.geo.wagner7": 2,
+    "d3.geo.winkel3": 6,
+    "d3.behavior.zoom": 13,
+    "d3.range": 14,
+    "d3.selection": 5,
+    "d3.mouse": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 4,
+    "d3.ease": 4,
+    "d3.timer": 7,
+    "d3.timer.flush": 5,
+    "d3.interpolate": 7,
+    "d3.interpolateNumber": 4,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 4,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 8,
+    "d3.descending": 4,
+    "d3.min": 4,
+    "d3.max": 10,
+    "d3.sum": 4,
+    "d3.mean": 8,
+    "d3.median": 5,
+    "d3.quantile": 4,
+    "d3.bisect": 6,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 6,
+    "d3.permute": 4,
+    "d3.zip": 4,
+    "d3.transpose": 4,
+    "d3.keys": 5,
+    "d3.values": 4,
+    "d3.entries": 4,
+    "d3.merge": 6,
+    "d3.nest": 13,
+    "d3.map": 6,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.text": 4,
+    "d3.html": 4,
+    "d3.xml": 4,
+    "d3.csv": 7,
+    "d3.format": 10,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 5,
+    "d3.hsl": 7,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 4,
+    "d3.rebind": 4,
+    "d3.dispatch": 4,
+    "d3.scale.sqrt": 7,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 10,
+    "d3.scale.category": 11,
+    "d3.svg": 7,
+    "d3.svg.line": 6,
+    "d3.svg.line.radial": 4,
+    "d3.svg.area": 4,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 4,
+    "d3.svg.symbol": 4,
+    "d3.svg.symbolTypes": 4,
+    "d3.svg.chord": 4,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.svg.axis": 4,
+    "d3.svg.brush": 4,
+    "d3.time": 10,
+    "d3.time.format": 7,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 5,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 4,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 7,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 7,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 4,
+    "d3.layout.stack": 4,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 8,
+    "d3.geom": 9,
+    "d3.geom.voronoi": 6,
+    "d3.geom.quadtree": 6,
+    "d3.geom.polygon": 5,
+    "d3.geom.hull": 4,
+    "d3.geom.contour": 4,
+    "d3.interpolateLab": 4,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 3,
+    "d3.tsv": 11,
+    "d3.lab": 6,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 4,
+    "d3.set": 3,
+    "d3.geo.transform": 1,
+    "d3.geo.clipExtent": 1,
+    "d3.geo.conicEqualArea": 3,
+    "d3.hexbin": 1,
+    "d3.geo.azimuthalEqualArea": 3,
+    "d3.geo.azimuthalEquidistant": 3,
+    "d3.geo.conicConformal": 2,
+    "d3.geo.conicEquidistant": 2,
+    "d3.geo.gnomonic": 2,
+    "d3.geo.transverseMercator": 2
+  }
+}

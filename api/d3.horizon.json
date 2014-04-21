@@ -1,0 +1,49 @@
+{
+  "api": "d3.horizon",
+  "blocks": {
+    "1483226": {
+      "userId": "mbostock",
+      "description": "Horizon Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1483226/raw/d6329562b12a0a7dd35d3572713577729645d85d/thumbnail.png"
+    },
+    "3227939": {
+      "userId": "timelyportfolio",
+      "description": "Horizon Chart",
+      "thumbnail": ""
+    },
+    "5980383": {
+      "userId": "timelyportfolio",
+      "description": "",
+      "thumbnail": ""
+    },
+    "5987883": {
+      "userId": "timelyportfolio",
+      "description": "d3 horizon with axis from rCharts",
+      "thumbnail": ""
+    },
+    "6106779": {
+      "userId": "timelyportfolio",
+      "description": "",
+      "thumbnail": ""
+    }
+  },
+  "count": 5,
+  "coocurance": {
+    "d3.select": 5,
+    "d3.timer": 2,
+    "d3.timer.flush": 2,
+    "d3.range": 2,
+    "d3.scale": 3,
+    "d3.scale.linear": 3,
+    "d3.svg": 3,
+    "d3.svg.area": 2,
+    "d3.time": 3,
+    "d3.selectAll": 2,
+    "d3.json": 2,
+    "d3.keys": 1,
+    "d3.horizon": 4,
+    "d3.extent": 1,
+    "d3.svg.axis": 1,
+    "d3.time.scale": 1
+  }
+}

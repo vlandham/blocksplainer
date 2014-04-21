@@ -1,0 +1,19 @@
+{
+  "api": "d3.geo.chamberlin",
+  "blocks": {
+    "5625053": {
+      "userId": "mbostock",
+      "description": "Chamberlin Trimetric",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5625053/raw/45a7d432b9aa86053a73957c315b84d915dc6416/thumbnail.png"
+    }
+  },
+  "count": 1,
+  "coocurance": {
+    "d3.select": 1,
+    "d3.json": 1,
+    "d3.geo": 1,
+    "d3.geo.path": 1,
+    "d3.geo.graticule": 1,
+    "d3.geo.projection": 1
+  }
+}

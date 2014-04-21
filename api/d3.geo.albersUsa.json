@@ -1,0 +1,454 @@
+{
+  "api": "d3.geo.albersUsa",
+  "blocks": {
+    "2206340": {
+      "userId": "mbostock",
+      "description": "mousewheel-zoom + click-to-center",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206340/raw/42715641276609ccab008a229872d6290e2e498b/thumbnail.png"
+    },
+    "2206489": {
+      "userId": "mbostock",
+      "description": "click-to-center",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206489/raw/8b6f277e2045bd0c4c4d0cbfe034471226df2b24/thumbnail.png"
+    },
+    "2206529": {
+      "userId": "mbostock",
+      "description": "click-to-center via transform",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206529/raw/f1aeb9c3125f3a9e566de8b7b2c22d5586acf02c/thumbnail.png"
+    },
+    "2206590": {
+      "userId": "mbostock",
+      "description": "click-to-zoom via transform",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2206590/raw/e7a4a6219ac2f2e2fe963c5f1fa088878d0c86c4/thumbnail.png"
+    },
+    "3062264": {
+      "userId": "vlandham",
+      "description": "mousewheel-zoom + click-to-center",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "4055889": {
+      "userId": "mbostock",
+      "description": "Pseudo-Demers Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055889/raw/76d784f55c63eacb2f6c1ede14389a029d5444b7/thumbnail.png"
+    },
+    "4055892": {
+      "userId": "mbostock",
+      "description": "Pseudo-Dorling Cartogram",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4055892/raw/96869c7f5556d0d4e791f7998891ea1a1137c2f4/thumbnail.png"
+    },
+    "4060606": {
+      "userId": "mbostock",
+      "description": "Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060606/raw/3f2f45d819ae639f06f971881bd62d53e6dd6c28/thumbnail.png"
+    },
+    "4090848": {
+      "userId": "mbostock",
+      "description": "U.S. States TopoJSON",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4090848/raw/748fad9707dff9caba5118c2f002393fd19cf07b/thumbnail.png"
+    },
+    "4136647": {
+      "userId": "mbostock",
+      "description": "U.S. TopoJSON",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4136647/raw/0707f38a7ef1b9fb5a4577beb1fc6e76ad739d90/thumbnail.png"
+    },
+    "4206810": {
+      "userId": "mbostock",
+      "description": "Fuzzy Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4206810/raw/ab88686b7b96c178aaf0f9ffdd10316c08036f7a/thumbnail.png"
+    },
+    "4206857": {
+      "userId": "mbostock",
+      "description": "Blocky Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4206857/raw/8da1fb680e918ee0a4d47679b26d48eaa44ee217/thumbnail.png"
+    },
+    "4431123": {
+      "userId": "mbostock",
+      "description": "Blocky Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4431123/raw/299f1c7bcc648615572a1171498e67c712dfa104/thumbnail.png"
+    },
+    "4657115": {
+      "userId": "mbostock",
+      "description": "113th U.S. Congressional Districts",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4657115/raw/4be439f4eec024fb153014fd34f7779760c5832b/thumbnail.png"
+    },
+    "4699541": {
+      "userId": "mbostock",
+      "description": "Zoom to Bounding Box",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4699541/raw/155be58bdf35d91259033ac296063939a85fb913/thumbnail.png"
+    },
+    "5180185": {
+      "userId": "mbostock",
+      "description": "Zipdecode",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5180185/raw/e749eedfd9bbd99fecde4f7333496bab28b8dcd9/thumbnail.png"
+    },
+    "5416405": {
+      "userId": "mbostock",
+      "description": "Merging States",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5416405/raw/e53f8516b08b5b171b65722ac7dc7cc4b493f5a6/thumbnail.png"
+    },
+    "5416440": {
+      "userId": "mbostock",
+      "description": "Merging States II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5416440/raw/328c23669635570b65b967e6600c760f9e729bb1/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5629120": {
+      "userId": "mbostock",
+      "description": "AlbersUSA + PR",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5629120/raw/b30566caeaf38fa5849941bd798df2ee481110d5/thumbnail.png"
+    },
+    "5651657": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5651806": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5655269": {
+      "userId": "enjalot",
+      "description": "obesity map",
+      "thumbnail": ""
+    },
+    "5707610": {
+      "userId": "mbostock",
+      "description": "TopoJSON Parallax",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5707610/raw/0707f38a7ef1b9fb5a4577beb1fc6e76ad739d90/thumbnail.png"
+    },
+    "5707818": {
+      "userId": "mbostock",
+      "description": "TopoJSON Layers",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5707818/raw/0707f38a7ef1b9fb5a4577beb1fc6e76ad739d90/thumbnail.png"
+    },
+    "5732029": {
+      "userId": "mbostock",
+      "description": "Line Simplification",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5732029/raw/4fe15605ce5565f26a585fb4d394c2a0f508a66e/thumbnail.png"
+    },
+    "6262722": {
+      "userId": "mbostock",
+      "description": "OPHZ Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6262722/raw/8d8ccd0d62e41305746d4b251a0cfadf92a70a10/thumbnail.png"
+    },
+    "7714930": {
+      "userId": "gelicia",
+      "description": "MEI Data - City",
+      "thumbnail": ""
+    },
+    "7723849": {
+      "userId": "gelicia",
+      "description": "MEI Data - State",
+      "thumbnail": ""
+    },
+    "7726273": {
+      "userId": "gelicia",
+      "description": "MEI Data - City",
+      "thumbnail": ""
+    },
+    "8203750": {
+      "userId": "christophermanning",
+      "description": "Random Walk USA",
+      "thumbnail": "https://gist.githubusercontent.com/christophermanning/8203750/raw/2aa6a2f183f1d169a6e0d30c1c3e6702472e434e/thumbnail.png"
+    },
+    "8814734": {
+      "userId": "mbostock",
+      "description": "Neighboring Congressional Districts",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8814734/raw/50c3d5310c99e90bf2b4cf47d917242214183f3f/thumbnail.png"
+    },
+    "8876820": {
+      "userId": "gelicia",
+      "description": "transport",
+      "thumbnail": ""
+    },
+    "8936426": {
+      "userId": "ramnathv",
+      "description": "Customizing Popup in DataMaps",
+      "thumbnail": ""
+    },
+    "8969477": {
+      "userId": "ramnathv",
+      "description": "",
+      "thumbnail": ""
+    },
+    "9386620": {
+      "userId": "tomgp",
+      "description": "Small multiple maps",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/9386620/raw/accc0bb59ad375538cb28abf6f1a20bc4ae187a7/thumbnail.png"
+    },
+    "9392981": {
+      "userId": "tomgp",
+      "description": "slider with map 'tooltip'",
+      "thumbnail": "https://gist.githubusercontent.com/tomgp/9392981/raw/eb08e1d2b42b93c3436597512bd8ee8fd367f110/thumbnail.png"
+    },
+    "9497971": {
+      "userId": "gelicia",
+      "description": "MEI Data - State",
+      "thumbnail": ""
+    },
+    "9656675": {
+      "userId": "mbostock",
+      "description": "Zoom to Bounding Box II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9656675/raw/155be58bdf35d91259033ac296063939a85fb913/thumbnail.png"
+    },
+    "9714216": {
+      "userId": "mpmckenna8",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/mpmckenna8/9714216/raw/8b6f277e2045bd0c4c4d0cbfe034471226df2b24/thumbnail.png"
+    },
+    "9744098": {
+      "userId": "mbostock",
+      "description": "County Topology",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9744098/raw/ad656665d10e68190f21370ffe424c06a736ffff/thumbnail.png"
+    },
+    "9744818": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9744818/raw/e3f3399d1cf88cc7c0a5fa50bfc81754cdd48ec9/thumbnail.png"
+    },
+    "9748706": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9748706/raw/859d73ee6d2f415e527e1b3d97046833a9b2f276/thumbnail.png"
+    },
+    "9788959": {
+      "userId": "mbostock",
+      "description": "Border Distance",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9788959/raw/1f0573078354b9343642aa0c66e370ad42f97eac/thumbnail.png"
+    },
+    "9807557": {
+      "userId": "timelyportfolio",
+      "description": "Datamaps version of http://portal.nifa.usda.gov/web/maps/nifa-funding-by-congressional-district/",
+      "thumbnail": ""
+    },
+    "9832019": {
+      "userId": "dougdowson",
+      "description": "Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/dougdowson/9832019/raw/70f5739dd29bfe82954b5f1eb52d4dfabde1986f/thumbnail.png"
+    },
+    "9867796": {
+      "userId": "mbostock",
+      "description": "Merging Counties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9867796/raw/35b9fdc777fbe36fa242f04f68041694701d4b1e/thumbnail.png"
+    },
+    "9876000": {
+      "userId": "mbostock",
+      "description": "Merging Counties II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9876000/raw/63a7134380e6aecf658f492a3a5875db53f0d955/thumbnail.png"
+    },
+    "9885854": {
+      "userId": "mbostock",
+      "description": "Merging Counties III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9885854/raw/4cfab1a58ac97de15cf3bf8a874b192d90dbfe56/thumbnail.png"
+    },
+    "9907184": {
+      "userId": "dougdowson",
+      "description": "Dot Map",
+      "thumbnail": "https://gist.githubusercontent.com/dougdowson/9907184/raw/852d2ab268fda9ea04e555a98e6fad48ae04aec8/thumbnail.png"
+    },
+    "9907392": {
+      "userId": "mbostock",
+      "description": "Paint by Numbers",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9907392/raw/5eecf112b0c9b52418df910f466befebacc9acb8/thumbnail.png"
+    },
+    "9918809": {
+      "userId": "mbostock",
+      "description": "Paint by Numbers II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9918809/raw/26111cbd110116f82593a460bc9056803340ea9e/thumbnail.png"
+    },
+    "9937333": {
+      "userId": "iros",
+      "description": null,
+      "thumbnail": ""
+    },
+    "9940874": {
+      "userId": "iros",
+      "description": "created by http://livecoding.io",
+      "thumbnail": ""
+    },
+    "9978356": {
+      "userId": "mbostock",
+      "description": "Congressional District Topology",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9978356/raw/e3f630ac565bc05fd34a702fe8a0060f9905c2fb/thumbnail.png"
+    }
+  },
+  "count": 58,
+  "coocurance": {
+    "d3.select": 56,
+    "d3.selectAll": 12,
+    "d3.extent": 7,
+    "d3.scale": 24,
+    "d3.scale.linear": 13,
+    "d3.geo": 58,
+    "d3.geo.path": 55,
+    "d3.geo.albers": 58,
+    "d3.geo.albersUsa": 57,
+    "d3.event": 13,
+    "d3.json": 45,
+    "d3.behavior": 14,
+    "d3.behavior.zoom": 12,
+    "d3.range": 11,
+    "d3.selection": 4,
+    "d3.mouse": 6,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 4,
+    "d3.ease": 4,
+    "d3.timer": 5,
+    "d3.timer.flush": 4,
+    "d3.interpolate": 6,
+    "d3.interpolateNumber": 4,
+    "d3.interpolateRound": 4,
+    "d3.interpolateString": 4,
+    "d3.interpolateRgb": 4,
+    "d3.interpolateHsl": 5,
+    "d3.interpolateArray": 4,
+    "d3.interpolateObject": 4,
+    "d3.interpolateTransform": 4,
+    "d3.interpolators": 4,
+    "d3.ascending": 7,
+    "d3.descending": 4,
+    "d3.min": 4,
+    "d3.max": 10,
+    "d3.sum": 4,
+    "d3.mean": 8,
+    "d3.median": 4,
+    "d3.quantile": 4,
+    "d3.bisect": 6,
+    "d3.bisectRight": 4,
+    "d3.bisectLeft": 4,
+    "d3.bisector": 6,
+    "d3.permute": 4,
+    "d3.zip": 4,
+    "d3.transpose": 4,
+    "d3.keys": 5,
+    "d3.values": 4,
+    "d3.entries": 4,
+    "d3.merge": 6,
+    "d3.nest": 12,
+    "d3.map": 5,
+    "d3.transform": 4,
+    "d3.xhr": 4,
+    "d3.text": 4,
+    "d3.html": 4,
+    "d3.xml": 4,
+    "d3.csv": 6,
+    "d3.format": 10,
+    "d3.formatPrefix": 4,
+    "d3.requote": 4,
+    "d3.round": 4,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 4,
+    "d3.hsl": 7,
+    "d3.ns.prefix": 4,
+    "d3.ns.qualify": 4,
+    "d3.functor": 4,
+    "d3.rebind": 4,
+    "d3.dispatch": 4,
+    "d3.scale.sqrt": 6,
+    "d3.scale.pow": 4,
+    "d3.scale.log": 4,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 4,
+    "d3.scale.ordinal": 8,
+    "d3.scale.category": 7,
+    "d3.svg": 5,
+    "d3.svg.line": 5,
+    "d3.svg.line.radial": 4,
+    "d3.svg.area": 4,
+    "d3.svg.area.radial": 4,
+    "d3.svg.arc": 4,
+    "d3.svg.symbol": 4,
+    "d3.svg.symbolTypes": 4,
+    "d3.svg.chord": 4,
+    "d3.svg.diagonal": 4,
+    "d3.svg.diagonal.radial": 4,
+    "d3.svg.axis": 4,
+    "d3.svg.brush": 4,
+    "d3.time": 7,
+    "d3.time.format": 6,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 4,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 4,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 6,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 6,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 4,
+    "d3.layout.stack": 4,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 6,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 5,
+    "d3.geom": 6,
+    "d3.geom.voronoi": 4,
+    "d3.geom.quadtree": 6,
+    "d3.geom.polygon": 4,
+    "d3.geom.hull": 4,
+    "d3.behavior.drag": 6,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.interpolateLab": 3,
+    "d3.interpolateHcl": 3,
+    "d3.random.normal": 3,
+    "d3.tsv": 7,
+    "d3.lab": 6,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 4,
+    "d3.set": 3,
+    "d3.geo.transform": 1,
+    "d3.geo.clipExtent": 1,
+    "d3.geo.conicEqualArea": 1,
+    "d3.geo.graticule": 1
+  }
+}

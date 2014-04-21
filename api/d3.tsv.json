@@ -1,0 +1,583 @@
+{
+  "api": "d3.tsv",
+  "blocks": {
+    "1341679": {
+      "userId": "mbostock",
+      "description": "Log-Log Plot",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1341679/raw/03da7d20e15d37eab3587f24613d8feb7f3f9fd1/thumbnail.png"
+    },
+    "1346395": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, I",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1346395/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "1346410": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/1346410/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "2368837": {
+      "userId": "mbostock",
+      "description": "Bar Chart with Negative Values",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/2368837/raw/b788cd583f27fd8d3c0c7a4d9cb21d6008a0a1ed/thumbnail.png"
+    },
+    "3305937": {
+      "userId": "mbostock",
+      "description": "d3.tsv",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3305937/raw/c1f5d995e5090a7029ba31b01a7f7742afd2622d/thumbnail.png"
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3306362": {
+      "userId": "mbostock",
+      "description": "Threshold Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306362/raw/42503694aa36fd6ec5f6c5680e272895025b79c6/thumbnail.png"
+    },
+    "3310560": {
+      "userId": "mbostock",
+      "description": "Letter Frequency",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3310560/raw/6e9131d97a75c0a3564a5e0f718ee09921a25826/thumbnail.png"
+    },
+    "3709000": {
+      "userId": "mbostock",
+      "description": "Map Projection Distortions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3709000/raw/310b1d8638ea3198dbf8186e95760d9f14109e82/thumbnail.png"
+    },
+    "3711245": {
+      "userId": "syntagmatic",
+      "description": "Comparing Map Projections",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3883195": {
+      "userId": "mbostock",
+      "description": "Area Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3883195/raw/15471cf7e2c84f2409cb72b033ebbc576fa6b4a5/thumbnail.png"
+    },
+    "3883245": {
+      "userId": "mbostock",
+      "description": "Line Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3883245/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png"
+    },
+    "3884914": {
+      "userId": "mbostock",
+      "description": "Bivariate Area Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3884914/raw/0d9ca14da1fbe6a3eab99ab0beaf4a50e5822a95/thumbnail.png"
+    },
+    "3884955": {
+      "userId": "mbostock",
+      "description": "Multi-Series Line Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3884955/raw/266c73d626bca2ed66ffff124d47abdad9f58d64/thumbnail.png"
+    },
+    "3885211": {
+      "userId": "mbostock",
+      "description": "Stacked Area Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3885211/raw/f38320a84d1aae3ba9577a0263b04a7eb5ecf65d/thumbnail.png"
+    },
+    "3885304": {
+      "userId": "mbostock",
+      "description": "Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3885304/raw/6e9131d97a75c0a3564a5e0f718ee09921a25826/thumbnail.png"
+    },
+    "3885705": {
+      "userId": "mbostock",
+      "description": "Sortable Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3885705/raw/6e9131d97a75c0a3564a5e0f718ee09921a25826/thumbnail.png"
+    },
+    "3887118": {
+      "userId": "mbostock",
+      "description": "Scatterplot",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3887118/raw/9dc1acfdeb9b5fd777a681796298983b9b51385d/thumbnail.png"
+    },
+    "3894205": {
+      "userId": "mbostock",
+      "description": "Difference Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3894205/raw/c8b3600976670af16777a619c485d3a01a56e1c2/thumbnail.png"
+    },
+    "3902569": {
+      "userId": "mbostock",
+      "description": "X-Value Mouseover",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3902569/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png"
+    },
+    "3903818": {
+      "userId": "mbostock",
+      "description": "Chained Transitions",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3903818/raw/19c7e8ff0c96177c528410abc32961cc081451c0/thumbnail.png"
+    },
+    "3918369": {
+      "userId": "zjonsson",
+      "description": "d3.legend example",
+      "thumbnail": "https://gist.githubusercontent.com/ZJONSSON/3918369/raw/266c73d626bca2ed66ffff124d47abdad9f58d64/thumbnail.png"
+    },
+    "3969722": {
+      "userId": "mbostock",
+      "description": "Gradient Encoding",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3969722/raw/51fe515069e8d8e31f0201ff03911cf43dcadf23/thumbnail.png"
+    },
+    "3970883": {
+      "userId": "mbostock",
+      "description": "Threshold Encoding",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3970883/raw/9cd1b91c6c6eaf3d80549c23e5edac5b0c636f4b/thumbnail.png"
+    },
+    "4060606": {
+      "userId": "mbostock",
+      "description": "Choropleth",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4060606/raw/3f2f45d819ae639f06f971881bd62d53e6dd6c28/thumbnail.png"
+    },
+    "4062844": {
+      "userId": "mbostock",
+      "description": "Color via Clipping",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4062844/raw/9cd1b91c6c6eaf3d80549c23e5edac5b0c636f4b/thumbnail.png"
+    },
+    "4076122": {
+      "userId": "syntagmatic",
+      "description": "d3 src tree",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4076122/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4092944": {
+      "userId": "syntagmatic",
+      "description": "d3 src tree transitions",
+      "thumbnail": "https://gist.githubusercontent.com/syntagmatic/4092944/raw/f080dff7a9956cf63b4082de17d1f61453115099/thumbnail.png"
+    },
+    "4183330": {
+      "userId": "mbostock",
+      "description": "World Tour",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4183330/raw/2e0a1e65302c1b6bf1cbad4ebe5bef212b19f0c1/thumbnail.png"
+    },
+    "4330486": {
+      "userId": "mbostock",
+      "description": "Bivariate Hexbin Map",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4330486/raw/4e55698dbb10349f49cf55b68e59ce4c10cab506/thumbnail.png"
+    },
+    "4360892": {
+      "userId": "mbostock",
+      "description": "U.S. Airports Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4360892/raw/2b9ed54821308e0032e66957dcec8a107751b4b8/thumbnail.png"
+    },
+    "4679202": {
+      "userId": "mbostock",
+      "description": "Stacked-to-Multiples",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/4679202/raw/efdd537e9693ec11e2f3e0ccfec0c923d2659739/thumbnail.png"
+    },
+    "5173373": {
+      "userId": "timelyportfolio",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/timelyportfolio/5173373/raw/efdd537e9693ec11e2f3e0ccfec0c923d2659739/thumbnail.png"
+    },
+    "5180185": {
+      "userId": "mbostock",
+      "description": "Zipdecode",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5180185/raw/e749eedfd9bbd99fecde4f7333496bab28b8dcd9/thumbnail.png"
+    },
+    "5351448": {
+      "userId": "timelyportfolio",
+      "description": "experiment with vega formula transform and new zip functionality",
+      "thumbnail": ""
+    },
+    "5386999": {
+      "userId": "herrstucki",
+      "description": "Zipdecode Switzerland",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5386999/raw/fa552de02733d315aa803365160cee046aa3a3a5/thumbnail.png"
+    },
+    "5390755": {
+      "userId": "herrstucki",
+      "description": "ZipScribble Switzerland",
+      "thumbnail": "https://gist.githubusercontent.com/herrstucki/5390755/raw/a57508c6253718ef28e20a1837ea42e913576541/thumbnail.png"
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5503544": {
+      "userId": "mbostock",
+      "description": "Gist API Latency",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5503544/raw/4dfa96904b8170a8b7d08370b6183b41365dfa87/thumbnail.png"
+    },
+    "5544008": {
+      "userId": "mbostock",
+      "description": "Marey’s Trains",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5544008/raw/656b8239fe2a1771ce37565a30696f00211df2fc/thumbnail.png"
+    },
+    "5544621": {
+      "userId": "mbostock",
+      "description": "Marey’s Trains II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5544621/raw/ae2d8cecc452d3e3c8b529b52518e10f494d6002/thumbnail.png"
+    },
+    "5681842": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5681842/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5681974": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, IV",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5681974/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5682158": {
+      "userId": "mbostock",
+      "description": "Pie Chart Update, V",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5682158/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5798871": {
+      "userId": "biovisualize",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/biovisualize/5798871/raw/be90eb471c3572e5855824c7021f2de2b8eedd10/thumbnail.png"
+    },
+    "5874050": {
+      "userId": "jfsiii",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/jfsiii/5874050/raw/266c73d626bca2ed66ffff124d47abdad9f58d64/thumbnail.png"
+    },
+    "5912673": {
+      "userId": "mbostock",
+      "description": "Extradition Treaties",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5912673/raw/855e24df490be3e28861e48b6fd6e31687470528/thumbnail.png"
+    },
+    "5977197": {
+      "userId": "mbostock",
+      "description": "DRY Bar Chart",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/5977197/raw/6e9131d97a75c0a3564a5e0f718ee09921a25826/thumbnail.png"
+    },
+    "6059532": {
+      "userId": "mbostock",
+      "description": "Gradient Bump",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6059532/raw/b65eeaf584e0623c0c3efe0a47df4df4f230901a/thumbnail.png"
+    },
+    "6084963": {
+      "userId": "jfsiii",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/jfsiii/6084963/raw/efdd537e9693ec11e2f3e0ccfec0c923d2659739/thumbnail.png"
+    },
+    "6123708": {
+      "userId": "mbostock",
+      "description": "Drag + Zoom",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6123708/raw/79f267e13a06c284eba3daa0f81a59a0e731d04a/thumbnail.png"
+    },
+    "6618724": {
+      "userId": "mbostock",
+      "description": "Subsecond Ticks",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6618724/raw/5357085c6b01b0150a10589f05fe8079bae329f1/thumbnail.png"
+    },
+    "7014412": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7014412/raw/2375a1370645014affc4740791d2b1ad26f09711/thumbnail.png"
+    },
+    "7065313": {
+      "userId": "milroc",
+      "description": "",
+      "thumbnail": "https://gist.githubusercontent.com/milroc/7065313/raw/09533ec0f472ea5daf1afecebc15dbcbb4281a5c/thumbnail.png"
+    },
+    "7280327": {
+      "userId": "mbostock",
+      "description": "Shiboronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7280327/raw/d8085fdb18cf2ecec40d9c54a2b69c2ae0f6f0dd/thumbnail.png"
+    },
+    "7341714": {
+      "userId": "mbostock",
+      "description": "Bar Chart II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7341714/raw/716ce312be9f23b8e07df20fcef5eb572e755cb9/thumbnail.png"
+    },
+    "7440840": {
+      "userId": "mbostock",
+      "description": "Bar Chart III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7440840/raw/1ff36c6a6c6f3d76f08598a76398d8a24e80cbc1/thumbnail.png"
+    },
+    "7441121": {
+      "userId": "mbostock",
+      "description": "Bar Chart III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7441121/raw/1013e2a77ed820af7fc6c9fd60c967a38e88204f/thumbnail.png"
+    },
+    "7452541": {
+      "userId": "mbostock",
+      "description": "Bar Chart III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7452541/raw/8b6bf4ff7ff0d328388f3a9b6b94ce2158071898/thumbnail.png"
+    },
+    "7555321": {
+      "userId": "mbostock",
+      "description": "Wrapping Long Labels",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7555321/raw/a566d0c0915468c352c54b95492de3244ac41c73/thumbnail.png"
+    },
+    "8031385": {
+      "userId": "mbostock",
+      "description": "Processing Fixed-Width Data",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8031385/raw/e4530ebae0bd52e5e44d5284ea2416543b902968/thumbnail.png"
+    },
+    "8033015": {
+      "userId": "mbostock",
+      "description": "Multi-Line Voronoi",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/8033015/raw/c587fa05cb0617d8369d9b48d992ba09e940a8c6/thumbnail.png"
+    },
+    "8481411": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": "https://gist.githubusercontent.com/milroc/8481411/raw/9cd1b91c6c6eaf3d80549c23e5edac5b0c636f4b/thumbnail.png"
+    },
+    "9360565": {
+      "userId": "mbostock",
+      "description": "Clone Templates",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9360565/raw/caa76acaeaa08aaab65f44f2e848caef1e6fa702/thumbnail.png"
+    },
+    "9490313": {
+      "userId": "mbostock",
+      "description": "Small Multiples II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9490313/raw/0460870232e9979ada22074cc851476276ea623d/thumbnail.png"
+    },
+    "9490516": {
+      "userId": "mbostock",
+      "description": "Small Multiples III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9490516/raw/0460870232e9979ada22074cc851476276ea623d/thumbnail.png"
+    },
+    "9744818": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9744818/raw/e3f3399d1cf88cc7c0a5fa50bfc81754cdd48ec9/thumbnail.png"
+    },
+    "9748706": {
+      "userId": "mbostock",
+      "description": "Coastal Graph Distance II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/9748706/raw/859d73ee6d2f415e527e1b3d97046833a9b2f276/thumbnail.png"
+    },
+    "9842512": {
+      "userId": "milroc",
+      "description": "Fitts's Bar, I",
+      "thumbnail": ""
+    },
+    "9845999": {
+      "userId": "milroc",
+      "description": "Fitts's Bar, II",
+      "thumbnail": ""
+    },
+    "9852608": {
+      "userId": "seemantk",
+      "description": "Gentoo Galaxy Visualization",
+      "thumbnail": "https://gist.githubusercontent.com/seemantk/9852608/raw/7c29a56a469bf5c842656ebc70fb674c707374ea/thumbnail.png"
+    }
+  },
+  "count": 72,
+  "coocurance": {
+    "d3.select": 72,
+    "d3.selection": 4,
+    "d3.svg": 54,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.layout": 16,
+    "d3.layout.tree": 6,
+    "d3.tsv": 71,
+    "d3.merge": 5,
+    "d3.range": 9,
+    "d3.geo": 18,
+    "d3.geo.circle": 4,
+    "d3.geo.projection": 2,
+    "d3.geo.projectionMutator": 1,
+    "d3.geo.azimuthalEqualArea": 1,
+    "d3.geo.azimuthalEquidistant": 1,
+    "d3.geo.conicConformal": 1,
+    "d3.geo.conicEquidistant": 1,
+    "d3.geo.azimuthalEqualArea.raw": 1,
+    "d3.geo.azimuthalEquidistant.raw": 1,
+    "d3.geo.stream": 1,
+    "d3.geo.aitoff": 1,
+    "d3.geo.armadillo": 1,
+    "d3.geo.august": 1,
+    "d3.geo.baker": 1,
+    "d3.geo.berghaus": 1,
+    "d3.geo.boggs": 1,
+    "d3.geo.bonne": 4,
+    "d3.geo.bromley": 1,
+    "d3.geo.collignon": 1,
+    "d3.geo.craig": 1,
+    "d3.geo.craster": 1,
+    "d3.geo.cylindricalEqualArea": 1,
+    "d3.geo.eckert1": 1,
+    "d3.geo.eckert2": 1,
+    "d3.geo.eckert3": 1,
+    "d3.geo.eckert4": 1,
+    "d3.geo.eckert5": 1,
+    "d3.geo.eckert6": 1,
+    "d3.geo.eisenlohr": 1,
+    "d3.geo.gringorten": 1,
+    "d3.geo.guyou": 1,
+    "d3.geo.hammer": 1,
+    "d3.geo.hammerRetroazimuthal": 1,
+    "d3.geo.healpix": 1,
+    "d3.geo.hill": 1,
+    "d3.geo.homolosine": 1,
+    "d3.geo.kavrayskiy7": 1,
+    "d3.geo.lagrange": 1,
+    "d3.geo.larrivee": 1,
+    "d3.geo.laskowski": 1,
+    "d3.geo.littrow": 1,
+    "d3.geo.loximuthal": 1,
+    "d3.geo.miller": 1,
+    "d3.geo.mollweide": 1,
+    "d3.geo.mtFlatPolarParabolic": 1,
+    "d3.geo.mtFlatPolarQuartic": 1,
+    "d3.geo.mtFlatPolarSinusoidal": 1,
+    "d3.geo.naturalEarth": 2,
+    "d3.geo.nellHammer": 1,
+    "d3.geo.peirceQuincuncial": 1,
+    "d3.geo.polyconic": 1,
+    "d3.geo.robinson": 1,
+    "d3.geo.satellite": 1,
+    "d3.geo.sinusoidal": 1,
+    "d3.geo.sinuMollweide": 1,
+    "d3.geo.vanDerGrinten": 1,
+    "d3.geo.vanDerGrinten4": 1,
+    "d3.geo.wagner4": 1,
+    "d3.geo.wagner6": 1,
+    "d3.geo.wagner7": 1,
+    "d3.geo.wiechel": 1,
+    "d3.geo.winkel3": 1,
+    "d3.extent": 28,
+    "d3.json": 13,
+    "d3.scale": 63,
+    "d3.scale.linear": 47,
+    "d3.scale.sqrt": 6,
+    "d3.scale.ordinal": 23,
+    "d3.svg.line": 24,
+    "d3.svg.axis": 42,
+    "d3.geo.path": 13,
+    "d3.geo.graticule": 1,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 4,
+    "d3.behavior": 4,
+    "d3.behavior.zoom": 4,
+    "d3.selectAll": 13,
+    "d3.event": 5,
+    "d3.mouse": 7,
+    "d3.touch": 3,
+    "d3.touches": 3,
+    "d3.transition": 4,
+    "d3.ease": 4,
+    "d3.timer": 5,
+    "d3.timer.flush": 3,
+    "d3.interpolate": 12,
+    "d3.interpolateNumber": 3,
+    "d3.interpolateRound": 3,
+    "d3.interpolateString": 3,
+    "d3.interpolateRgb": 3,
+    "d3.interpolateHsl": 3,
+    "d3.interpolateLab": 5,
+    "d3.interpolateHcl": 5,
+    "d3.interpolateArray": 3,
+    "d3.interpolateObject": 3,
+    "d3.interpolateTransform": 3,
+    "d3.interpolators": 3,
+    "d3.ascending": 8,
+    "d3.descending": 3,
+    "d3.min": 11,
+    "d3.max": 32,
+    "d3.sum": 6,
+    "d3.mean": 3,
+    "d3.median": 4,
+    "d3.quantile": 3,
+    "d3.bisect": 4,
+    "d3.bisectRight": 3,
+    "d3.bisectLeft": 3,
+    "d3.bisector": 4,
+    "d3.permute": 3,
+    "d3.zip": 4,
+    "d3.transpose": 3,
+    "d3.keys": 9,
+    "d3.values": 3,
+    "d3.entries": 4,
+    "d3.nest": 15,
+    "d3.map": 6,
+    "d3.random.normal": 3,
+    "d3.transform": 3,
+    "d3.xhr": 4,
+    "d3.text": 3,
+    "d3.html": 3,
+    "d3.xml": 3,
+    "d3.csv": 5,
+    "d3.format": 17,
+    "d3.formatPrefix": 3,
+    "d3.requote": 3,
+    "d3.round": 3,
+    "d3.rgb": 3,
+    "d3.hsl": 4,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.ns.prefix": 3,
+    "d3.ns.qualify": 3,
+    "d3.functor": 4,
+    "d3.rebind": 3,
+    "d3.dispatch": 3,
+    "d3.scale.pow": 3,
+    "d3.scale.log": 5,
+    "d3.scale.quantize": 4,
+    "d3.scale.threshold": 4,
+    "d3.scale.quantile": 4,
+    "d3.scale.identity": 3,
+    "d3.scale.category": 20,
+    "d3.svg.line.radial": 3,
+    "d3.svg.area": 10,
+    "d3.svg.area.radial": 3,
+    "d3.svg.arc": 10,
+    "d3.svg.symbol": 4,
+    "d3.svg.symbolTypes": 3,
+    "d3.svg.chord": 3,
+    "d3.svg.brush": 4,
+    "d3.time": 32,
+    "d3.time.format": 29,
+    "d3.time.format.utc": 3,
+    "d3.time.format.iso": 3,
+    "d3.time.scale": 27,
+    "d3.time.day": 3,
+    "d3.time.days": 3,
+    "d3.time.dayOfYear": 3,
+    "d3.time.hour": 3,
+    "d3.time.hours": 3,
+    "d3.time.minute": 3,
+    "d3.time.minutes": 3,
+    "d3.time.month": 3,
+    "d3.time.months": 3,
+    "d3.time.second": 3,
+    "d3.time.seconds": 3,
+    "d3.time.sunday": 3,
+    "d3.time.sundayOfYear": 3,
+    "d3.time.monday": 3,
+    "d3.time.mondayOfYear": 3,
+    "d3.time.week": 3,
+    "d3.time.weeks": 3,
+    "d3.time.weekOfYear": 3,
+    "d3.time.year": 3,
+    "d3.time.years": 3,
+    "d3.layout.bundle": 3,
+    "d3.layout.chord": 3,
+    "d3.layout.cluster": 3,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 3,
+    "d3.layout.histogram": 3,
+    "d3.layout.pack": 3,
+    "d3.layout.partition": 3,
+    "d3.layout.pie": 9,
+    "d3.layout.stack": 8,
+    "d3.layout.treemap": 4,
+    "d3.geo.bounds": 3,
+    "d3.geo.albers": 11,
+    "d3.geo.albersUsa": 7,
+    "d3.geom": 6,
+    "d3.geom.voronoi": 6,
+    "d3.geom.quadtree": 3,
+    "d3.geom.polygon": 3,
+    "d3.geom.hull": 3,
+    "d3.behavior.drag": 4,
+    "d3.geom.contour": 3,
+    "d3.set": 2,
+    "d3.hexbin": 1,
+    "d3.geo.centroid": 1,
+    "d3.geo.orthographic": 1,
+    "d3.csv.parse": 1,
+    "d3.tsv.parse": 1
+  }
+}

@@ -1,0 +1,1055 @@
+{
+  "api": "d3.interpolateHsl",
+  "blocks": {
+    "1595803": {
+      "userId": "zjonsson",
+      "description": "Internalizing chart variables (mod)",
+      "thumbnail": ""
+    },
+    "2165875": {
+      "userId": "enjalot",
+      "description": "inlets for tributary",
+      "thumbnail": ""
+    },
+    "2958148": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "2958511": {
+      "userId": "enjalot",
+      "description": "Basic animation",
+      "thumbnail": ""
+    },
+    "2958513": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "2958568": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "2958632": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "2958633": {
+      "userId": "enjalot",
+      "description": "color tubes",
+      "thumbnail": ""
+    },
+    "2958638": {
+      "userId": "enjalot",
+      "description": "rainbow hand",
+      "thumbnail": ""
+    },
+    "2958639": {
+      "userId": "enjalot",
+      "description": "more colors",
+      "thumbnail": ""
+    },
+    "3014589": {
+      "userId": "mbostock",
+      "description": "L*a*b* and HCL color spaces",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3014589/raw/8a1d8b16e3807e674f4cbc42ece48cbc0ab5708c/thumbnail.png"
+    },
+    "3088657": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3091807": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3091810": {
+      "userId": "enjalot",
+      "description": "HSL Gradient",
+      "thumbnail": ""
+    },
+    "3091849": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3094977": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3107806": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3107928": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3108107": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3108123": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3108149": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3126967": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127000": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127012": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127086": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127089": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127174": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3127211": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3159165": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3159196": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3159202": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196064": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196074": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196077": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196115": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196132": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196144": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196166": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196172": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196178": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196180": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196182": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196183": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196187": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196192": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196195": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196199": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196200": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196206": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196213": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196220": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196228": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196237": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196245": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196246": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196255": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196259": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196262": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196264": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196277": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196279": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196297": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196302": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196304": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196313": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3196315": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3200061": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3271744": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3271763": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3271816": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3279883": {
+      "userId": "syntagmatic",
+      "description": "Miso CSV Upload",
+      "thumbnail": ""
+    },
+    "3292837": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3292838": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3292841": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3292853": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3306234": {
+      "userId": "mbostock",
+      "description": "d3.time.format localization",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3306234/raw/526e384fbdb1ae9f6c94184bd61f71e3f194a505/thumbnail.png"
+    },
+    "3375868": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3375878": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3388495": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3589712": {
+      "userId": "NelsonMinar",
+      "description": "windhistory.com D3 code",
+      "thumbnail": ""
+    },
+    "3614406": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3615368": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3615389": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3615641": {
+      "userId": "syntagmatic",
+      "description": "d3 color interpolators",
+      "thumbnail": ""
+    },
+    "3615704": {
+      "userId": "syntagmatic",
+      "description": "3 color scale",
+      "thumbnail": ""
+    },
+    "3650755": {
+      "userId": "enjalot",
+      "description": "color scales",
+      "thumbnail": ""
+    },
+    "3692257": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3692343": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693489": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693535": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693540": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693568": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693574": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693581": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3693586": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3743077": {
+      "userId": "jasondavies",
+      "description": "Changing Zoom Domain",
+      "thumbnail": ""
+    },
+    "3802632": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3824411": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3824414": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3861966": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3862518": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3897603": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3897791": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "3901618": {
+      "userId": "enjalot",
+      "description": "just another inlet to tributary",
+      "thumbnail": ""
+    },
+    "4082681": {
+      "userId": "NelsonMinar",
+      "description": "Demonstration of red/blue interpolation options",
+      "thumbnail": ""
+    },
+    "4103212": {
+      "userId": "enjalot",
+      "description": "tesssttt",
+      "thumbnail": ""
+    },
+    "4103230": {
+      "userId": "enjalot",
+      "description": "tesssttt",
+      "thumbnail": ""
+    },
+    "4241090": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4241836": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4241906": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4241962": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4241987": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4241995": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4242043": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4242118": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4242295": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4242306": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4242642": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4242644": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4429641": {
+      "userId": "enjalot",
+      "description": "Pythagorean Triples",
+      "thumbnail": ""
+    },
+    "4429648": {
+      "userId": "enjalot",
+      "description": "Pythagorean Triples",
+      "thumbnail": ""
+    },
+    "4450106": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4450112": {
+      "userId": "enjalot",
+      "description": "Another Inlet",
+      "thumbnail": ""
+    },
+    "4523810": {
+      "userId": "enjalot",
+      "description": "An inlet to Tributary",
+      "thumbnail": ""
+    },
+    "4584638": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "4736151": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "4747891": {
+      "userId": "enjalot",
+      "description": "Rolling hills",
+      "thumbnail": ""
+    },
+    "5174963": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "5480231": {
+      "userId": "milroc",
+      "description": null,
+      "thumbnail": ""
+    },
+    "5653815": {
+      "userId": "enjalot",
+      "description": "ascii img chinese zeffii",
+      "thumbnail": ""
+    },
+    "5653820": {
+      "userId": "enjalot",
+      "description": "ascii img chinese EJ2",
+      "thumbnail": ""
+    },
+    "5653838": {
+      "userId": "enjalot",
+      "description": "ascii img chinese sarah",
+      "thumbnail": ""
+    },
+    "5655296": {
+      "userId": "enjalot",
+      "description": "ascii img chinese enj",
+      "thumbnail": ""
+    },
+    "5655304": {
+      "userId": "enjalot",
+      "description": "ascii img chinese weezy",
+      "thumbnail": ""
+    },
+    "5655308": {
+      "userId": "enjalot",
+      "description": "ascii img chinese ljeezy",
+      "thumbnail": ""
+    },
+    "5655325": {
+      "userId": "enjalot",
+      "description": "ascii img chinese biovisualize",
+      "thumbnail": ""
+    },
+    "5746180": {
+      "userId": "timelyportfolio",
+      "description": "put together Gist for new Rickshaw [multi renderer]",
+      "thumbnail": ""
+    },
+    "5768048": {
+      "userId": "enjalot",
+      "description": "ascii img chinese nateje",
+      "thumbnail": ""
+    },
+    "5835837": {
+      "userId": "enjalot",
+      "description": "choosing colors",
+      "thumbnail": ""
+    },
+    "5862283": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "6076955": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "6076979": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "6077331": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "6094380": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "6096287": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "6243985": {
+      "userId": "gelicia",
+      "description": "color scales",
+      "thumbnail": ""
+    },
+    "6384402": {
+      "userId": "gelicia",
+      "description": "xor circles",
+      "thumbnail": ""
+    },
+    "6389274": {
+      "userId": "gelicia",
+      "description": "xor squares",
+      "thumbnail": ""
+    },
+    "6418413": {
+      "userId": "enjalot",
+      "description": "gif experiment xor circles",
+      "thumbnail": ""
+    },
+    "6418604": {
+      "userId": "enjalot",
+      "description": "gif experiment xor circles",
+      "thumbnail": ""
+    },
+    "6433268": {
+      "userId": "enjalot",
+      "description": "Basic animation",
+      "thumbnail": ""
+    },
+    "6479360": {
+      "userId": "enjalot",
+      "description": "anim test",
+      "thumbnail": ""
+    },
+    "6479585": {
+      "userId": "enjalot",
+      "description": "tributary.anim",
+      "thumbnail": ""
+    },
+    "6480276": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "6499445": {
+      "userId": "enjalot",
+      "description": "fork it",
+      "thumbnail": ""
+    },
+    "6505977": {
+      "userId": "enjalot",
+      "description": "dots more colors",
+      "thumbnail": ""
+    },
+    "6566673": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "6640391": {
+      "userId": "enjalot",
+      "description": "reddit brush",
+      "thumbnail": ""
+    },
+    "6684778": {
+      "userId": "gelicia",
+      "description": "red and black",
+      "thumbnail": ""
+    },
+    "6690695": {
+      "userId": "gelicia",
+      "description": "i wish this was a mustache emporium",
+      "thumbnail": ""
+    },
+    "6707845": {
+      "userId": "gelicia",
+      "description": "simplified aspiring mustache emporium",
+      "thumbnail": ""
+    },
+    "6708323": {
+      "userId": "enjalot",
+      "description": "simplified aspiring mustache emporium",
+      "thumbnail": ""
+    },
+    "6708338": {
+      "userId": "enjalot",
+      "description": "mustache phase",
+      "thumbnail": ""
+    },
+    "6708450": {
+      "userId": "gelicia",
+      "description": "mustache phase",
+      "thumbnail": ""
+    },
+    "6955303": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "6955433": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "6955548": {
+      "userId": "enjalot",
+      "description": "Tributary inlet",
+      "thumbnail": ""
+    },
+    "7050349": {
+      "userId": "enjalot",
+      "description": "ascii img chinese d3visualization",
+      "thumbnail": ""
+    },
+    "7159359": {
+      "userId": "enjalot",
+      "description": "reddit base",
+      "thumbnail": ""
+    },
+    "7159762": {
+      "userId": "enjalot",
+      "description": "reddit base",
+      "thumbnail": ""
+    },
+    "7159784": {
+      "userId": "enjalot",
+      "description": "rectangles",
+      "thumbnail": ""
+    },
+    "7159797": {
+      "userId": "enjalot",
+      "description": "scatterplot",
+      "thumbnail": ""
+    },
+    "7162280": {
+      "userId": "enjalot",
+      "description": "html5devconf project",
+      "thumbnail": ""
+    },
+    "7726273": {
+      "userId": "gelicia",
+      "description": "MEI Data - City",
+      "thumbnail": ""
+    },
+    "9613969": {
+      "userId": "enjalot",
+      "description": "you’ve got blue / green eyes BADGE",
+      "thumbnail": ""
+    },
+    "9613979": {
+      "userId": "enjalot",
+      "description": "starfish BADGE",
+      "thumbnail": ""
+    },
+    "9614001": {
+      "userId": "enjalot",
+      "description": "Tributary inlet BADGE",
+      "thumbnail": ""
+    },
+    "9614102": {
+      "userId": "enjalot",
+      "description": "sin waves",
+      "thumbnail": ""
+    },
+    "9614207": {
+      "userId": "enjalot",
+      "description": "gif experiment xor circles BADGE",
+      "thumbnail": ""
+    }
+  },
+  "count": 179,
+  "coocurance": {
+    "d3.select": 166,
+    "d3.interpolate": 179,
+    "d3.interpolateRgb": 50,
+    "d3.interpolateLab": 12,
+    "d3.interpolateHcl": 14,
+    "d3.keys": 8,
+    "d3.entries": 9,
+    "d3.range": 87,
+    "d3.scale": 114,
+    "d3.scale.linear": 110,
+    "d3.scale.ordinal": 24,
+    "d3.interpolateHsl": 178,
+    "d3.selectAll": 34,
+    "d3.selection": 5,
+    "d3.event": 21,
+    "d3.mouse": 24,
+    "d3.touch": 4,
+    "d3.touches": 4,
+    "d3.transition": 5,
+    "d3.ease": 16,
+    "d3.timer": 5,
+    "d3.timer.flush": 5,
+    "d3.interpolateNumber": 5,
+    "d3.interpolateRound": 5,
+    "d3.interpolateString": 5,
+    "d3.interpolateArray": 5,
+    "d3.interpolateObject": 5,
+    "d3.interpolateTransform": 5,
+    "d3.interpolators": 5,
+    "d3.ascending": 5,
+    "d3.descending": 5,
+    "d3.min": 15,
+    "d3.max": 18,
+    "d3.extent": 18,
+    "d3.sum": 5,
+    "d3.mean": 5,
+    "d3.median": 5,
+    "d3.quantile": 5,
+    "d3.bisect": 14,
+    "d3.bisectRight": 5,
+    "d3.bisectLeft": 5,
+    "d3.bisector": 4,
+    "d3.permute": 5,
+    "d3.zip": 5,
+    "d3.transpose": 5,
+    "d3.values": 5,
+    "d3.merge": 5,
+    "d3.nest": 5,
+    "d3.map": 4,
+    "d3.transform": 5,
+    "d3.xhr": 5,
+    "d3.text": 5,
+    "d3.json": 9,
+    "d3.html": 5,
+    "d3.xml": 5,
+    "d3.csv": 4,
+    "d3.format": 6,
+    "d3.formatPrefix": 5,
+    "d3.requote": 5,
+    "d3.round": 5,
+    "d3.csv.parse": 1,
+    "d3.csv.parseRows": 1,
+    "d3.csv.format": 1,
+    "d3.rgb": 16,
+    "d3.hsl": 5,
+    "d3.ns.prefix": 5,
+    "d3.ns.qualify": 5,
+    "d3.functor": 5,
+    "d3.rebind": 6,
+    "d3.dispatch": 6,
+    "d3.scale.sqrt": 5,
+    "d3.scale.pow": 5,
+    "d3.scale.log": 6,
+    "d3.scale.quantize": 5,
+    "d3.scale.quantile": 5,
+    "d3.scale.identity": 4,
+    "d3.scale.category": 19,
+    "d3.svg": 41,
+    "d3.svg.line": 32,
+    "d3.svg.line.radial": 5,
+    "d3.svg.area": 6,
+    "d3.svg.area.radial": 5,
+    "d3.svg.arc": 9,
+    "d3.svg.symbol": 5,
+    "d3.svg.symbolTypes": 5,
+    "d3.svg.chord": 5,
+    "d3.svg.diagonal": 5,
+    "d3.svg.diagonal.radial": 5,
+    "d3.svg.axis": 11,
+    "d3.svg.brush": 8,
+    "d3.time": 6,
+    "d3.time.format": 4,
+    "d3.time.format.utc": 4,
+    "d3.time.format.iso": 4,
+    "d3.time.scale": 5,
+    "d3.time.day": 4,
+    "d3.time.days": 4,
+    "d3.time.dayOfYear": 4,
+    "d3.time.hour": 4,
+    "d3.time.hours": 4,
+    "d3.time.minute": 4,
+    "d3.time.minutes": 4,
+    "d3.time.month": 4,
+    "d3.time.months": 4,
+    "d3.time.second": 4,
+    "d3.time.seconds": 4,
+    "d3.time.sunday": 4,
+    "d3.time.sundayOfYear": 4,
+    "d3.time.monday": 4,
+    "d3.time.mondayOfYear": 4,
+    "d3.time.week": 4,
+    "d3.time.weeks": 4,
+    "d3.time.weekOfYear": 4,
+    "d3.time.year": 4,
+    "d3.time.years": 4,
+    "d3.layout": 6,
+    "d3.layout.bundle": 4,
+    "d3.layout.chord": 4,
+    "d3.layout.cluster": 4,
+    "d3.layout.force": 4,
+    "d3.layout.hierarchy": 4,
+    "d3.layout.histogram": 4,
+    "d3.layout.pack": 4,
+    "d3.layout.partition": 4,
+    "d3.layout.pie": 5,
+    "d3.layout.stack": 5,
+    "d3.layout.tree": 4,
+    "d3.layout.treemap": 4,
+    "d3.geo": 13,
+    "d3.geo.path": 5,
+    "d3.geo.circle": 4,
+    "d3.geo.bounds": 4,
+    "d3.geo.albers": 5,
+    "d3.geo.albersUsa": 5,
+    "d3.geo.equirectangular": 4,
+    "d3.geo.mercator": 5,
+    "d3.geom": 11,
+    "d3.geom.voronoi": 11,
+    "d3.geom.quadtree": 4,
+    "d3.geom.polygon": 11,
+    "d3.geom.hull": 4,
+    "d3.behavior": 18,
+    "d3.behavior.drag": 18,
+    "d3.behavior.zoom": 5,
+    "d3.geom.contour": 4,
+    "d3.geo.bonne": 4,
+    "d3.random.normal": 3,
+    "d3.tsv": 3,
+    "d3.lab": 3,
+    "d3.hcl": 3,
+    "d3.scale.threshold": 3,
+    "d3.geo.tile": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "api": "d3.interpolateZoom",
+  "blocks": {
+    "3828981": {
+      "userId": "mbostock",
+      "description": "van Wijk Smooth Zooming",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/3828981/raw/2b993736c8b08bc227e2c041858cb9c87ed9b5e2/thumbnail.png"
+    },
+    "6301817": {
+      "userId": "mbostock",
+      "description": "Map Zooming II",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6301817/raw/f842017d6a32d0ad639a7535b15e3f5a2d594fcc/thumbnail.png"
+    },
+    "6301872": {
+      "userId": "mbostock",
+      "description": "Map Zooming III",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/6301872/raw/be446eb20d3bae51dadd9e4e2ad2d14c090a1ab4/thumbnail.png"
+    },
+    "7607535": {
+      "userId": "mbostock",
+      "description": "Zoomable Circle Packing",
+      "thumbnail": "https://gist.githubusercontent.com/mbostock/7607535/raw/19ead3729418158e4d457ffaa2c875823c9bb354/thumbnail.png"
+    }
+  },
+  "count": 4,
+  "coocurance": {
+    "d3.select": 4,
+    "d3.event": 3,
+    "d3.transition": 1,
+    "d3.interpolate": 4,
+    "d3.interpolateHcl": 1,
+    "d3.json": 3,
+    "d3.scale": 2,
+    "d3.scale.linear": 2,
+    "d3.layout": 1,
+    "d3.layout.pack": 1,
+    "d3.mouse": 2,
+    "d3.touch": 2,
+    "d3.touches": 2,
+    "d3.interpolateZoom": 3,
+    "d3.geo": 2,
+    "d3.geo.path": 2,
+    "d3.geo.mercator": 2,
+    "d3.geo.transform": 2,
+    "d3.geo.clipExtent": 2,
+    "d3.hexbin": 1
+  }
+}
