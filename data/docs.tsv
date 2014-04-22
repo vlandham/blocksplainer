@@ -1,0 +1,622 @@
+command	main	sub
+d3.select	d3 (core)	Selections]
+d3.selectAll	d3 (core)	Selections]
+selection.attr	d3 (core)	Selections]
+selection.classed	d3 (core)	Selections]
+selection.style	d3 (core)	Selections]
+selection.property	d3 (core)	Selections]
+selection.text	d3 (core)	Selections]
+selection.html	d3 (core)	Selections]
+selection.append	d3 (core)	Selections]
+selection.insert	d3 (core)	Selections]
+selection.remove	d3 (core)	Selections]
+selection.data	d3 (core)	Selections]
+selection.enter	d3 (core)	Selections]
+selection.exit	d3 (core)	Selections]
+selection.datum	d3 (core)	Selections]
+selection.filter	d3 (core)	Selections]
+selection.sort	d3 (core)	Selections]
+selection.order	d3 (core)	Selections]
+selection.on	d3 (core)	Selections]
+selection.transition	d3 (core)	Selections]
+selection.interrupt	d3 (core)	Selections]
+selection.each	d3 (core)	Selections]
+selection.call	d3 (core)	Selections]
+selection.empty	d3 (core)	Selections]
+selection.node	d3 (core)	Selections]
+selection.size	d3 (core)	Selections]
+selection.select	d3 (core)	Selections]
+selection.selectAll	d3 (core)	Selections]
+d3.selection	d3 (core)	Selections]
+d3.event	d3 (core)	Selections]
+d3.mouse	d3 (core)	Selections]
+d3.touch	d3 (core)	Selections]
+d3.touches	d3 (core)	Selections]
+d3.transition	d3 (core)	Transitions
+transition.delay	d3 (core)	Transitions
+transition.duration	d3 (core)	Transitions
+transition.ease	d3 (core)	Transitions
+transition.attr	d3 (core)	Transitions
+transition.attrTween	d3 (core)	Transitions
+transition.style	d3 (core)	Transitions
+transition.styleTween	d3 (core)	Transitions
+transition.text	d3 (core)	Transitions
+transition.tween	d3 (core)	Transitions
+transition.select	d3 (core)	Transitions
+transition.selectAll	d3 (core)	Transitions
+transition.filter	d3 (core)	Transitions
+transition.transition	d3 (core)	Transitions
+transition.remove	d3 (core)	Transitions
+transition.empty	d3 (core)	Transitions
+transition.node	d3 (core)	Transitions
+transition.size	d3 (core)	Transitions
+transition.each	d3 (core)	Transitions
+transition.call	d3 (core)	Transitions
+d3.ease	d3 (core)	Transitions
+ease	d3 (core)	Transitions
+d3.timer	d3 (core)	Transitions
+d3.timer.flush	d3 (core)	Transitions
+d3.interpolate	d3 (core)	Transitions
+interpolate	d3 (core)	Transitions
+d3.interpolateNumber	d3 (core)	Transitions
+d3.interpolateRound	d3 (core)	Transitions
+d3.interpolateString	d3 (core)	Transitions
+d3.interpolateRgb	d3 (core)	Transitions
+d3.interpolateHsl	d3 (core)	Transitions
+d3.interpolateLab	d3 (core)	Transitions
+d3.interpolateHcl	d3 (core)	Transitions
+d3.interpolateArray	d3 (core)	Transitions
+d3.interpolateObject	d3 (core)	Transitions
+d3.interpolateTransform	d3 (core)	Transitions
+d3.interpolateZoom	d3 (core)	Transitions
+d3.interpolators	d3 (core)	Transitions
+d3.ascending	d3 (core)	Working with Arrays|Arrays]
+d3.descending	d3 (core)	Working with Arrays|Arrays]
+d3.min	d3 (core)	Working with Arrays|Arrays]
+d3.max	d3 (core)	Working with Arrays|Arrays]
+d3.extent	d3 (core)	Working with Arrays|Arrays]
+d3.sum	d3 (core)	Working with Arrays|Arrays]
+d3.mean	d3 (core)	Working with Arrays|Arrays]
+d3.median	d3 (core)	Working with Arrays|Arrays]
+d3.quantile	d3 (core)	Working with Arrays|Arrays]
+d3.bisect	d3 (core)	Working with Arrays|Arrays]
+d3.bisectRight	d3 (core)	Working with Arrays|Arrays]
+d3.bisectLeft	d3 (core)	Working with Arrays|Arrays]
+d3.bisector	d3 (core)	Working with Arrays|Arrays]
+d3.shuffle	d3 (core)	Working with Arrays|Arrays]
+d3.permute	d3 (core)	Working with Arrays|Arrays]
+d3.zip	d3 (core)	Working with Arrays|Arrays]
+d3.transpose	d3 (core)	Working with Arrays|Arrays]
+d3.pairs	d3 (core)	Working with Arrays|Arrays]
+d3.keys	d3 (core)	Working with Arrays|Arrays]
+d3.values	d3 (core)	Working with Arrays|Arrays]
+d3.entries	d3 (core)	Working with Arrays|Arrays]
+d3.merge	d3 (core)	Working with Arrays|Arrays]
+d3.range	d3 (core)	Working with Arrays|Arrays]
+d3.nest	d3 (core)	Working with Arrays|Arrays]
+nest.key	d3 (core)	Working with Arrays|Arrays]
+nest.sortKeys	d3 (core)	Working with Arrays|Arrays]
+nest.sortValues	d3 (core)	Working with Arrays|Arrays]
+nest.rollup	d3 (core)	Working with Arrays|Arrays]
+nest.map	d3 (core)	Working with Arrays|Arrays]
+nest.entries	d3 (core)	Working with Arrays|Arrays]
+d3.map	d3 (core)	Working with Arrays|Arrays]
+map.has	d3 (core)	Working with Arrays|Arrays]
+map.get	d3 (core)	Working with Arrays|Arrays]
+map.set	d3 (core)	Working with Arrays|Arrays]
+map.remove	d3 (core)	Working with Arrays|Arrays]
+map.keys	d3 (core)	Working with Arrays|Arrays]
+map.values	d3 (core)	Working with Arrays|Arrays]
+map.entries	d3 (core)	Working with Arrays|Arrays]
+map.forEach	d3 (core)	Working with Arrays|Arrays]
+map.empty	d3 (core)	Working with Arrays|Arrays]
+map.size	d3 (core)	Working with Arrays|Arrays]
+d3.set	d3 (core)	Working with Arrays|Arrays]
+set.has	d3 (core)	Working with Arrays|Arrays]
+set.add	d3 (core)	Working with Arrays|Arrays]
+set.remove	d3 (core)	Working with Arrays|Arrays]
+set.values	d3 (core)	Working with Arrays|Arrays]
+set.forEach	d3 (core)	Working with Arrays|Arrays]
+set.empty	d3 (core)	Working with Arrays|Arrays]
+set.size	d3 (core)	Working with Arrays|Arrays]
+d3.random.normal	d3 (core)	Math]
+d3.random.logNormal	d3 (core)	Math]
+d3.random.bates	d3 (core)	Math]
+d3.random.irwinHall	d3 (core)	Math]
+d3.transform	d3 (core)	Math]
+d3.xhr	d3 (core)	Loading External Resources|Requests]
+xhr.header	d3 (core)	Loading External Resources|Requests]
+xhr.mimeType	d3 (core)	Loading External Resources|Requests]
+xhr.response	d3 (core)	Loading External Resources|Requests]
+xhr.get	d3 (core)	Loading External Resources|Requests]
+xhr.post	d3 (core)	Loading External Resources|Requests]
+xhr.send	d3 (core)	Loading External Resources|Requests]
+xhr.abort	d3 (core)	Loading External Resources|Requests]
+xhr.on	d3 (core)	Loading External Resources|Requests]
+d3.text	d3 (core)	Loading External Resources|Requests]
+d3.json	d3 (core)	Loading External Resources|Requests]
+d3.html	d3 (core)	Loading External Resources|Requests]
+d3.xml	d3 (core)	Loading External Resources|Requests]
+d3.csv	d3 (core)	Loading External Resources|Requests]
+d3.tsv	d3 (core)	Loading External Resources|Requests]
+d3.format	d3 (core)	String Formatting|Formatting]
+SI prefix	d3 (core)	String Formatting|Formatting]
+d3.requote	d3 (core)	String Formatting|Formatting]
+d3.round	d3 (core)	String Formatting|Formatting]
+d3.csv	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.csv.parse	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.csv.parseRows	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.csv.format	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.csv.formatRows	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.tsv	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.tsv.parse	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.tsv.parseRows	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.tsv.format	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.tsv.formatRows	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.dsv	d3 (core)	CSV Formatting (d3.csv)|CSV]
+d3.locale	d3 (core)	Localization]
+locale.numberFormat	d3 (core)	Localization]
+locale.timeFormat	d3 (core)	Localization]
+d3.rgb	d3 (core)	Colors]
+rgb.brighter	d3 (core)	Colors]
+rgb.darker	d3 (core)	Colors]
+rgb.hsl	d3 (core)	Colors]
+rgb.toString	d3 (core)	Colors]
+d3.hsl	d3 (core)	Colors]
+hsl.brighter	d3 (core)	Colors]
+hsl.darker	d3 (core)	Colors]
+hsl.rgb	d3 (core)	Colors]
+hsl.toString	d3 (core)	Colors]
+d3.lab	d3 (core)	Colors]
+lab.brighter	d3 (core)	Colors]
+lab.darker	d3 (core)	Colors]
+lab.rgb	d3 (core)	Colors]
+lab.toString	d3 (core)	Colors]
+d3.hcl	d3 (core)	Colors]
+hcl.brighter	d3 (core)	Colors]
+hcl.darker	d3 (core)	Colors]
+hcl.rgb	d3 (core)	Colors]
+hcl.toString	d3 (core)	Colors]
+d3.ns.prefix	d3 (core)	Namespaces]
+d3.ns.qualify	d3 (core)	Namespaces]
+d3.functor	d3 (core)	Internals]
+d3.rebind	d3 (core)	Internals]
+d3.dispatch	d3 (core)	Internals]
+dispatch.on	d3 (core)	Internals]
+dispatch.type	d3 (core)	Internals]
+d3.scale.linear	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.invert	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.rangeRound	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.interpolate	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.clamp	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.nice	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.ticks	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.tickFormat	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+linear.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.sqrt	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.pow	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.invert	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.rangeRound	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.interpolate	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.clamp	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.nice	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.ticks	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.tickFormat	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.exponent	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+pow.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.log	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.invert	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.rangeRound	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.interpolate	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.clamp	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.nice	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.ticks	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.tickFormat	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+log.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.quantize	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantize	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantize.invertExtent	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantize.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantize.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantize.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.threshold	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+threshold	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+threshold.invertExtent	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+threshold.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+threshold.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+threshold.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.quantile	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantile	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantile.invertExtent	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantile.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantile.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantile.quantiles	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+quantile.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.identity	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity.invert	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity.domain	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity.range	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity.ticks	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity.tickFormat	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+identity.copy	d3.scale (Scales)	Quantitative|Quantitative-Scales#wiki-quantitative]
+d3.scale.ordinal	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.domain	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.range	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.rangePoints	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.rangeBands	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.rangeRoundBands	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.rangeBand	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.rangeExtent	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+ordinal.copy	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+d3.scale.category10	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+d3.scale.category20	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+d3.scale.category20b	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+d3.scale.category20c	d3.scale (Scales)	Ordinal|Ordinal-Scales#wiki-ordinal]
+d3.svg.line	d3.svg (SVG)	Shapes|SVG-Shapes]
+line	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.x	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.y	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.interpolate	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.tension	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.defined	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.line.radial	d3.svg (SVG)	Shapes|SVG-Shapes]
+line	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.radius	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.angle	d3.svg (SVG)	Shapes|SVG-Shapes]
+line.defined	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.area	d3.svg (SVG)	Shapes|SVG-Shapes]
+area	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.x	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.x0	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.x1	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.y	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.y0	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.y1	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.interpolate	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.tension	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.defined	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.area.radial	d3.svg (SVG)	Shapes|SVG-Shapes]
+area	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.radius	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.innerRadius	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.outerRadius	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.angle	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.startAngle	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.endAngle	d3.svg (SVG)	Shapes|SVG-Shapes]
+area.defined	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.arc	d3.svg (SVG)	Shapes|SVG-Shapes]
+arc	d3.svg (SVG)	Shapes|SVG-Shapes]
+arc.innerRadius	d3.svg (SVG)	Shapes|SVG-Shapes]
+arc.outerRadius	d3.svg (SVG)	Shapes|SVG-Shapes]
+arc.startAngle	d3.svg (SVG)	Shapes|SVG-Shapes]
+arc.endAngle	d3.svg (SVG)	Shapes|SVG-Shapes]
+arc.centroid	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.symbol	d3.svg (SVG)	Shapes|SVG-Shapes]
+symbol	d3.svg (SVG)	Shapes|SVG-Shapes]
+symbol.type	d3.svg (SVG)	Shapes|SVG-Shapes]
+symbol.size	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.symbolTypes	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.chord	d3.svg (SVG)	Shapes|SVG-Shapes]
+chord	d3.svg (SVG)	Shapes|SVG-Shapes]
+chord.radius	d3.svg (SVG)	Shapes|SVG-Shapes]
+chord.startAngle	d3.svg (SVG)	Shapes|SVG-Shapes]
+chord.endAngle	d3.svg (SVG)	Shapes|SVG-Shapes]
+chord.source	d3.svg (SVG)	Shapes|SVG-Shapes]
+chord.target	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.diagonal	d3.svg (SVG)	Shapes|SVG-Shapes]
+diagonal	d3.svg (SVG)	Shapes|SVG-Shapes]
+diagonal.source	d3.svg (SVG)	Shapes|SVG-Shapes]
+diagonal.target	d3.svg (SVG)	Shapes|SVG-Shapes]
+diagonal.projection	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.diagonal.radial	d3.svg (SVG)	Shapes|SVG-Shapes]
+diagonal	d3.svg (SVG)	Shapes|SVG-Shapes]
+d3.svg.axis	d3.svg (SVG)	Axes|SVG-Axes]
+axis	d3.svg (SVG)	Axes|SVG-Axes]
+axis.scale	d3.svg (SVG)	Axes|SVG-Axes]
+axis.orient	d3.svg (SVG)	Axes|SVG-Axes]
+axis.ticks	d3.svg (SVG)	Axes|SVG-Axes]
+axis.tickValues	d3.svg (SVG)	Axes|SVG-Axes]
+axis.tickSize	d3.svg (SVG)	Axes|SVG-Axes]
+axis.innerTickSize	d3.svg (SVG)	Axes|SVG-Axes]
+axis.outerTickSize	d3.svg (SVG)	Axes|SVG-Axes]
+axis.tickPadding	d3.svg (SVG)	Axes|SVG-Axes]
+axis.tickFormat	d3.svg (SVG)	Axes|SVG-Axes]
+d3.svg.brush	d3.svg (SVG)	Controls
+brush	d3.svg (SVG)	Controls
+brush.x	d3.svg (SVG)	Controls
+brush.y	d3.svg (SVG)	Controls
+brush.extent	d3.svg (SVG)	Controls
+brush.clear	d3.svg (SVG)	Controls
+brush.empty	d3.svg (SVG)	Controls
+brush.on	d3.svg (SVG)	Controls
+brush.event	d3.svg (SVG)	Controls
+d3.time.format	d3.time (Time)	Time Formatting]
+format	d3.time (Time)	Time Formatting]
+format.parse	d3.time (Time)	Time Formatting]
+d3.time.format.multi	d3.time (Time)	Time Formatting]
+d3.time.format.utc	d3.time (Time)	Time Formatting]
+d3.time.format.iso	d3.time (Time)	Time Formatting]
+d3.time.scale	d3.time (Time)	Time Scales]
+scale	d3.time (Time)	Time Scales]
+scale.invert	d3.time (Time)	Time Scales]
+scale.domain	d3.time (Time)	Time Scales]
+scale.nice	d3.time (Time)	Time Scales]
+scale.range	d3.time (Time)	Time Scales]
+scale.rangeRound	d3.time (Time)	Time Scales]
+scale.interpolate	d3.time (Time)	Time Scales]
+scale.clamp	d3.time (Time)	Time Scales]
+scale.ticks	d3.time (Time)	Time Scales]
+scale.tickFormat	d3.time (Time)	Time Scales]
+scale.copy	d3.time (Time)	Time Scales]
+d3.time.interval	d3.time (Time)	Time Intervals]
+interval	d3.time (Time)	Time Intervals]
+interval.range	d3.time (Time)	Time Intervals]
+interval.floor	d3.time (Time)	Time Intervals]
+interval.round	d3.time (Time)	Time Intervals]
+interval.ceil	d3.time (Time)	Time Intervals]
+interval.offset	d3.time (Time)	Time Intervals]
+interval.utc	d3.time (Time)	Time Intervals]
+d3.time.day	d3.time (Time)	Time Intervals]
+d3.time.days	d3.time (Time)	Time Intervals]
+d3.time.dayOfYear	d3.time (Time)	Time Intervals]
+d3.time.hour	d3.time (Time)	Time Intervals]
+d3.time.hours	d3.time (Time)	Time Intervals]
+d3.time.minute	d3.time (Time)	Time Intervals]
+d3.time.minutes	d3.time (Time)	Time Intervals]
+d3.time.month	d3.time (Time)	Time Intervals]
+d3.time.months	d3.time (Time)	Time Intervals]
+d3.time.second	d3.time (Time)	Time Intervals]
+d3.time.seconds	d3.time (Time)	Time Intervals]
+d3.time.sunday	d3.time (Time)	Time Intervals]
+d3.time.sundays	d3.time (Time)	Time Intervals]
+d3.time.sundayOfYear	d3.time (Time)	Time Intervals]
+d3.time.monday	d3.time (Time)	Time Intervals]
+d3.time.mondays	d3.time (Time)	Time Intervals]
+d3.time.mondayOfYear	d3.time (Time)	Time Intervals]
+d3.time.tuesday	d3.time (Time)	Time Intervals]
+d3.time.tuesdays	d3.time (Time)	Time Intervals]
+d3.time.tuesdayOfYear	d3.time (Time)	Time Intervals]
+d3.time.wednesday	d3.time (Time)	Time Intervals]
+d3.time.wednesdays	d3.time (Time)	Time Intervals]
+d3.time.wednesdayOfYear	d3.time (Time)	Time Intervals]
+d3.time.thursday	d3.time (Time)	Time Intervals]
+d3.time.thursdays	d3.time (Time)	Time Intervals]
+d3.time.thursdayOfYear	d3.time (Time)	Time Intervals]
+d3.time.friday	d3.time (Time)	Time Intervals]
+d3.time.fridays	d3.time (Time)	Time Intervals]
+d3.time.fridayOfYear	d3.time (Time)	Time Intervals]
+d3.time.saturday	d3.time (Time)	Time Intervals]
+d3.time.saturdays	d3.time (Time)	Time Intervals]
+d3.time.saturdayOfYear	d3.time (Time)	Time Intervals]
+d3.time.week	d3.time (Time)	Time Intervals]
+d3.time.weeks	d3.time (Time)	Time Intervals]
+d3.time.weekOfYear	d3.time (Time)	Time Intervals]
+d3.time.year	d3.time (Time)	Time Intervals]
+d3.time.years	d3.time (Time)	Time Intervals]
+d3.layout.bundle	d3.layout (Layouts)	Bundle|Bundle-Layout]
+bundle	d3.layout (Layouts)	Bundle|Bundle-Layout]
+d3.layout.chord	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.matrix	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.padding	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.sortGroups	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.sortSubgroups	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.sortChords	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.chords	d3.layout (Layouts)	Chord|Chord-Layout]
+chord.groups	d3.layout (Layouts)	Chord|Chord-Layout]
+d3.layout.cluster	d3.layout (Layouts)	Cluster
+cluster	d3.layout (Layouts)	Cluster
+cluster.nodes	d3.layout (Layouts)	Cluster
+cluster.links	d3.layout (Layouts)	Cluster
+cluster.children	d3.layout (Layouts)	Cluster
+cluster.sort	d3.layout (Layouts)	Cluster
+cluster.separation	d3.layout (Layouts)	Cluster
+cluster.size	d3.layout (Layouts)	Cluster
+cluster.nodeSize	d3.layout (Layouts)	Cluster
+d3.layout.force	d3.layout (Layouts)	Force|Force-Layout]
+force.on	d3.layout (Layouts)	Force|Force-Layout]
+force.nodes	d3.layout (Layouts)	Force|Force-Layout]
+force.links	d3.layout (Layouts)	Force|Force-Layout]
+force.size	d3.layout (Layouts)	Force|Force-Layout]
+force.linkDistance	d3.layout (Layouts)	Force|Force-Layout]
+force.linkStrength	d3.layout (Layouts)	Force|Force-Layout]
+force.friction	d3.layout (Layouts)	Force|Force-Layout]
+force.charge	d3.layout (Layouts)	Force|Force-Layout]
+force.chargeDistance	d3.layout (Layouts)	Force|Force-Layout]
+force.gravity	d3.layout (Layouts)	Force|Force-Layout]
+force.theta	d3.layout (Layouts)	Force|Force-Layout]
+force.start	d3.layout (Layouts)	Force|Force-Layout]
+force.resume	d3.layout (Layouts)	Force|Force-Layout]
+force.stop	d3.layout (Layouts)	Force|Force-Layout]
+force.alpha	d3.layout (Layouts)	Force|Force-Layout]
+force.tick	d3.layout (Layouts)	Force|Force-Layout]
+force.drag	d3.layout (Layouts)	Force|Force-Layout]
+d3.layout.hierarchy	d3.layout (Layouts)	Hierarchy
+hierarchy	d3.layout (Layouts)	Hierarchy
+hierarchy.nodes	d3.layout (Layouts)	Hierarchy
+hierarchy.links	d3.layout (Layouts)	Hierarchy
+hierarchy.children	d3.layout (Layouts)	Hierarchy
+hierarchy.sort	d3.layout (Layouts)	Hierarchy
+hierarchy.value	d3.layout (Layouts)	Hierarchy
+hierarchy.revalue	d3.layout (Layouts)	Hierarchy
+d3.layout.histogram	d3.layout (Layouts)	Histogram|Histogram-Layout]
+histogram	d3.layout (Layouts)	Histogram|Histogram-Layout]
+histogram.value	d3.layout (Layouts)	Histogram|Histogram-Layout]
+histogram.range	d3.layout (Layouts)	Histogram|Histogram-Layout]
+histogram.bins	d3.layout (Layouts)	Histogram|Histogram-Layout]
+histogram.frequency	d3.layout (Layouts)	Histogram|Histogram-Layout]
+d3.layout.pack	d3.layout (Layouts)	Pack
+pack	d3.layout (Layouts)	Pack
+pack.nodes	d3.layout (Layouts)	Pack
+pack.links	d3.layout (Layouts)	Pack
+pack.children	d3.layout (Layouts)	Pack
+pack.sort	d3.layout (Layouts)	Pack
+pack.value	d3.layout (Layouts)	Pack
+pack.size	d3.layout (Layouts)	Pack
+pack.radius	d3.layout (Layouts)	Pack
+pack.padding	d3.layout (Layouts)	Pack
+d3.layout.partition	d3.layout (Layouts)	Partition
+partition	d3.layout (Layouts)	Partition
+partition.nodes	d3.layout (Layouts)	Partition
+partition.links	d3.layout (Layouts)	Partition
+partition.children	d3.layout (Layouts)	Partition
+partition.sort	d3.layout (Layouts)	Partition
+partition.value	d3.layout (Layouts)	Partition
+partition.size	d3.layout (Layouts)	Partition
+d3.layout.pie	d3.layout (Layouts)	Pie|Pie-Layout]
+pie	d3.layout (Layouts)	Pie|Pie-Layout]
+pie.value	d3.layout (Layouts)	Pie|Pie-Layout]
+pie.sort	d3.layout (Layouts)	Pie|Pie-Layout]
+pie.startAngle	d3.layout (Layouts)	Pie|Pie-Layout]
+pie.endAngle	d3.layout (Layouts)	Pie|Pie-Layout]
+d3.layout.stack	d3.layout (Layouts)	Stack|Stack-Layout]
+stack	d3.layout (Layouts)	Stack|Stack-Layout]
+stack.values	d3.layout (Layouts)	Stack|Stack-Layout]
+stack.order	d3.layout (Layouts)	Stack|Stack-Layout]
+stack.offset	d3.layout (Layouts)	Stack|Stack-Layout]
+stack.x	d3.layout (Layouts)	Stack|Stack-Layout]
+stack.y	d3.layout (Layouts)	Stack|Stack-Layout]
+stack.out	d3.layout (Layouts)	Stack|Stack-Layout]
+d3.layout.tree	d3.layout (Layouts)	Tree
+tree	d3.layout (Layouts)	Tree
+tree.nodes	d3.layout (Layouts)	Tree
+tree.links	d3.layout (Layouts)	Tree
+tree.children	d3.layout (Layouts)	Tree
+tree.sort	d3.layout (Layouts)	Tree
+tree.separation	d3.layout (Layouts)	Tree
+tree.size	d3.layout (Layouts)	Tree
+tree.nodeSize	d3.layout (Layouts)	Tree
+d3.layout.treemap	d3.layout (Layouts)	Treemap
+treemap	d3.layout (Layouts)	Treemap
+treemap.nodes	d3.layout (Layouts)	Treemap
+treemap.links	d3.layout (Layouts)	Treemap
+treemap.children	d3.layout (Layouts)	Treemap
+treemap.sort	d3.layout (Layouts)	Treemap
+treemap.value	d3.layout (Layouts)	Treemap
+treemap.size	d3.layout (Layouts)	Treemap
+treemap.padding	d3.layout (Layouts)	Treemap
+treemap.round	d3.layout (Layouts)	Treemap
+treemap.sticky	d3.layout (Layouts)	Treemap
+treemap.mode	d3.layout (Layouts)	Treemap
+d3.geo.path	d3.geo (Geography)	Paths
+path	d3.geo (Geography)	Paths
+path.projection	d3.geo (Geography)	Paths
+path.context	d3.geo (Geography)	Paths
+path.pointRadius	d3.geo (Geography)	Paths
+path.area	d3.geo (Geography)	Paths
+path.centroid	d3.geo (Geography)	Paths
+path.bounds	d3.geo (Geography)	Paths
+d3.geo.graticule	d3.geo (Geography)	Paths
+graticule	d3.geo (Geography)	Paths
+graticule.lines	d3.geo (Geography)	Paths
+graticule.outline	d3.geo (Geography)	Paths
+graticule.extent	d3.geo (Geography)	Paths
+graticule.majorExtent	d3.geo (Geography)	Paths
+graticule.minorExtent	d3.geo (Geography)	Paths
+graticule.step	d3.geo (Geography)	Paths
+graticule.majorStep	d3.geo (Geography)	Paths
+graticule.minorStep	d3.geo (Geography)	Paths
+graticule.precision	d3.geo (Geography)	Paths
+d3.geo.circle	d3.geo (Geography)	Paths
+circle	d3.geo (Geography)	Paths
+circle.origin	d3.geo (Geography)	Paths
+circle.angle	d3.geo (Geography)	Paths
+circle.precision	d3.geo (Geography)	Paths
+d3.geo.area	d3.geo (Geography)	Paths
+d3.geo.bounds	d3.geo (Geography)	Paths
+d3.geo.centroid	d3.geo (Geography)	Paths
+d3.geo.distance	d3.geo (Geography)	Paths
+d3.geo.interpolate	d3.geo (Geography)	Paths
+d3.geo.length	d3.geo (Geography)	Paths
+λ, φ, γ	d3.geo (Geography)	Paths
+rotation	d3.geo (Geography)	Paths
+rotation.invert	d3.geo (Geography)	Paths
+d3.geo.projection	d3.geo (Geography)	Projections|Geo-Projections]
+projection	d3.geo (Geography)	Projections|Geo-Projections]
+projection.invert	d3.geo (Geography)	Projections|Geo-Projections]
+projection.rotate	d3.geo (Geography)	Projections|Geo-Projections]
+projection.center	d3.geo (Geography)	Projections|Geo-Projections]
+projection.translate	d3.geo (Geography)	Projections|Geo-Projections]
+projection.scale	d3.geo (Geography)	Projections|Geo-Projections]
+projection.clipAngle	d3.geo (Geography)	Projections|Geo-Projections]
+projection.clipExtent	d3.geo (Geography)	Projections|Geo-Projections]
+projection.precision	d3.geo (Geography)	Projections|Geo-Projections]
+projection.stream	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.projectionMutator	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.albers	d3.geo (Geography)	Projections|Geo-Projections]
+albers.parallels	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.albersUsa	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.azimuthalEqualArea	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.azimuthalEquidistant	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.conicConformal	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.conicEquidistant	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.conicEqualArea	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.equirectangular	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.gnomonic	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.mercator	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.orthographic	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.stereographic	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.azimuthalEqualArea.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.azimuthalEquidistant.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.conicConformal.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.conicEquidistant.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.conicEqualArea.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.equirectangular.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.gnomonic.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.mercator.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.orthographic.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.stereographic.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.transverseMercator.raw	d3.geo (Geography)	Projections|Geo-Projections]
+d3.geo.stream	d3.geo (Geography)	Streams
+stream.point	d3.geo (Geography)	Streams
+stream.lineStart	d3.geo (Geography)	Streams
+stream.lineEnd	d3.geo (Geography)	Streams
+stream.polygonStart	d3.geo (Geography)	Streams
+stream.polygonEnd	d3.geo (Geography)	Streams
+stream.sphere	d3.geo (Geography)	Streams
+d3.geo.transform	d3.geo (Geography)	Streams
+transform.stream	d3.geo (Geography)	Streams
+d3.geo.clipExtent	d3.geo (Geography)	Streams
+clipExtent.extent	d3.geo (Geography)	Streams
+d3.geom.voronoi	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+voronoi	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+voronoi.x	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+voronoi.y	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+voronoi.clipExent	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+voronoi.links	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+voronoi.triangles	d3.geom (Geometry)	Voronoi|Voronoi-Geom]
+d3.geom.quadtree	d3.geom (Geometry)	Quadtree|Quadtree-Geom]
+quadtree.add	d3.geom (Geometry)	Quadtree|Quadtree-Geom]
+quadtree.visit	d3.geom (Geometry)	Quadtree|Quadtree-Geom]
+d3.geom.polygon	d3.geom (Geometry)	Polygon|Polygon-Geom]
+polygon.area	d3.geom (Geometry)	Polygon|Polygon-Geom]
+polygon.centroid	d3.geom (Geometry)	Polygon|Polygon-Geom]
+polygon.clip	d3.geom (Geometry)	Polygon|Polygon-Geom]
+d3.geom.hull	d3.geom (Geometry)	Hull|Hull-Geom]
+hull	d3.geom (Geometry)	Hull|Hull-Geom]
+hull.x	d3.geom (Geometry)	Hull|Hull-Geom]
+hull.y	d3.geom (Geometry)	Hull|Hull-Geom]
+d3.behavior.drag	d3.behavior (Behaviors)|Behaviors]	Drag|Drag-Behavior]
+drag.origin	d3.behavior (Behaviors)|Behaviors]	Drag|Drag-Behavior]
+drag.on	d3.behavior (Behaviors)|Behaviors]	Drag|Drag-Behavior]
+d3.behavior.zoom	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.scale	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.translate	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.scaleExtent	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.center	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.size	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.x	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.y	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.on	d3.behavior (Behaviors)|Behaviors]	Zoom
+zoom.event	d3.behavior (Behaviors)|Behaviors]	Zoom
