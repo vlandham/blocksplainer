@@ -52,7 +52,7 @@ ggsave("out/all_sizes.pdf", p, width = 12, height = 42)
 
 p <- ggplot(node_totals, aes(x=factor(origin, levels=as.character(node_totals$origin)), y=total, fill=type)) + labs(title="Total Blocks Using Each API", y="# of Blocks", x= "")
 p <- p + geom_bar(stat = "identity") + coord_flip() + vtheme
-ggsave("out/all_sizes_by_type.pdf", p, width = 12, height = 42)
+ggsave("out/all_sizes_by_type.pdf", p, width = 12, height = 48)
 
 m <- ggplot(node_connections, aes(x=links)) + labs(title = "Co-ocurrant Entries for Each API Call", x="Co-ocurranant API Calls")
 m <- m + geom_histogram(binwidth=5) + htheme
@@ -133,3 +133,7 @@ author_counts[author_counts$author == "enjalot", 'count'] # => 1301
 
 
 author_counts[author_counts$author == "vlandham", 'count'] # => 20
+sub <- subset(data, origin == "d3.range")
+p <- ggplot(sub, aes(x=origin, y=frequency, fill=target))
+p <- p + geom_bar(stat="identity", position = "stack") + coord_flip()
+p
