@@ -4,3 +4,8 @@ body, input, textarea {
   font-family: Georgia, "Times New Roman", Serif;
 }
 
+img {
+  margin: auto;
+  margin-bottom: 30px;
+}
+
