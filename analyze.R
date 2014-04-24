@@ -131,8 +131,10 @@ author_counts[author_counts$author == "mbostock", 'count'] # => 656
 author_counts[author_counts$author == "enjalot", 'count'] # => 1301
 (1301 + 656) / 2783
 
-
 author_counts[author_counts$author == "vlandham", 'count'] # => 20
+
+data <- merge(data, docs, by.x = "origin", by.y="command", sort = FALSE, all.x = TRUE, all.y = FALSE)
+targets_with_main <- merge(data, docs, by.x = "target", by.y="command", sort=FALSE, all.x=TRUE, all.y=FALSE)
 sub <- subset(data, origin == "d3.range")
 p <- ggplot(sub, aes(x=origin, y=frequency, fill=target))
 p <- p + geom_bar(stat="identity", position = "stack") + coord_flip()
